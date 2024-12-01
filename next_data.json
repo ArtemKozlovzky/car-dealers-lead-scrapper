@@ -1,0 +1,1464 @@
+{
+    "props": {
+        "pageProps": {
+            "url": "/about",
+            "pageTitle": "AUTO WOLTER  &  PRO-MOTORS  FABER  Automobile in Bergheim | AutoScout24",
+            "slug": "auto-wolter-und-pro-motors-faber-automobile",
+            "cultureIso": "de-DE",
+            "dealerInfoPage": {
+                "slug": "auto-wolter-und-pro-motors-faber-automobile",
+                "sellId": "2142113928",
+                "culture": "de-DE",
+                "customerName": "AUTO WOLTER  &  PRO-MOTORS  FABER  Automobile",
+                "customerId": 17816441,
+                "customerAddress": {
+                    "country": "DE",
+                    "zipCode": "50129",
+                    "city": "Bergheim",
+                    "street": "Ludwig-Erhard-Straße 9"
+                },
+                "customerPhoneNumbers": [
+                    "+49 (0)2238 - 945128",
+                    "+49 (0)163 - 7298478"
+                ],
+                "customerFaxNumbers": [
+                    "+49 (0)2238 - 945129"
+                ],
+                "callPhoneNumbers": [
+                    "+492238945128",
+                    "+491637298478"
+                ],
+                "homepageUrl": null,
+                "companyAddOn": "SUBARU Vertragspartner & EU-Import- & GW-Fahrzeuge",
+                "contactName": "Hajo Faber",
+                "ratings": {
+                    "reviews": [
+                        {
+                            "reviewId": "1732790811665|MTc4MTY0NDF8MGEzN2I2MTItN2M0My00YjJiLWFkOTgtMDNhZmNhOTEzMWYx",
+                            "stars": 5,
+                            "created": "28.11.2024",
+                            "name": "Kay",
+                            "grades": [
+                                {
+                                    "stars": 5,
+                                    "label": "Gesamteindruck"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Erreichbarkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Zuverlässigkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Angebotsbeschreibung"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Kaufprozess"
+                                }
+                            ],
+                            "reviewText": "Hr. Faber war sehr kompetent, freundlich und genauso zuverlässig. Vielen Dank nochmal ",
+                            "replyText": "",
+                            "replyCreated": null,
+                            "topRating": false
+                        },
+                        {
+                            "reviewId": "1731916450409|MTc4MTY0NDF8MDQ4Y2I5MDktZGYxZC00NTYzLTkzYTUtZjhjZjE4YTlkOWFl",
+                            "stars": 5,
+                            "created": "18.11.2024",
+                            "name": "Steff",
+                            "grades": [
+                                {
+                                    "stars": 5,
+                                    "label": "Gesamteindruck"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Erreichbarkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Zuverlässigkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Angebotsbeschreibung"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Kaufprozess"
+                                }
+                            ],
+                            "reviewText": "Ich kann nur Gutes sagen zur gesamten Kaufabwickelung. Alles wurde sehr professionell bearbeitet ",
+                            "replyText": "",
+                            "replyCreated": null,
+                            "topRating": false
+                        },
+                        {
+                            "reviewId": "1731670595028|MTc4MTY0NDF8MmRiNGM1NmMtODE3NC00ODA3LTljNTUtY2I5NDg4MTg3Mzli",
+                            "stars": 5,
+                            "created": "15.11.2024",
+                            "name": "LOLA",
+                            "grades": [
+                                {
+                                    "stars": 5,
+                                    "label": "Gesamteindruck"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Erreichbarkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Zuverlässigkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Angebotsbeschreibung"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Kaufprozess"
+                                }
+                            ],
+                            "reviewText": "Alles wurde zu meiner vollsten Zufriedenheit durchgeführt und ich wurde immer äußerst freundlich und kompetent bedient ",
+                            "replyText": "",
+                            "replyCreated": null,
+                            "topRating": false
+                        },
+                        {
+                            "reviewId": "1731577209718|MTc4MTY0NDF8NTg0NTExODctZGNmMC00N2ZiLWJjZTEtYzAxNDUzNmU3YTkw",
+                            "stars": 5,
+                            "created": "14.11.2024",
+                            "name": "Pablo ",
+                            "grades": [
+                                {
+                                    "stars": 5,
+                                    "label": "Gesamteindruck"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Erreichbarkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Zuverlässigkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Angebotsbeschreibung"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Kaufprozess"
+                                }
+                            ],
+                            "reviewText": "Es war meine erstes Mal das wir ein Auto gekauft haben und Herr Faber hat uns ganz toll geholfen. Er hat alle unsere Fragen beantwortet und uns jeden Schritt bis zur Zulassung erklärt. Neben bei haben wir natürlich auch einen tollen BMW bekommen und sind rundherum glücklich mit der gesamten Abwicklung.\nVielen Dank für die schnelle Lieferung ",
+                            "replyText": "",
+                            "replyCreated": null,
+                            "topRating": false
+                        },
+                        {
+                            "reviewId": "1728900307071|MTc4MTY0NDF8MDdkNDY0MjEtYjg5ZC00YmFiLWExM2QtYWJlNjBmZDYxZDkz",
+                            "stars": 5,
+                            "created": "12.11.2024",
+                            "name": "Anja ",
+                            "grades": [
+                                {
+                                    "stars": 5,
+                                    "label": "Gesamteindruck"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Erreichbarkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Zuverlässigkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Angebotsbeschreibung"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Kaufprozess"
+                                }
+                            ],
+                            "reviewText": "Das ist ein ganz vertrauensvoller und hilfsbereiter Händler. Ich fühle mich dort bestens betreut ",
+                            "replyText": "",
+                            "replyCreated": null,
+                            "topRating": false
+                        },
+                        {
+                            "reviewId": "1727256908315|MTc4MTY0NDF8NmEzYjQyYWQtYTVkYi00YmRhLTk4MzQtN2I2NWU0N2Y1MzZl",
+                            "stars": 5,
+                            "created": "20.10.2024",
+                            "name": "Alex",
+                            "grades": [
+                                {
+                                    "stars": 5,
+                                    "label": "Gesamteindruck"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Erreichbarkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Zuverlässigkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Angebotsbeschreibung"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Kaufprozess"
+                                }
+                            ],
+                            "reviewText": "Wir kommen gerne wieder weil wir einfach nur von Euch überzeugt wurden und ein tolles Fahrzeug heute fahren. Ebenfalls ist euer Service sehr gut und uns wird immer sofort professionell geholfen. ",
+                            "replyText": "",
+                            "replyCreated": null,
+                            "topRating": false
+                        },
+                        {
+                            "reviewId": "1727700787691|MTc4MTY0NDF8ZGIyYmZiNjAtMTNhMi00NWY3LTgzMmMtYjk3NDcwOTA4YmI4",
+                            "stars": 5,
+                            "created": "04.10.2024",
+                            "name": "Outback Platinum Cross",
+                            "grades": [
+                                {
+                                    "stars": 5,
+                                    "label": "Gesamteindruck"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Erreichbarkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Zuverlässigkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Angebotsbeschreibung"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Kaufprozess"
+                                }
+                            ],
+                            "reviewText": "Schon vorab der offiziellen Presseveröffentlichung über dieses Sondermodell hat mir der Händler Informationen hierüber besorgt, bereitgestellt und mir eine ausgiebige Probefahrt eines vergleichbaren Serienmodells ermöglicht. Der anschließende Kaufprozess  war vertrauenswürdig, nett und verbindlich, für alles wurde auch eine Lösung gefunden. Vielen Dank und gerne immer wieder.",
+                            "replyText": "",
+                            "replyCreated": null,
+                            "topRating": false
+                        },
+                        {
+                            "reviewId": "1726488741543|MTc4MTY0NDF8YzNjNjZiNGUtODg2OS00ZGYwLWE4ZTMtZGVjNGM4MzY2MDU3",
+                            "stars": 5,
+                            "created": "16.09.2024",
+                            "name": "DIRHANS",
+                            "grades": [
+                                {
+                                    "stars": 5,
+                                    "label": "Gesamteindruck"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Erreichbarkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Zuverlässigkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Angebotsbeschreibung"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Kaufprozess"
+                                }
+                            ],
+                            "reviewText": "Ich kann euch nur weiterempfehlen da Ihr alle so gut beraten habt und sehr hilfsbereit ward. ",
+                            "replyText": "",
+                            "replyCreated": null,
+                            "topRating": false
+                        },
+                        {
+                            "reviewId": "1724753167260|MTc4MTY0NDF8MTAyOTBhZmQtZWY3Ni00MzMwLWJhZjUtMzkyYTkzYjU1YzFi",
+                            "stars": 5,
+                            "created": "04.09.2024",
+                            "name": "Piet",
+                            "grades": [
+                                {
+                                    "stars": 5,
+                                    "label": "Gesamteindruck"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Erreichbarkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Zuverlässigkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Angebotsbeschreibung"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Kaufprozess"
+                                }
+                            ],
+                            "reviewText": "Sehr guter Service und Beratung. Sauberes Familienfahrzeug mit viel Platz zu einem günstigen Preis.\nHerr Faber ist ein guter und zuverlässiger Ansprechpartner. ",
+                            "replyText": "",
+                            "replyCreated": null,
+                            "topRating": false
+                        },
+                        {
+                            "reviewId": "1725388574886|MTc4MTY0NDF8NzI0YzdiM2EtZDNkNC00NjRmLWI5OTMtNWRlMGM4YmNhMjll",
+                            "stars": 5,
+                            "created": "04.09.2024",
+                            "name": "Secsim",
+                            "grades": [
+                                {
+                                    "stars": 5,
+                                    "label": "Gesamteindruck"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Erreichbarkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Zuverlässigkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Angebotsbeschreibung"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Kaufprozess"
+                                }
+                            ],
+                            "reviewText": "Hier gab es mein, Wunschfahrzeug mit einem tollen Service. ",
+                            "replyText": "",
+                            "replyCreated": null,
+                            "topRating": false
+                        }
+                    ],
+                    "reviewCount": 273,
+                    "ratingCount": 273,
+                    "ratingAverage": 4.96,
+                    "ratingStars": 5,
+                    "gradesAverage": [
+                        {
+                            "stars": 5,
+                            "label": "Gesamteindruck"
+                        },
+                        {
+                            "stars": 5,
+                            "label": "Erreichbarkeit"
+                        },
+                        {
+                            "stars": 5,
+                            "label": "Zuverlässigkeit"
+                        },
+                        {
+                            "stars": 5,
+                            "label": "Angebotsbeschreibung"
+                        },
+                        {
+                            "stars": 5,
+                            "label": "Kaufprozess"
+                        }
+                    ],
+                    "recommendPercentage": 100,
+                    "timedOut": false
+                },
+                "aboutUs": "Seit 1990 freie KFZ-Meister-Werkstatt für alle Fabrikate !\nSeit 1997 SUBARU Vertragspartner !\nSeit 1999 zertifizierter Gasumrüster für Fahrzeuge !\nSUBARU Service , Ersatzteile , Reparaturen und Verkauf von Neuwagen , Vorführwagen und Gebrauchtwagen !\nVertrieb von meistergeprüften Gebrauchtwagen !\nInzahlungnahme und freier Ankauf von Gebrauchtwagen !\nUnfallinstandsetzungen !\nGlasbruch- und Steinschlagschädenbeseitigung !\nSmart-Repair von Karroserie- , Lack- und Glasschäden !\nReifenservice (inkl. Einlagerung von Sommer- und Winterreifen) !\nKFZ-Versicherungen und Finanzdienstleistungen \nTÜV & DEKRA  Stützpunkt\n\nSeit 2020 Erweiterung und Ausbau des Fahrzeughandel mit Neufahrzeugen anderer Marken aus Deutschland und weiteren EU-Ländern.\nFreier Ankauf und Verkauf meistergeprüften Gebrauchtfahrzeugen aller Typen und Marken. \nHierzu bieten wir Hilfe bei Finanzierungs- und Leasingfragen nach Ihren Vorstellungen , gerne  mit auch Garantien für Ihr Wunschfahrzeug bis 12 Jahren Fahrzeugalter .\nHilfe zu allen Fragen rund ums Fahrzeug mit Consulting und Beratung durch die PRO - MOTORS  Faber Automobile !\nWir freuen uns auf Sie und möchten Sie nur vollkommen zufrieden stellen !\nBitte sprechen Sie uns an und besuchen uns.   \n\n\n\n",
+                "imprint": "Verantwortlicher für die Datenverarbeitung, der über dieses Kontaktformular weitergeleiteten Daten:\n1. Auto Wolter , Inhaber Christian Wolter , Ludwig-Erhard-Str. 9 , 50129 Bergheim Glessen , Gerichtsstand ist Bergheim\n2. Telefon : 02238 / 94 51 27 ,  Fax  :  02238 / 94 51 29 , Email :  verkauf@autowolter.de\n3.  Internet :  www.autowolter.de\n4.  Umsatzsteuer IDNR :  DE 121946970\n\nZweck und Rechtsgrundlage\nDie Verarbeitung der von Ihnen angegebenen personenbezogenen Daten dient der Kontaktaufnahme \nmit Ihnen zur Beantwortung Ihrer Anfrage. Die Rechtsgrundlage für die Verarbeitung der Daten ist Art \n6 Abs 1 lit. f DSGVO. Das erforderliche berechtigte Interesse liegt in der Beantwortung Ihrer Anfrage.\n\nEmpfänger oder Kategorien von Empfängern\nInnerhalb unseres Autohauses erhalten diejenigen Stellen bzw. Mitarbeiterinnen und Mitarbeiter Ihre \nDaten, die diese zur Wahrung berechtigter Interessen und/oder etwaiger gesetzlicher Pflichten \nbenötigen.\nSpeicherdauer\nIhre personenbezogenen Daten werden von uns nur so lange aufbewahrt, wie dies vernünftigerweise \nvon uns als nötig erachtet wird, um die unter Zweck und Rechtsgrundlage genannten Zwecke zu \nerreichen und wie dies nach anwendbarem Recht zulässig ist. Wir speichern Ihre personenbezogenen \nDaten, solange gesetzliche Aufbewahrungspflichten bestehen oder Verjährungsfristen potentieller \nRechtsansprüche noch nicht abgelaufen sind.\n\nIhre Rechte\nSie haben das Recht auf Auskunft gemäß Artikel 15 DSGVO, das Recht auf Berichtigung gemäß Artikel \n16 DSGVO, das Recht auf Löschung gemäß Artikel 17 DSGVO, das Recht auf Einschränkung der \nVerarbeitung gemäß Artikel 18 DSGVO, das Recht auf Datenübertragbarkeit gemäß Artikel 20 DSGVO \nsowie das Recht auf Widerspruch gemäß Artikel 21 DSGVO. Sie haben ferner das Recht, sich bei der \nzuständigen Aufsichtsbehörde zu beschweren",
+                "openingHours": [
+                    {
+                        "department": "Werkstatt , Service , Ersatzteile ",
+                        "timetable": [
+                            [
+                                800,
+                                1700
+                            ],
+                            [
+                                800,
+                                1700
+                            ],
+                            [
+                                800,
+                                1700
+                            ],
+                            [
+                                800,
+                                1700
+                            ],
+                            [
+                                800,
+                                1530
+                            ],
+                            [],
+                            []
+                        ]
+                    },
+                    {
+                        "department": "Verkauf  / Ankauf / Versicherung  / Finanzierung    (nach Terminabstimmung)",
+                        "timetable": [
+                            [
+                                900,
+                                1800
+                            ],
+                            [
+                                900,
+                                1800
+                            ],
+                            [
+                                900,
+                                1800
+                            ],
+                            [
+                                900,
+                                1800
+                            ],
+                            [
+                                900,
+                                1800
+                            ],
+                            [
+                                1000,
+                                1400
+                            ],
+                            []
+                        ]
+                    }
+                ],
+                "contactPersons": [
+                    {
+                        "name": "Hajo Faber",
+                        "position": "An- & Verkauf von Neu-, Gebraucht- und EU-Fahrzeugen ausgesuchter Marken ",
+                        "phone": "0163 / 72 984 78 ",
+                        "email": "h.faber@autowolter.de"
+                    }
+                ],
+                "dealerTypes": [
+                    {
+                        "type": "CF",
+                        "name": "Freier Händler Auto",
+                        "makes": [
+                            {
+                                "id": "9",
+                                "name": "Audi"
+                            },
+                            {
+                                "id": "13",
+                                "name": "BMW"
+                            },
+                            {
+                                "id": "21",
+                                "name": "Citroen"
+                            },
+                            {
+                                "id": "16360",
+                                "name": "Dacia"
+                            },
+                            {
+                                "id": "23",
+                                "name": "Daihatsu"
+                            },
+                            {
+                                "id": "28",
+                                "name": "Fiat"
+                            },
+                            {
+                                "id": "29",
+                                "name": "Ford"
+                            },
+                            {
+                                "id": "31",
+                                "name": "Honda"
+                            },
+                            {
+                                "id": "33",
+                                "name": "Hyundai"
+                            },
+                            {
+                                "id": "16355",
+                                "name": "Infiniti"
+                            },
+                            {
+                                "id": "37",
+                                "name": "Jaguar"
+                            },
+                            {
+                                "id": "38",
+                                "name": "Jeep"
+                            },
+                            {
+                                "id": "39",
+                                "name": "Kia"
+                            },
+                            {
+                                "id": "15641",
+                                "name": "Land Rover"
+                            },
+                            {
+                                "id": "43",
+                                "name": "Lexus"
+                            },
+                            {
+                                "id": "46",
+                                "name": "Mazda"
+                            },
+                            {
+                                "id": "47",
+                                "name": "Mercedes-Benz"
+                            },
+                            {
+                                "id": "16338",
+                                "name": "MINI"
+                            },
+                            {
+                                "id": "50",
+                                "name": "Mitsubishi"
+                            },
+                            {
+                                "id": "52",
+                                "name": "Nissan"
+                            },
+                            {
+                                "id": "15670",
+                                "name": "Oldtimer"
+                            },
+                            {
+                                "id": "54",
+                                "name": "Opel"
+                            },
+                            {
+                                "id": "55",
+                                "name": "Peugeot"
+                            },
+                            {
+                                "id": "57",
+                                "name": "Porsche"
+                            },
+                            {
+                                "id": "60",
+                                "name": "Renault"
+                            },
+                            {
+                                "id": "63",
+                                "name": "Saab"
+                            },
+                            {
+                                "id": "64",
+                                "name": "SEAT"
+                            },
+                            {
+                                "id": "65",
+                                "name": "Skoda"
+                            },
+                            {
+                                "id": "15525",
+                                "name": "smart"
+                            },
+                            {
+                                "id": "67",
+                                "name": "Subaru"
+                            },
+                            {
+                                "id": "68",
+                                "name": "Suzuki"
+                            },
+                            {
+                                "id": "70",
+                                "name": "Toyota"
+                            },
+                            {
+                                "id": "73",
+                                "name": "Volvo"
+                            },
+                            {
+                                "id": "74",
+                                "name": "Volkswagen"
+                            },
+                            {
+                                "id": "16351",
+                                "name": "Wiesmann"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "CC",
+                        "name": "Vertragshändler Auto",
+                        "makes": [
+                            {
+                                "id": "67",
+                                "name": "Subaru"
+                            }
+                        ]
+                    }
+                ],
+                "additionalServices": [
+                    {
+                        "id": "10",
+                        "name": "Abgastest"
+                    },
+                    {
+                        "id": "30",
+                        "name": "Autoelektrik"
+                    },
+                    {
+                        "id": "40",
+                        "name": "Autoglaserei"
+                    },
+                    {
+                        "id": "50",
+                        "name": "Autozubehör"
+                    },
+                    {
+                        "id": "220",
+                        "name": "DEKRA Siegel"
+                    },
+                    {
+                        "id": "1003",
+                        "name": "Design"
+                    },
+                    {
+                        "id": "1004",
+                        "name": "Ersatzteileexpressversand"
+                    },
+                    {
+                        "id": "60",
+                        "name": "Ersatzteileverkauf"
+                    },
+                    {
+                        "id": "70",
+                        "name": "Ersatzwagen"
+                    },
+                    {
+                        "id": "1007",
+                        "name": "Fahrwerksumbauten"
+                    },
+                    {
+                        "id": "90",
+                        "name": "Finanzservice"
+                    },
+                    {
+                        "id": "1010",
+                        "name": "Gutachten bei Unfallfahrzeugen"
+                    },
+                    {
+                        "id": "230",
+                        "name": "Hauptuntersuchung"
+                    },
+                    {
+                        "id": "95",
+                        "name": "Karosserie"
+                    },
+                    {
+                        "id": "97",
+                        "name": "Klimaanlagenservice"
+                    },
+                    {
+                        "id": "100",
+                        "name": "Lackiererei"
+                    },
+                    {
+                        "id": "1011",
+                        "name": "Lackierung, Kunststoffbeschichtungen"
+                    },
+                    {
+                        "id": "1032",
+                        "name": "Meisterwerkstatt"
+                    },
+                    {
+                        "id": "1019",
+                        "name": "Motoreninstandsetzung"
+                    },
+                    {
+                        "id": "130",
+                        "name": "Navigationssysteme"
+                    },
+                    {
+                        "id": "1021",
+                        "name": "Reifenservice"
+                    },
+                    {
+                        "id": "140",
+                        "name": "Reifenverkauf"
+                    },
+                    {
+                        "id": "145",
+                        "name": "Schnellservice"
+                    },
+                    {
+                        "id": "170",
+                        "name": "Telefonverkauf"
+                    },
+                    {
+                        "id": "1026",
+                        "name": "Veredelung, Umbauten"
+                    },
+                    {
+                        "id": "180",
+                        "name": "Versicherungen"
+                    },
+                    {
+                        "id": "200",
+                        "name": "Werkstatt"
+                    },
+                    {
+                        "id": "1030",
+                        "name": "Zulassungsservice"
+                    },
+                    {
+                        "id": "1031",
+                        "name": "Zylinderreparatur (Hohnen,Schleifen,Beschichten)"
+                    }
+                ],
+                "heroImage": {
+                    "imageId": "9132a506-4bd2-46d5-a459-400f75ff3667",
+                    "small": "https://prod.pictures.autoscout24.net/dealer-info/17816441-original-9132a506-4bd2-46d5-a459-400f75ff3667.jpg/resize/300x200>/quality/90/",
+                    "medium": "https://prod.pictures.autoscout24.net/dealer-info/17816441-original-9132a506-4bd2-46d5-a459-400f75ff3667.jpg/resize/800x500>/quality/90/",
+                    "big": "https://prod.pictures.autoscout24.net/dealer-info/17816441-original-9132a506-4bd2-46d5-a459-400f75ff3667.jpg/resize/1200x800>/quality/90/",
+                    "url": "https://prod.pictures.autoscout24.net/dealer-info/17816441-original-9132a506-4bd2-46d5-a459-400f75ff3667.jpg/resize/1200x800>/quality/90/",
+                    "large": "https://prod.pictures.autoscout24.net/dealer-info/17816441-original-9132a506-4bd2-46d5-a459-400f75ff3667.jpg/resize/1200x800>/quality/90/"
+                },
+                "logo": {
+                    "imageId": "540dc244-7fc9-41f1-b457-b98961859edf",
+                    "small": "https://prod.pictures.autoscout24.net/dealer-info/17816441-original-540dc244-7fc9-41f1-b457-b98961859edf.jpg/resize/130x39>/quality/90/",
+                    "url": "https://prod.pictures.autoscout24.net/dealer-info/17816441-original-540dc244-7fc9-41f1-b457-b98961859edf.jpg/resize/130x39>/quality/90/"
+                },
+                "branches": []
+            },
+            "translations": {
+                "domain.dealer": "haendler",
+                "week.monday": "Mo",
+                "week.tuesday": "Di",
+                "week.wednesday": "Mi",
+                "week.thursday": "Do",
+                "week.friday": "Fr",
+                "week.saturday": "Sa",
+                "week.sunday": "So",
+                "header.aboutus": "Über uns",
+                "header.list": "Unsere Fahrzeuge",
+                "header.contact": "Kontakt",
+                "header.rating": "Bewertungen",
+                "header.menu": "Menü",
+                "footer.list": "Fahrzeuge",
+                "footer.rating": "Bewertungen",
+                "footer.contact": "Kontakt",
+                "footer.imprint": "Impressum/Datenschutz",
+                "footer.to-top": "Nach Oben",
+                "openinghours.label": "Öffnungszeiten",
+                "openinghours.hour": "Uhr",
+                "openinghours.closed": "Geschlossen",
+                "pages.aboutus.alt-picture": "Foto von",
+                "pages.aboutus.all-contacts": "Alle Kontaktdaten",
+                "pages.aboutus.description": "Über uns",
+                "pages.aboutus.description-short": "Über uns",
+                "pages.aboutus.new-offers": "Neueste Angebote",
+                "pages.aboutus.new-offers-all": "Alle Angebote anzeigen",
+                "pages.aboutus.makes": "Unsere Marken",
+                "pages.aboutus.services": "Wir bieten",
+                "pages.aboutus.services-tip": "* Hauptuntersuchung nach § 29 STVZO durchgeführt durch externe Prüfingenieure.",
+                "pages.aboutus.review": " Bewertung",
+                "pages.aboutus.reviews": " Bewertungen",
+                "pages.aboutus.inspection": "* Hauptuntersuchung nach § 29 STVZO durchgeführt durch externe Prüfingenieure.",
+                "pages.list": "fahrzeuge",
+                "pages.list.results": "Ergebnisse",
+                "pages.list.sort-default": "Sortieren nach: Beste Ergebnisse",
+                "pages.list.sort-price": "Preis aufsteigend",
+                "pages.list.sort-price-dsc": "Preis absteigend",
+                "pages.list.sort-age-dsc": "Neueste Angebote zuerst",
+                "pages.list.sort-mileage": "Kilometerstand aufsteigend",
+                "pages.list.sort-mileage-dsc": "Kilometerstand absteigend",
+                "pages.list.sort-power": "Leistung aufsteigend",
+                "pages.list.sort-power-dsc": "Leistung absteigend",
+                "pages.list.sort-year": "Erstzulassung aufsteigend",
+                "pages.list.sort-year-dsc": "Erstzulassung absteigend",
+                "pages.list.auto": "Auto",
+                "pages.list.moto": "Motorrad",
+                "pages.list.caravan": "Wohnwagen/-mobile",
+                "pages.list.transporter": "Transporter",
+                "pages.list.trailer": "Anhänger",
+                "pages.list.filter": "Filtern nach",
+                "pages.list.filter-all": "Alle",
+                "pages.list.filter-make": "Marke",
+                "pages.list.filter-model": "Modell",
+                "pages.list.filter-body-type": "Karosserieform",
+                "pages.list.filter-mileage": "Kilometerstand",
+                "pages.list.filter-year": "Erstzulassung",
+                "pages.list.filter-price": "Preis",
+                "pages.list.filter-from": "von",
+                "pages.list.filter-to": "bis",
+                "pages.list.filter-variant": "Variante",
+                "pages.list.filter-variant-placeholder": "Variante",
+                "pages.list.filter-axle": "Anzahl Achsen",
+                "pages.list.search": "Suchen nach",
+                "pages.list.pagination-previous": "Zurück",
+                "pages.list.pagination-next": "Weiter",
+                "pages.list.empty": "Ihre Suche ergab leider keine Treffer. Bitte passen Sie Ihre Suchkriterien an.",
+                "pages.aboutus.contact": "Kontakt",
+                "pages.aboutus.spy.reviews": "Bewertungen",
+                "pages.aboutus.spy.services": "Dienstleistungen",
+                "pages.aboutus.spy.makes": "Marken",
+                "pages.aboutus.spy.contact": "Kontakt",
+                "pages.aboutus.spy.hours": "Öffnungszeiten",
+                "pages.aboutus.spy.seals": "Unsere Zertifikate",
+                "pages.contact": "kontakt",
+                "pages.contact.hours-show": "Weitere Öffnungszeiten anzeigen",
+                "pages.contact.hours-hide": "Weniger Öffnungszeiten anzeigen",
+                "pages.contact.contacts": "Ansprechpartner",
+                "pages.contact.contacts-show": "Mehr Ansprechpartner anzeigen",
+                "pages.contact.contacts-hide": "Weniger Ansprechpartner anzeigen",
+                "pages.contact.branches": "Filialen",
+                "pages.contact.form-label": "Händler kontaktieren",
+                "pages.contact.form-name": "Ihr Name",
+                "pages.contact.form-email": "Ihre E-Mail-Adresse",
+                "pages.contact.form-phone": "Ihre Telefonnummer",
+                "pages.contact.form-message": "Ihre Nachricht",
+                "pages.contact.privacy-agreement1": "Ich möchte auf meine Interessen zugeschnittene Angebote und Neuigkeiten der AutoScout24 GmbH per E-Mail erhalten. Ich kann diese ",
+                "pages.contact.privacy-agreement2": "Werbeeinwilligung",
+                "pages.contact.privacy-agreement3": " jederzeit mit Wirkung für die Zukunft widerrufen.",
+                "pages.contact.privacy-policy-link": "https://www.autoscout24.de/unternehmen/werbeeinwilligung/",
+                "pages.contact.privacy-policy-link-text": "",
+                "pages.contact.form-optional": "optional",
+                "pages.contact.form-legal": "Ihre Eingaben werden aus Sicherheitsgründen durch AutoScout24 überprüft.",
+                "pages.contact.form-name-error": "Dieses Feld wird benötigt.",
+                "pages.contact.form-email-error": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+                "pages.contact.form-message-error": "Bitte eine Nachricht eingeben.",
+                "pages.imprint": "Impressum/Datenschutz",
+                "pages.imprint.info": "AutoScout24 GmbH übernimmt für die Richtigkeit der Angaben keine Gewähr.",
+                "pages.reviews.title": "Bewertungen unserer Kunden",
+                "pages.reviews.title-homepage": "Gute Gründe für ",
+                "pages.reviews.all-reviews": "Alle Bewertungen anzeigen",
+                "pages.reviews.recommend": "Weiterempfehlungen",
+                "pages.reviews.show-more-bnt": "Weitere Bewertungen anzeigen",
+                "pages.reviews.answer": "Antwort",
+                "pages.reviews.comments": "Kommentare",
+                "pages.reviews.details": "Details",
+                "pages.reviews.report": "Melden",
+                "pages.reviews.report.question": "Sie möchten diese Bewertung melden?",
+                "pages.reviews.report.details": "Was möchten Sie melden?",
+                "pages.reviews.report.reason1": "Falsche Tatsachenbehauptung",
+                "pages.reviews.report.reason2": "Unerlaubte Werbung",
+                "pages.reviews.report.reason3": "Verletzung von Persönlichkeitsrechten",
+                "pages.reviews.report.reason4": "Verleumdung",
+                "pages.reviews.report.reason5": "Sonstiges",
+                "pages.reviews.report.remarks": "Ihre Anmerkungen",
+                "pages.reviews.report.legal": "Wir gehen jedem von Ihnen gemachten Hinweis nach. Bitte haben Sie Verständnis dafür, dass wir Sie über weitere Schritte nicht informieren können.",
+                "pages.reviews.report.legal2": "Ihre Eingaben werden aus Gründen der Sicherheit durch AutoScout24 überprüft. Wir nehmen den Datenschutz ernst: die eingegebenen Daten werden nicht zu Werbezwecken genutzt.",
+                "pages.reviews.report.send": "Nachricht absenden",
+                "seo.title.contact": "Kontakt",
+                "seo.title.list": "Aktuelle Fahrzeuge von",
+                "seo.title.rating": "Bewertungen von",
+                "seo.title.imprint": "Impressum",
+                "seo.in": "in",
+                "seo.description.rating": "Bewertungen und Erfahrungsberichte von AutoScout24 Nutzern. ✓ Erreichbarkeit ✓ Zuverlässigkeit ✓ Gesamteindruck",
+                "meta.contact1": "Treten Sie mit",
+                "meta.contact2": "für aktuelle Angebote in",
+                "meta.contact3": "in Kontakt und testen Sie auch die verschiedenen Dienstleistungen des Händlers.",
+                "meta.list0": "Aktuell sind",
+                "meta.list1": "Fahrzeuge bei",
+                "meta.list2": " verfügbar. Entdecken Sie jetzt das Angebot und finden Sie Ihr passendes Modell",
+                "meta.aboutus1": "Finden Sie alle Informationen zu",
+                "meta.aboutus2": "auf AutoScout24. ✓ Fahrzeuge ✓ Bewertungen ✓ Öffnungszeiten",
+                "button.email": "E-Mail senden",
+                "button.filter": "Filtern",
+                "button.call": "Anrufen",
+                "button.call.shownumber": "Nummer anzeigen",
+                "notification.email-succ": "Deine E-Mail wurde versendet. Du erhältst eine Kopie an",
+                "notification.email-err-server": "Deine E-Mail wurde leider nicht gesendet. Bitte versuche es später noch einmal.",
+                "notification.email-err-client": "Deine E-Mail wurde leider nicht gesendet. Bitte überprüfe deine Internetverbindung.",
+                "shared.from": "ab",
+                "listpage.listitem.integrations.check24.stage": "mtl.",
+                "listpage.listitem.integrations.check24.label": "Kfz-Versicherungvergleich",
+                "listpage.listitem.integrations.finanzcheck.label": "Autokreditvergleich",
+                "classified.leadform.dataDisclaimer": "Ich möchte auf meine Interessen zugeschnittene Angebote und Neuigkeiten der AutoScout24 GmbH per E-Mail erhalten. Ich kann diese <a href=\"https://www.autoscout24.de/unternehmen/werbeeinwilligung/\" target=\"_blank\" rel=\"noreferrer\">Einwilligung</a> jederzeit mit Wirkung für die Zukunft widerrufen.",
+                "classified.leadform.defaultComment": "Guten Tag,\n  \nich interessiere mich für Ihr Fahrzeug. Kontaktieren Sie mich bitte.\n\nMit freundlichen Grüßen",
+                "classified.leadform.lm.defaultComment": "Guten Tag,\n  \nich interessiere mich für Ihr Angebot. Kontaktieren Sie mich bitte.\n\nMit freundlichen Grüßen",
+                "classified.leadform.recommendationsDisclaimer": "Wir verwenden deine E-Mail-Adresse auch für Fahrzeug-Empfehlungen ähnlich deiner Anfrage. Widerspruch hiergegen ist jederzeit kostenfrei möglich.",
+                "classified.leadform.tradeInDisclaimer": "Ja, ich besitze ein Fahrzeug und möchte dieses in Zahlung geben.",
+                "classified.leasingmarkt.leadform.termsDisclaimer": "Ich stimme den <a href=\"https://www.leasingmarkt.de/allgemeine-geschaeftsbedingungen/\" target=\"_blank\" rel=\"noreferrer\">AGB</a> und der <a href=\"https://www.leasingmarkt.de/datenschutz/\" target=\"_blank\" rel=\"noreferrer\">Datenschutzerklärung</a> der LeasingMarkt.de GmbH zu und bin mit der Verarbeitung, Nutzung, sowie der Weiterleitung meiner Daten an die LeasingMarkt.de GmbH sowie dem LeasingMarkt.de Partnerhändler {0} zwecks Kontaktaufnahme einverstanden.\n\n",
+                "listPage.saveSearch.loginDialog.benefit-one": "Deine Suche speichern",
+                "listPage.saveSearch.loginDialog.benefit-three": "Preisupdates erhalten",
+                "listPage.saveSearch.loginDialog.benefit-two": "Merkzettel auf jedem Gerät erreichen",
+                "listPage.saveSearch.loginDialog.title": "Anmelden und kostenlos",
+                "listPage.smylePromotion.button": "{0} Angebote liefern lassen",
+                "listPage.smylePromotion.header": "Nichts bei dir in der Nähe gefunden?",
+                "listPage.smylePromotion.text": "Lass dir dein Wunschfahrzeug direkt nach Hause liefern!",
+                "listPage.smyleTailSeparator.smyleDescription.delivery": "Lieferung deutschlandweit",
+                "listPage.smyleTailSeparator.smyleDescription.qualitySeal": "Geprüfte Qualität",
+                "listPage.smyleTailSeparator.smyleDescription.return": "14 Tage Wiederrufsrecht",
+                "listPage.smyleTailSeparator.title": "{0} Angebote Onlinekauf & Lieferung\n",
+                "listpage.ads.label": "Anzeige",
+                "listpage.ai.search.lastSearch": "Deine letzte Suche",
+                "listpage.ai.search.lastSearches": "Deine letzten Suchen",
+                "listpage.ai.search.placeholder": "Tippe hier deine Wunschkriterien ein",
+                "listpage.ai.search.suggestions": "Vorschläge",
+                "listpage.anonymousSaveSearch.buttonText": "Neue Angebote per E-Mail",
+                "listpage.anonymousSaveSearch.buttonTextShort": "Benachrichtigung",
+                "listpage.anonymousSaveSearch.dataPrivacyConsentAfterLink": "Verarbeitung wie oben beschrieben. Diese Erklärung kann ich jederzeit mit Wirkung für die Zukunft widerrufen.",
+                "listpage.anonymousSaveSearch.dataPrivacyConsentBeforeLink": "Ich möchte auf meine Interessen zugeschnittene Angebote und Neuigkeiten der AutoScout24 GmbH per E-Mail erhalten. Ich kann das widerrufen\n\n",
+                "listpage.anonymousSaveSearch.dataPrivacyConsentLink": "https://www.autoscout24.de/unternehmen/werbeeinwilligung/",
+                "listpage.anonymousSaveSearch.dataPrivacyConsentLinkText": "Werbeeinwilligung",
+                "listpage.anonymousSaveSearch.emailPlaceholder": "Ihre E-Mail-Adresse",
+                "listpage.anonymousSaveSearch.errorBannerText": "Bitte entschuldigen Sie die Unannehmlichkeit.",
+                "listpage.anonymousSaveSearch.errorBannerTitle": "Leider ist ein Fehler aufgetreten.",
+                "listpage.anonymousSaveSearch.subscribeButton": "Abonnieren",
+                "listpage.anonymousSaveSearch.subtitle": "Dann einfach den Suchauftrag abonnieren.",
+                "listpage.anonymousSaveSearch.successBannerText": "Passend zu Ihrer Suche erhalten Sie nun die neuesten Angebote per E-Mail.",
+                "listpage.anonymousSaveSearch.successBannerTitle": "Sie haben den Suchauftrag erfolgreich angelegt.",
+                "listpage.anonymousSaveSearch.title": "Kein interessantes Angebot verpassen?",
+                "listpage.bike.metaDescription": "Hier finden Sie aktuelle Motorrad Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.metaDescription.bodyType": "Karosserieform",
+                "listpage.bike.metaDescription.fuelType": "Kraftstoff",
+                "listpage.bike.metaDescription.make": "Hier finden Sie aktuelle {0} Motorrad Angebote bei AutoScout24, dem europaweit größten Online-Fahrzeugmarkt.",
+                "listpage.bike.metaDescription.makeBodyType": "Hier finden Sie aktuelle {0} als {1} Motorräder bei AutoScout24, dem europaweit größten Online-Fahrzeugmarkt.",
+                "listpage.bike.metaDescription.makeCity": "Hier finden Sie aktuelle {0} Motorrad-Angebote in {1} bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.metaDescription.makeFuelType": "Hier finden Sie aktuelle {0} als {1} Motorräder bei AutoScout24, dem europaweit größten Online-Fahrzeugmarkt.",
+                "listpage.bike.metaDescription.makeModel": "Hier finden Sie aktuelle {0} {1} Motorrad-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.metaDescription.makeModelBodyColor": "Hier finden Sie aktuelle {0} {1} {2} Motorrad-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.metaDescription.makeModelBodyType": "Hier finden Sie aktuelle {0} {1} {2} Motorrad-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.metaDescription.makeModelCity": "Hier finden Sie aktuelle {0} {1} Motorrad-Angebote in {2} bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.metaDescription.makeModelEquipment": "Hier finden Sie aktuelle {0} {1} {2} Motorrad-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.metaDescription.makeModelFirstRegistration": "Hier finden Sie aktuelle {0} {1} Motorrad-Angebote aus {2} bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.metaDescription.makeModelFuelType": "Hier finden Sie aktuelle {0} {1} {2} Motorrad-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.metaDescription.makeModelGearing": "Hier finden Sie aktuelle {0} {1} {2} Motorrad-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.metaDescription.makeModelMileage": "Hier finden Sie aktuelle {0} {1} bis {2} km Motorrad-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.metaDescription.makeModelOffer": "Hier finden Sie aktuelle {0} {1} {2} Motorrad-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.metaDescription.makeModelPrice": "Hier finden Sie aktuelle {0} {1} bis {2} Motorrad-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.metaDescription.makeModelSeats": "Hier finden Sie aktuelle {0} {1} {2} Sitzer Motorrad-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.metaDescription.makeModelVersion": "Hier finden Sie aktuelle {0} {1} {2} Motorrad-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.bike.title": "Motorrad Angebote bei AutoScout24",
+                "listpage.bike.title.bodyType": "Gebrauchte {0} Angebote bei AutoScout24",
+                "listpage.bike.title.fuelType": "Gebrauchte {0} Modelle bei AutoScout24",
+                "listpage.bike.title.make": "Gebrauchte {0} Angebote bei AutoScout24",
+                "listpage.bike.title.makeBodyType": "Gebrauchte {0} als {1} Angebote bei AutoScout24",
+                "listpage.bike.title.makeCity": "{0} gebraucht kaufen in {1} - AutoScout24",
+                "listpage.bike.title.makeFuelType": "Gebrauchte {0} als {1} Angebote bei AutoScout24",
+                "listpage.bike.title.makeModel": "{0} {1} gebraucht kaufen - AutoScout24",
+                "listpage.bike.title.makeModelBodyColor": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.bike.title.makeModelBodyType": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.bike.title.makeModelCity": "{0} {1} gebraucht kaufen in {2} - AutoScout24",
+                "listpage.bike.title.makeModelEquipment": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.bike.title.makeModelFirstRegistration": "{0} {1} aus {2} gebraucht kaufen - AutoScout24",
+                "listpage.bike.title.makeModelFuelType": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.bike.title.makeModelGearing": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.bike.title.makeModelMileage": "{0} {1} bis {2} km gebraucht kaufen - AutoScout24",
+                "listpage.bike.title.makeModelOffer": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.bike.title.makeModelPrice": "{0} {1} bis {2} gebraucht kaufen - AutoScout24",
+                "listpage.bike.title.makeModelSeats": "{0} {1} {2} Sitzer gebraucht kaufen - AutoScout24",
+                "listpage.bike.title.makeModelVersion": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.car.metaDescription": "Hier finden Sie aktuelle Gebrauchtwagen Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.bodyType": "{0} gebraucht gesucht? Hier finden Sie aktuelle Gebrauchtwagen Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.fuelType": "Hier finden Sie aktuelle {0} Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.fuelType (Copy)": "Hier finden Sie aktuelle {0} Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.make": "Hier finden Sie aktuelle {0} Gebrauchtwagen Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeBodyType": "{0} {1} gebraucht gesucht? Hier finden Sie aktuelle Gebrauchtwagen Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeCity": "Hier finden Sie aktuelle {0} Gebrauchtwagen-Angebote in {1} bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeFuelType": "Hier finden Sie aktuelle {0} {1} Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeModel": "{0} {1} Gebrauchtwagen gesucht? Hier finden Sie aktuelle {0} {1} Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeModelBodyColor": "Hier finden Sie aktuelle {0} {1} Gebrauchtwagen-Angebote in {2} bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeModelBodyType": "Hier finden Sie aktuelle {0} {1} {2} Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeModelCity": "Hier finden Sie aktuelle {0} {1} Gebrauchtwagen-Angebote in {2} bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeModelEquipment": "Hier finden Sie aktuelle {0} {1} {2} Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeModelFirstRegistration": "Hier finden Sie aktuelle {0} {1} Gebrauchtwagen-Angebote aus {2} bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeModelFuelType": "Hier finden Sie aktuelle {0} {1} {2} Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeModelGearing": "Hier finden Sie aktuelle {0} {1} {2} Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeModelLeasing": "Aktuelle {0} {1} Leasingangebote gesucht? Egal ob Privat- oder Gewerbeleasing - bei AutoScout24 findest du attraktive Angebote zu günstigen Konditionen.",
+                "listpage.car.metaDescription.makeModelMileage": "Hier finden Sie aktuelle {0} {1} bis {2} km Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeModelOffer": "{1} {2} {0} gesucht? Hier finden Sie viele passend Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeModelPrice": "Hier finden Sie aktuelle {0} {1} Gebrauchtwagen-Angebote bis {2} bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeModelSeats": "Hier finden Sie aktuelle {0} {1} {2} Sitzer Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.metaDescription.makeModelVersion": "Hier finden Sie aktuelle {0} {1} {2} Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.car.title": "Gebrauchtwagen kaufen bei AutoScout24",
+                "listpage.car.title.bodyType": "{0} gebraucht kaufen bei AutoScout24",
+                "listpage.car.title.fuelType": "{0} Gebrauchtwagen kaufen bei AutoScout24",
+                "listpage.car.title.make": "{0} Gebrauchtwagen kaufen - AutoScout24",
+                "listpage.car.title.makeBodyType": "{0} {1} Gebrauchtwagen kaufen - AutoScout24",
+                "listpage.car.title.makeCity": "{0} gebraucht kaufen in {1} - AutoScout24",
+                "listpage.car.title.makeFuelType": "Gebrauchte {0} als {1} Angebote bei AutoScout24",
+                "listpage.car.title.makeModel": "{0} {1} gebraucht kaufen bei AutoScout24",
+                "listpage.car.title.makeModelBodyColor": "{0} {1} in {2} gebraucht kaufen - AutoScout24",
+                "listpage.car.title.makeModelBodyType": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.car.title.makeModelCity": "{0} {1} gebraucht kaufen in {2} - AutoScout24",
+                "listpage.car.title.makeModelEquipment": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.car.title.makeModelFirstRegistration": "{0} {1} aus {2} gebraucht kaufen - AutoScout24",
+                "listpage.car.title.makeModelFuelType": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.car.title.makeModelGearing": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.car.title.makeModelLeasing": "{0} {1} Leasing Angebote – AutoScout24",
+                "listpage.car.title.makeModelMileage": "{0} {1} bis {2} km gebraucht kaufen - AutoScout24",
+                "listpage.car.title.makeModelOffer": "{1} {2} {0} kaufen - AutoScout24",
+                "listpage.car.title.makeModelPrice": "{0} {1} bis {2} gebraucht kaufen - AutoScout24",
+                "listpage.car.title.makeModelSeats": "{0} {1} {2} Sitzer gebraucht kaufen - AutoScout24",
+                "listpage.car.title.makeModelVersion": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.caravan.metaDescription": "Hier finden Sie gebrauchte Wohnwagen und Wohnmobil Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.caravan.title": "Gebrauchte Wohnwagen und Wohnmobile bei AutoScout24",
+                "listpage.defaultSeo.metaDescription": "Hier finden Sie aktuelle Gebrauchtwagen Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.bodyType": "{0} gebraucht gesucht? Hier finden Sie aktuelle Gebrauchtwagen Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.fuelType": "Kraftstoff",
+                "listpage.defaultSeo.metaDescription.make": "Hier finden Sie aktuelle gebrauchte {0} Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeBodyType": "{0} {1} gebraucht gesucht? Hier finden Sie aktuelle Gebrauchtwagen Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeCity": "Hier finden Sie aktuelle gebrauchte {0} Angebote in {1} bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeFuelType": "Hier finden Sie aktuelle {0} {1} Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeModel": "{0} {1} Gebrauchtwagen gesucht? Hier finden Sie aktuelle {0} {1} Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeModelBodyColor": "Hier finden Sie aktuelle {0} {1} Gebrauchtwagen-Angebote in {2} bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeModelBodyType": "Hier finden Sie aktuelle {0} {1} {2} Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeModelCity": "Hier finden Sie aktuelle {0} {1} Gebrauchtwagen-Angebote in {2} bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeModelEquipment": "Hier finden Sie aktuelle {0} {1} {2} Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeModelFirstRegistration": "Hier finden Sie aktuelle {0} {1} Gebrauchtwagen-Angebote aus {2} bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeModelFuelType": "Hier finden Sie aktuelle {0} {1} {2} Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeModelGearing": "Hier finden Sie aktuelle {0} {1} {2} Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeModelLeasing": "Aktuelle {0} {1} Leasingangebote gesucht? Egal ob Privat- oder Gewerbeleasing - bei AutoScout24 findest du attraktive Angebote zu günstigen Konditionen.",
+                "listpage.defaultSeo.metaDescription.makeModelMileage": "Hier finden Sie aktuelle {0} {1} bis {2} km Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeModelOffer": "{1} {2} {0} gesucht? Hier finden Sie viele passend Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeModelPrice": "Hier finden Sie aktuelle {0} {1} Gebrauchtwagen-Angebote bis {2} bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeModelSeats": "Hier finden Sie aktuelle {0} {1} {2} Sitzer Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.metaDescription.makeModelVersion": "Hier finden Sie aktuelle {0} {1} {2} Gebrauchtwagen-Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.defaultSeo.title": "Gebrauchtwagen kaufen bei AutoScout24",
+                "listpage.defaultSeo.title.bodyType": "Gebrauchte {0} Angebote bei AutoScout24",
+                "listpage.defaultSeo.title.fuelType": "Gebrauchte {0} Modelle bei AutoScout24",
+                "listpage.defaultSeo.title.make": "Gebrauchte {0} Angebote bei AutoScout24",
+                "listpage.defaultSeo.title.makeBodyType": "Gebrauchte {0} als {1} Angebote bei AutoScout24",
+                "listpage.defaultSeo.title.makeCity": "{0} gebraucht kaufen in {1} - AutoScout24",
+                "listpage.defaultSeo.title.makeFuelType": "Gebrauchte {0} als {1} Angebote bei AutoScout24",
+                "listpage.defaultSeo.title.makeModel": "{0} {1} gebraucht kaufen - AutoScout24",
+                "listpage.defaultSeo.title.makeModelCity": "{0} {1} gebraucht kaufen in {2} - AutoScout24",
+                "listpage.defaultSeo.title.makeModelFirstRegistration": "{0} {1} aus {2} gebraucht kaufen - AutoScout24",
+                "listpage.defaultSeo.title.makeModelGearing": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.defaultSeo.title.makeModelMileage": "{0} {1} bis {2} km gebraucht kaufen - AutoScout24",
+                "listpage.defaultSeo.title.makeModelOffer": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.defaultSeo.title.makeModelPrice": "{0} {1} bis {2} gebraucht kaufen - AutoScout24",
+                "listpage.defaultSeo.title.makeModelSeats": "{0} {1} {2} Sitzer gebraucht kaufen - AutoScout24",
+                "listpage.defaultSeo.title.makeModelVersion": "{0} {1} {2} gebraucht kaufen - AutoScout24",
+                "listpage.gallery.next": "Weiter",
+                "listpage.gallery.previous": "Zurück",
+                "listpage.header.around": "um",
+                "listpage.header.beds": "Anzahl Betten",
+                "listpage.header.filters": "Filter",
+                "listpage.header.firstRegistration": "Erstzulassung",
+                "listpage.header.for": "für",
+                "listpage.header.forYourSearch": "für Ihre Suche",
+                "listpage.header.leasingOffers": "Leasing-Angebote",
+                "listpage.header.noFiltersSelected": "Keine Filter ausgewählt.",
+                "listpage.header.noResult.recommendations": "Diese Fahrzeuge könnten Ihnen gefallen",
+                "listpage.header.noResult.subtitle": "Leider keine Treffer zu Ihrer Suche.",
+                "listpage.header.noResult.suggestion": "Weniger ist oft mehr. Versuchen Sie es erneut mit weniger oder veränderten Suchkriterien:",
+                "listpage.header.noResult.title": "Das war nix:",
+                "listpage.header.offers": "Angebote",
+                "listpage.header.offers.filter": "filter",
+                "listpage.header.offers.filter.few": "Filter",
+                "listpage.header.offers.filter.many": "Filter",
+                "listpage.header.offers.filter.one": "Filter",
+                "listpage.header.offers.filter.other": "Filter",
+                "listpage.header.offers.filter.zero": "Filter",
+                "listpage.header.offers.filters": "filter",
+                "listpage.header.onlineSince": "Online seit",
+                "listpage.header.seats": "Sitzplätze",
+                "listpage.header.seller": "Verkäufer",
+                "listpage.header.smyleExtraCount.md": "{0} Angebote für <a href=\"{1}\">Onlinekauf & Lieferung</a> durch AutoScout24 smyle.",
+                "listpage.header.sort": "Sortieren",
+                "listpage.header.sort.ascending": "aufsteigend",
+                "listpage.header.sort.descending": "absteigend",
+                "listpage.header.toTop": "Nach oben",
+                "listpage.header.topMakes": "Top Marken",
+                "listpage.header.topModels": "Top Modelle",
+                "listpage.header.vatDeductible": "MwSt. ausweisbar",
+                "listpage.listItem.combinedShortcut": "komb.",
+                "listpage.listItem.financingExample": "ab {0} mtl. / {1}",
+                "listpage.listItem.firstRegistrationPlaceholder": "- (Erstzulassung)",
+                "listpage.listItem.inLeasing": "im Leasing",
+                "listpage.listItem.leasing.additionalDistanceCostPerKm": "Mehr-km Kosten",
+                "listpage.listItem.leasing.borrowingRatePercent": "Sollzins p.a.",
+                "listpage.listItem.leasing.contractType": "Vertragsart",
+                "listpage.listItem.leasing.ctaButton": "Unverbindlich anfragen",
+                "listpage.listItem.leasing.downPayment": "Anzahlung",
+                "listpage.listItem.leasing.duration": "Laufzeit",
+                "listpage.listItem.leasing.effectiveInterestRatePercent": "Effektiver Jahreszins",
+                "listpage.listItem.leasing.finalInstallment": "Schlussrate",
+                "listpage.listItem.leasing.includedMileage": "Fahrleistung p.a.",
+                "listpage.listItem.leasing.leaseTotalAmount": "Gesamtbetrag",
+                "listpage.listItem.leasing.leasingProvider": "Kreditvermittlung durch",
+                "listpage.listItem.leasing.monthlyRateGross": "Monatliche Rate",
+                "listpage.listItem.leasing.netLoanAmount": "Nettodarlehen",
+                "listpage.listItem.leasing.perMonth": "/mtl.",
+                "listpage.listItem.leasing.perMonthExclVat": "mtl. exkl. MwSt.",
+                "listpage.listItem.leasing.perYear": "/Jahr",
+                "listpage.listItem.leasing.refundForLessDistancePerKm": "Minder-km Vergütung",
+                "listpage.listItem.leasing.registrationCost": "Zulassungskosten",
+                "listpage.listItem.leasing.specialCondition": "Sonderkondition",
+                "listpage.listItem.leasing.specialConditions": "Sonderkonditionen",
+                "listpage.listItem.leasing.specialConditions.moreInfo": "Mehr Informationen",
+                "listpage.listItem.leasing.targetGroup": "Zielgruppe",
+                "listpage.listItem.leasing.targetGroupBoth": "Privat/Gewerblich",
+                "listpage.listItem.leasing.targetGroupBusiness": "Gewerblich",
+                "listpage.listItem.leasing.targetGroupPrivate": "Privat",
+                "listpage.listItem.leasing.title": "Leasingangebot",
+                "listpage.listItem.leasing.totalOneTimePayment": "Anzahlung",
+                "listpage.listItem.leasing.transferCost": "Überführungskosten",
+                "listpage.listItem.moreVehicles": "+ Weitere Fahrzeuge anzeigen",
+                "listpage.listItem.ocs.footer.body.icons.delivery": "Lieferung innerhalb von 3-4 Wochen",
+                "listpage.listItem.ocs.footer.body.icons.quality": "Geprüfte Qualität und 12 Monate Garantie",
+                "listpage.listItem.ocs.footer.body.icons.return": "14 Tage Widerrufsrecht",
+                "listpage.listItem.ocs.footer.body.mainText": "Dieses Auto online kaufen und geprüft und fahrbereit nach Hause liefern lassen.",
+                "listpage.listItem.ocs.footer.body.moreInfo": "Mehr erfahren",
+                "listpage.listItem.ocs.footer.header.icons.delivery": "Lieferung deutschlandweit",
+                "listpage.listItem.ocs.footer.header.icons.deliveryShort": "Lieferung",
+                "listpage.listItem.ocs.footer.header.icons.quality": "Geprüfte Qualität",
+                "listpage.listItem.ocs.footer.header.icons.qualityShort": "Garantie",
+                "listpage.listItem.ocs.footer.header.icons.return": "14 Tage Widerrufsrecht",
+                "listpage.listItem.ocs.footer.header.icons.returnShort": "Widerrufsrecht",
+                "listpage.listItem.ocs.footer.header.less": "Weniger",
+                "listpage.listItem.ocs.footer.header.more": "Mehr",
+                "listpage.listItem.ocs.footer.moreVehicles": "+ Weitere Fahrzeuge anzeigen",
+                "listpage.listItem.ocs.footer.slogan": "Dieses Auto online kaufen und liefern lassen!",
+                "listpage.listItem.ocs.footer.title": "AutoScout24 smyle",
+                "listpage.listItem.ocs.service": "Service",
+                "listpage.listItem.ocsAutoCareDisclaimer": "Verkauf durch AutoScout24 GmbH Lieferung deutschlandweit",
+                "listpage.listItem.ocsBuyOnline": "Online kaufen",
+                "listpage.listItem.ocsBuyOnlineLabel": "Onlinekauf & Lieferung",
+                "listpage.listItem.powerboost.sponsored": "Gesponsert",
+                "listpage.listItem.powerboost.title.first": "Aktion Des Tages",
+                "listpage.listItem.powerboost.title.second": "in Deiner Nähe",
+                "listpage.listItem.price.vatExcluded": "exkl. Mwst.",
+                "listpage.listItem.price.vatIncluded": "inkl. Mwst.",
+                "listpage.listItem.showroom.more.vehicles": "Alle ähnlichen Angebote anzeigen",
+                "listpage.listItem.sponsored": "Gesponsert",
+                "listpage.listitem.integrations.check24.details": "Kfz-Versicherungsdetails hier",
+                "listpage.listitem.integrations.check24.overlay.cta": "Jetzt vergleichen",
+                "listpage.listitem.integrations.check24.overlay.cta.fallback": "Jetzt vergleichen",
+                "listpage.listitem.integrations.check24.stage.fallback": "jetzt vergleichen",
+                "listpage.listitem.integrations.edf.details": "Finanzierungsdetails hier",
+                "listpage.listitem.integrations.edf.label": "Finanzierungsoption",
+                "listpage.listitem.integrations.edf.overlay.cta": "Jetzt Händler kontaktieren",
+                "listpage.listitem.integrations.edf.stage": "mtl.",
+                "listpage.listitem.integrations.edf.stage.fallback": "jetzt vergleichen",
+                "listpage.listitem.integrations.financeboostplus.details": "Finanzierungsdetails hier",
+                "listpage.listitem.integrations.financeboostplus.label": "Finanzierungsoption",
+                "listpage.listitem.integrations.financeboostplus.overlay.cta": "Finanzierung anfragen",
+                "listpage.listitem.integrations.financeboostplus.overlay.ndgit.cta": "Finanzierung berechnen",
+                "listpage.listitem.integrations.financeboostplus.stage": "mtl.",
+                "listpage.listitem.integrations.financeboostplus.stage.fallback": "mtl. finanzieren",
+                "listpage.listitem.integrations.finanzcheck.details": "Finanzierungsdetails hier",
+                "listpage.listitem.integrations.finanzcheck.overlay.cta": "Jetzt Angebote vergleichen",
+                "listpage.listitem.integrations.finanzcheck.overlay.cta.fallback": "Jetzt Kredite vergleichen",
+                "listpage.listitem.integrations.finanzcheck.stage": "mtl.",
+                "listpage.listitem.integrations.finanzcheck.stage.fallback": "jetzt vergleichen",
+                "listpage.listitem.integrations.santandergermany.details": "Finanzierungsdetails hier",
+                "listpage.listitem.integrations.santandergermany.label": "Autokreditvergleich",
+                "listpage.listitem.integrations.santandergermany.overlay.cta": "Unverbindlich anfragen",
+                "listpage.listitem.integrations.santandergermany.stage": "mtl.",
+                "listpage.pagination": "Seitennummerierung",
+                "listpage.pagination.goToPage.ariaLabel": "Zu Seite",
+                "listpage.pagination.next": "Weiter",
+                "listpage.pagination.next.ariaLabel": "Zu nächsten Seite",
+                "listpage.pagination.previous": "Zurück",
+                "listpage.pagination.previous.ariaLabel": "Zu vorherigen Seite",
+                "listpage.restoreSessionCard.badge": "Offene Bestellung",
+                "listpage.restoreSessionCard.button.dismiss": "Kein Interesse",
+                "listpage.restoreSessionCard.button.proceedWithTheOrder": "Mit Bestellung fortfahren",
+                "listpage.restoreSessionCard.label": "In nur {0} Schritten abschließen!",
+                "listpage.saveSearch.buttonText": "Suche speichern",
+                "listpage.saveSearch.errorBannerText": "Bitte entschuldigen Sie die Unannehmlichkeit.",
+                "listpage.saveSearch.errorBannerTitle": "Leider ist ein Fehler aufgetreten.",
+                "listpage.saveSearch.promotionText": "Möchtest du automatisch über neue Fahrzeuge zu deiner Suche informiert werden?",
+                "listpage.saveSearch.promotionText.header": "Sie wollen keine Kompromisse machen? Dann speichern Sie Ihre Suche. Wir melden uns, sobald wir passende Vorschläge haben!",
+                "listpage.saveSearch.successBannerText.md": "Sobald es neue Treffer gibt, bekommst du eine E-Mail. Das kannst du jederzeit unter '<a href=\"{0}\">Meine gespeicherten Suchen</a>' ändern. \n ",
+                "listpage.saveSearch.successBannerText.part1": "Über den Menüpunkt 'Mein Konto: ",
+                "listpage.saveSearch.successBannerText.part2": "Meine Suchen",
+                "listpage.saveSearch.successBannerText.part3": "' können Sie sie jederzeit wieder aufrufen.",
+                "listpage.saveSearch.successBannerTitle": "Ihre Suche wurde erfolgreich gespeichert.",
+                "listpage.smyleVip.encouragementText": "Geprüft, versichert und zugelassen nach Hause liefern lassen.",
+                "listpage.smyleVip.showMoreCars": "weitere Autos anzeigen",
+                "listpage.taxonomy.leasingDuration": "Monate",
+                "listpage.trailer.metaDescription": "Hier finden Sie gebrauchte Anhänger Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.trailer.title": "Gebrauchte Anhänger bei AutoScout24",
+                "listpage.transporter.metaDescription": "Hier finden Sie gebrauchte Transporter Angebote bei AutoScout24, dem europaweit größten Online-Automarkt.",
+                "listpage.transporter.title": "Gebrauchte Transporter bei AutoScout24",
+                "page.list.error.title": "Angebote bei AutoScout24",
+                "proposition.as": "wie",
+                "proposition.for": "für",
+                "searchFilters.vehicleCondition.accordionTitle": "Fahrzeugzustand",
+                "searchfilters.basicData.accordionTitle": "Basisdaten & Standort",
+                "searchfilters.basicData.beds": "Anzahl Betten",
+                "searchfilters.basicData.beds.filterTag": "Betten",
+                "searchfilters.basicData.beds.max": "Maximale Bettenzahl",
+                "searchfilters.basicData.beds.min": "Mindestanzahl Betten",
+                "searchfilters.basicData.bodyType": "Karosserieform",
+                "searchfilters.basicData.details": "Basisdaten",
+                "searchfilters.basicData.doors": "Anzahl Türen",
+                "searchfilters.basicData.doors.filterTag": "Türen",
+                "searchfilters.basicData.grossWeight": "zul. Gesamtgewicht",
+                "searchfilters.basicData.make.add": "Weitere Marken hinzufügen",
+                "searchfilters.basicData.make.title": "Marke",
+                "searchfilters.basicData.makeModel.add": "Weitere Marken/Modelle hinzufügen",
+                "searchfilters.basicData.makeModel.edit": "Bearbeite {0} Marke/ Model",
+                "searchfilters.basicData.makeModel.indexOrdinal[1]": "erste",
+                "searchfilters.basicData.makeModel.indexOrdinal[2]": "zweite",
+                "searchfilters.basicData.makeModel.indexOrdinal[3]": "dritte",
+                "searchfilters.basicData.makeModel.make": "Marke",
+                "searchfilters.basicData.makeModel.model": "Modell",
+                "searchfilters.basicData.makeModel.otherMakes": "Andere Marken",
+                "searchfilters.basicData.makeModel.remove": "Löschen  {0} Marke/ Modell",
+                "searchfilters.basicData.makeModel.title": "Marke & Modell",
+                "searchfilters.basicData.makeModel.topMakes": "Top Marken",
+                "searchfilters.basicData.makeModel.version": "Variante",
+                "searchfilters.basicData.makeModel.version.example": "z. B. Plus, GTI, 218, usw.",
+                "searchfilters.basicData.mileage": "Kilometerstand",
+                "searchfilters.basicData.mileage.max": "Maximaler Kilometerstand",
+                "searchfilters.basicData.mileage.min": "Mindestkilometerstand",
+                "searchfilters.basicData.numberOfAxles": "Anzahl Achsen",
+                "searchfilters.basicData.registration": "Erstzulassung",
+                "searchfilters.basicData.registration.max": "Maximales Erstregistrierungsdatum",
+                "searchfilters.basicData.registration.min": "Mindestens Erstregistrierungsdatum",
+                "searchfilters.basicData.seats": "Sitzplätze",
+                "searchfilters.basicData.seats.max": "Maximale Anzahl an Sitzen",
+                "searchfilters.basicData.seats.min": "Mindestanzahl Sitzplätze",
+                "searchfilters.basicData.vehicleCondition": "Fahrzeugzustand",
+                "searchfilters.colors.color.beige": "Beige",
+                "searchfilters.colors.color.black": "Schwarz",
+                "searchfilters.colors.color.blue": "Blau",
+                "searchfilters.colors.color.bodyColor": "Außenfarbe",
+                "searchfilters.colors.color.bronze": "Bronze",
+                "searchfilters.colors.color.brown": "Braun",
+                "searchfilters.colors.color.gold": "Gold",
+                "searchfilters.colors.color.green": "Grün",
+                "searchfilters.colors.color.grey": "Grau",
+                "searchfilters.colors.color.interiorColor": "Polsterfarbe",
+                "searchfilters.colors.color.interiorColor.accordionTitle": "Polsterfarbe",
+                "searchfilters.colors.color.orange": "Orange",
+                "searchfilters.colors.color.paintwork": "Lackierungsart",
+                "searchfilters.colors.color.red": "Rot",
+                "searchfilters.colors.color.silver": "Silber",
+                "searchfilters.colors.color.upholstery": "Material",
+                "searchfilters.colors.color.upholstery.filterTag": "Material",
+                "searchfilters.colors.color.violet": "Violett",
+                "searchfilters.colors.color.white": "Weiß",
+                "searchfilters.colors.color.yellow": "Gelb",
+                "searchfilters.colors.exteriorColor": "Farbe",
+                "searchfilters.colors.title": "Farbe",
+                "searchfilters.crossBorder.filterTag": "Grenzübergreifend",
+                "searchfilters.detailsearch.header": "Detailsuche",
+                "searchfilters.environment.emissionClass": "Schadstoffklasse",
+                "searchfilters.environment.emissionClass.inputLabel": "Schadstoffklasse (mind.)",
+                "searchfilters.environment.emissionSticker": "Euro Umweltplakette",
+                "searchfilters.environment.emissionSticker.filterTag": "Euro Umweltplakette",
+                "searchfilters.environment.emissionSticker.inputLabel": "Feinstaubplakette (mind.)",
+                "searchfilters.environment.energyConsumption": "Umwelt",
+                "searchfilters.environment.energyConsumption.filterTag": "Schadstoffklasse",
+                "searchfilters.environment.sootParticleFilter": "Rußpartikelfilter",
+                "searchfilters.equipment.bedType": "Bettenart",
+                "searchfilters.hideUnused": "Ungenutzte Filter ausblenden",
+                "searchfilters.history.accident": "Unfallfahrzeug",
+                "searchfilters.history.accident.options.dontShow": "Nicht anzeigen",
+                "searchfilters.history.accident.options.dontShow.filterTag": "Keine Unfallfahrzeuge anzeigen",
+                "searchfilters.history.accident.options.showAlso": "Auch anzeigen",
+                "searchfilters.history.accident.options.showAlso.filterTag": "Unfallfahrzeuge anzeigen",
+                "searchfilters.history.accident.options.showOnly": "Nur anzeigen",
+                "searchfilters.history.accident.options.showOnly.filterTag": "Nur Unfallfahrzeuge anzeigen",
+                "searchfilters.history.details": "Fahrzeughistorie",
+                "searchfilters.history.owners": "Fahrzeughalter (max.)",
+                "searchfilters.interior.accordionTitle": "Polster",
+                "searchfilters.leasing.accordionTitle": "Leasing",
+                "searchfilters.leasing.availableNow": "Sofort verfügbar",
+                "searchfilters.leasing.duration": "Vertragslaufzeit",
+                "searchfilters.leasing.duration.max": "Maximale Laufzeit des Leasingvertrags\n",
+                "searchfilters.leasing.duration.min": "Minimum Laufzeit des Leasingvertrags\n\n",
+                "searchfilters.leasing.environmentBonus": "Umweltbonus",
+                "searchfilters.leasing.inputLabel": "Nur Leasing-Angebote",
+                "searchfilters.leasing.rate": "Leasingrate",
+                "searchfilters.leasing.rate.max": "Maximale Leasingrate",
+                "searchfilters.leasing.rate.min": "Mindestleasingrate",
+                "searchfilters.leasing.tradeInBonus": "Inzahlungnahme",
+                "searchfilters.leasing.yearlyIncludedMileage": "Fahrleistung pro Jahr (mind.)",
+                "searchfilters.location.areaSearch": "Stadt/PLZ",
+                "searchfilters.location.areaSearch.error": "Unbekannte Stadt oder PLZ",
+                "searchfilters.location.areaSearch.example.at": "z.B. Wien oder 1010",
+                "searchfilters.location.areaSearch.example.be": "z.B. Bruxelles oder 1000",
+                "searchfilters.location.areaSearch.example.de": "z.B. Berlin oder 10243",
+                "searchfilters.location.areaSearch.example.es": "z.B. Madrid oder 28013",
+                "searchfilters.location.areaSearch.example.eu": "Stadt/PLZ",
+                "searchfilters.location.areaSearch.example.fr": "z.B. Paris oder 75001",
+                "searchfilters.location.areaSearch.example.it": "z.B. Roma oder 00184",
+                "searchfilters.location.areaSearch.example.lu": "z.B. Luxembourg oder L-2314",
+                "searchfilters.location.areaSearch.example.nl": "z.B. Amsterdam oder 1012 CZ",
+                "searchfilters.location.areaSearch.geolocationError": "Fehler beim Abrufen des Browserstandorts.",
+                "searchfilters.location.areaSearch.yourLocation": "Standort anzeigen",
+                "searchfilters.location.countries.austria": "Österreich",
+                "searchfilters.location.countries.belgium": "Belgien",
+                "searchfilters.location.countries.europe": "Europa",
+                "searchfilters.location.countries.france": "Frankreich",
+                "searchfilters.location.countries.germany": "Deutschland",
+                "searchfilters.location.countries.italy": "Italien",
+                "searchfilters.location.countries.luxembourg": "Luxemburg",
+                "searchfilters.location.countries.netherlands": "Niederlande",
+                "searchfilters.location.countries.spain": "Spanien",
+                "searchfilters.location.country": "Land",
+                "searchfilters.location.crossborder": "Grenzübergreifend",
+                "searchfilters.location.details": "Standort",
+                "searchfilters.location.info": "Finden Sie Fahrzeuge in Ihrer Nähe mit der Umkreissuche. Bitte geben Sie Ort oder PLZ in der Landessprache des Fahrzeugstandorts ein.",
+                "searchfilters.location.radius": "Umkreis (km)",
+                "searchfilters.location.radius.placeholder": "Umkreis",
+                "searchfilters.mobile.clearFilters": "Alle Filter entfernen",
+                "searchfilters.mobile.resultsButton": "Autos",
+                "searchfilters.offerDetails.details": "Angebotsdetails",
+                "searchfilters.offerDetails.onlineSince": "Online seit",
+                "searchfilters.offerDetails.vatDeductible": "MwSt. ausweisbar",
+                "searchfilters.optionalEquipment.details": "Ausstattung",
+                "searchfilters.optionalEquipment.showAll": "Mehr Ausstattungskriterien",
+                "searchfilters.payment.buyOnline": "Zum Online-Kauf",
+                "searchfilters.payment.details": "Preis & Finanzierung",
+                "searchfilters.payment.ocsListing": "ocs Anzeige",
+                "searchfilters.payment.ocsListing.filter": "Onlinekauf & Lieferung",
+                "searchfilters.payment.ocsListing.filter.text": "Onlinekauf & Lieferung",
+                "searchfilters.payment.ocsListing.info.body": "Kaufe deinen neuen Gebrauchten direkt von AutoScout24! Für dich geprüft. Zum Festpreis. Ganz ohne Händlerbesuch. Zugelassen und fahrbereit liefern wir dein Auto direkt vor deine Haustüre.",
+                "searchfilters.payment.ocsListing.info.header": "AutoScout24 smyle - Dein Traumauto online kaufen.",
+                "searchfilters.payment.ocsListing.info.redirect": "Mehr erfahren",
+                "searchfilters.payment.price": "Kaufen",
+                "searchfilters.payment.price.from": "Preis von",
+                "searchfilters.payment.price.to": "Preis bis (€)",
+                "searchfilters.payment.priceEvaluation": "Preisbewertung",
+                "searchfilters.payment.priceEvaluation.details": "AutoScout24 Preisbewertung",
+                "searchfilters.payment.priceEvaluation.link": "Was ist das?",
+                "searchfilters.payment.pricingType": "Preistyp",
+                "searchfilters.payment.rate": "Finanzieren",
+                "searchfilters.payment.superDeal": "SuperDEAL",
+                "searchfilters.payment.superDeal.description": "Mindestens 5% Preis-Rabatt auf Gebraucht- und Neuwagen. Gültig für max. 30 Tage jeweils. Auf die Tube drücken und profitieren!",
+                "searchfilters.payment.superDeal.informNow": "Jetzt informieren",
+                "searchfilters.payment.superDeal.informNowLink": "https://www.autoscout24.de/promo-lp/autoscout24-superdeal/",
+                "searchfilters.payment.superDeal.modalTitle": "Heiße Angebote auf einen Blick!",
+                "searchfilters.priceEvaluation.description": "Die Preisbewertung gibt objektiv Aufschluss über das Preis-Leistungs-Verhältnis eines Angebots verglichen mit ähnlichen Fahrzeugmodellen. Der selbstlernende AutoScout24-Algorithmus berechnet den Marktpreis für jedes Fahrzeug. Danach wird der Marktpreis mit dem Angebotspreis des Verkäufers verglichen. Die Differenz daraus führt zur Vergabe unserer Labels.",
+                "searchfilters.priceEvaluation.expensivePrice": "Hoher Preis",
+                "searchfilters.priceEvaluation.expensivePrice.description": "Das Preis-Leistungs-Verhältnis liegt deutlich über dem aktuellen Marktwert. Das Fahrzeug weist eventuell Besonderheiten wie zum Beispiel Sonderausstattungen, überdurchschnittliche Fahrzeug-Aufbereitung oder Umbauten auf. Wir empfehlen: Beachte die detaillierte Fahrzeug-Beschreibung oder frage gezielt beim Verkäufer nach.",
+                "searchfilters.priceEvaluation.fairPrice": "Fairer Preis",
+                "searchfilters.priceEvaluation.fairPrice.description": "Das Preis-Leistungs-Verhältnis entspricht dem aktuellen Marktwert.",
+                "searchfilters.priceEvaluation.fairPrice.description.new": "Das Preis-Leistungs-Verhältnis entspricht dem aktuellen Marktwert.",
+                "searchfilters.priceEvaluation.fairPrice.new": "Fairer Preis",
+                "searchfilters.priceEvaluation.goodPrice": "Guter Preis",
+                "searchfilters.priceEvaluation.goodPrice.description": "Das Preis-Leistungs-Verhältnis liegt etwas unter dem aktuellen Marktwert.",
+                "searchfilters.priceEvaluation.goodPrice.description.new": "Das Preis-Leistungs-Verhältnis liegt etwas unter dem aktuellen Marktwert.",
+                "searchfilters.priceEvaluation.goodPrice.new": "Guter Preis",
+                "searchfilters.priceEvaluation.greyPrice": "Keine Angabe",
+                "searchfilters.priceEvaluation.greyPrice.description": "Sind zu wenige Vergleichsmodelle vorhanden, kann kein Label vergeben werden. Dies ist der Fall bei sehr seltenen Fahrzeugen wie Oldtimern, zu wenig Angaben oder deutlich zu hohen oder zu niedrigen Preisen. Diese Fahrzeuge fließen dann auch nicht in die Berechnung mit ein.",
+                "searchfilters.priceEvaluation.greyPrice.description.new": "Sind zu wenige Vergleichsmodelle vorhanden, kann kein Label vergeben werden. Dies ist der Fall bei sehr seltenen Fahrzeugen wie Oldtimern, zu wenig Angaben oder deutlich zu hohen oder zu niedrigen Preisen. Diese Fahrzeuge fließen dann auch nicht in die Berechnung mit ein.",
+                "searchfilters.priceEvaluation.headline": "Die AutoScout24 Bewertungskategorien",
+                "searchfilters.priceEvaluation.somewhatExpensivePrice": "Erhöhter Preis",
+                "searchfilters.priceEvaluation.somewhatExpensivePrice.description": "Das Preis-Leistungs-Verhältnis liegt leicht über dem aktuellen Marktwert.",
+                "searchfilters.priceEvaluation.veryGoodPrice": "Sehr guter Preis",
+                "searchfilters.priceEvaluation.veryGoodPrice.description": "Das Preis-Leistungs-Verhältnis liegt deutlich unter dem aktuellen Marktwert. Wir empfehlen die detaillierte Beschreibung bzgl. Besonderheiten und Mängel zu diesem Angebot zu beachten.",
+                "searchfilters.priceEvaluation.veryGoodPrice.description.new": "Das Preis-Leistungs-Verhältnis liegt deutlich unter dem aktuellen Marktwert. Wir empfehlen die detaillierte Beschreibung bzgl. Besonderheiten und Mängel zu diesem Angebot zu beachten.",
+                "searchfilters.priceEvaluation.veryGoodPrice.new": "Sehr guter Preis",
+                "searchfilters.range.from": "von",
+                "searchfilters.range.to": "bis",
+                "searchfilters.removeAllFilters": "Alle Filter entfernen",
+                "searchfilters.sellerandseals.guarantee": "Garantie",
+                "searchfilters.sellerandseals.seals.combinedSealDescription": "Technisch geprüfte Fahrzeuge mit Garantie anderer Hersteller",
+                "searchfilters.sellerandseals.seals.combinedSealLabel": "Weitere Herstellerzertifizierungen",
+                "searchfilters.sellerandseals.seals.defaultSealDescription": "Technisch geprüfte Fahrzeuge mit Garantie",
+                "searchfilters.sellerandseals.seals.defaultSealLabel": "Herstellerzertifizierung",
+                "searchfilters.sellerandseals.title": "Verkäufer und Zertifikate",
+                "searchfilters.sellerandseals.tooltip": "Technisch geprüfte Fahrzeuge mit Garantie",
+                "searchfilters.sellerandseals.tooltip.huAu": "Fahrzeuge mit neuer Haupt- und Abgasuntersuchung",
+                "searchfilters.show": "Anzeigen",
+                "searchfilters.technicalData.details": "Technische Daten",
+                "searchfilters.technicalData.fuel": "Kraftstoff",
+                "searchfilters.technicalData.gear": "Getriebe",
+                "searchfilters.technicalData.power": "Leistung",
+                "shared.addToList": "Merken",
+                "shared.all": "Alle",
+                "shared.back": "Zurück",
+                "shared.close": "Schließen",
+                "shared.favorite.addToFavorites": "Merken",
+                "shared.favorite.added": "Das Fahrzeug wurde zum Merkzettel hinzugefügt.",
+                "shared.favorite.addedToFavorites": "Gemerkt",
+                "shared.favorite.removed": "Das Fahrzeug wurde vom Merkzettel entfernt.",
+                "shared.financedetail": "Finanzierungsdetails",
+                "shared.footnotes.buywithconfidence": "Auflistung auf Basis der Angaben vom Siegelanbieter.",
+                "shared.footnotes.co2EmissionLegalText": "Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist. ",
+                "shared.footnotes.dealerPrice": "Händlerpreis",
+                "shared.footnotes.finalPrice": "Öffentlicher Endpreis inklusive aller Gebühren und Steuern.",
+                "shared.footnotes.monthlyRate": "Unter Raten verstehen wir den indikativen monatlichen Betrag bezogen auf das ausgeschriebene Finanzierungsbeispiel. Wir empfehlen dem Verbraucher, die Anzeige sorgfältig zu lesen. Der Verbraucher kann verschiedene Zahlungs- und/oder Finanzierungsformen bewerten, indem er den Werbetreibenden oder andere Finanzinstitute kontaktiert.",
+                "shared.footnotes.vatDeductible": "MwSt. ausweisbar",
+                "shared.footnotes.withFallbackValues": "Die angegebenen Werte wurden nach dem vorgeschriebenen Messverfahren (gemäß Pkw-EnVKV in der jeweils geltenden Fassung) ermittelt. Die Angaben beziehen sich auf das angebotene Fahrzeugmodell und dienen Vergleichszwecken zwischen den verschiedenen Fahrzeugtypen.",
+                "shared.footnotes.withoutFallbackValues": "Bei den angegebenen Daten handelt es sich um Circa-Angaben des Angebot-Erstellers. Die Werte können Erfahrungen zu diesem Modell darstellen oder aus anderen Quellen stammen.",
+                "shared.here": "Hier",
+                "shared.insurancedetail": "Kfz-Versicherungsdetails",
+                "shared.leasing.targetGroupBoth": "Privat/Gewerblich",
+                "shared.leasing.targetGroupBusiness": "Gewerblich",
+                "shared.leasing.targetGroupPrivate": "Privat",
+                "shared.leasingDetailsHere": "Leasingdetails hier",
+                "shared.leasingdetail": "financing details",
+                "shared.listItem.leasing.perMonthExclVat": "mtl. exkl. MwSt.",
+                "shared.listItem.leasing.registrationCost": "Zulassungskosten",
+                "shared.listItem.leasing.transferCost": "Überführungskosten",
+                "shared.monthlyNoAbbreviation": "monatlich",
+                "shared.new": "Neu",
+                "shared.next": "Weiter",
+                "shared.search": "Suchen",
+                "shared.sellerType.privateSeller": "Privat",
+                "shared.share": "Teilen",
+                "shared.share.copied": "Link kopiert.",
+                "shared.share.dropDownTitle": "Angebot teilen",
+                "shared.share.dropdown.copyLink": "Link kopieren",
+                "shared.share.label": "Teilen",
+                "shared.share.mail.body": "Hallo,%0D%0A%0D%0A \nich habe bei AutoScout24 ein Fahrzeug gefunden, das dir gefallen könnte:%0D%0A%0D%0A \nFahrzeug%0D%0A \n________________________________________%0D%0A%0D%0A \nMarke: {0}%0D%0A \n{1} \n%0D%0A \nAlle Details zum Fahrzeug gibt%27s hier:%0D%0A \n%url%%0D%0A%0D%0A \nViele Grüße",
+                "shared.share.mail.body.monthlyLeasingRate": "Monatliche Leasing-Rate: {0}%0D%0A",
+                "shared.share.mail.body.price": "Preis: {0}%0D%0A",
+                "shared.share.mail.title": "Autoscout24.de - Fahrzeugempfehlung",
+                "shared.superdealInfoText": "Dieser Preis war mindestens 14 Tage online, bevor er gesenkt wurde.",
+                "shared.yes": "Ja"
+            },
+            "routeTranslations": {
+                "routes.dealer": "haendler",
+                "routes.aboutus": "ueber-uns",
+                "routes.list": "fahrzeuge",
+                "routes.rating": "bewertungen",
+                "routes.contact": "kontakt",
+                "routes.imprint": "impressum"
+            },
+            "routes": {
+                "home": "/haendler/auto-wolter-und-pro-motors-faber-automobile",
+                "aboutus": "/haendler/auto-wolter-und-pro-motors-faber-automobile/ueber-uns",
+                "list": "/haendler/auto-wolter-und-pro-motors-faber-automobile/fahrzeuge",
+                "rating": "/haendler/auto-wolter-und-pro-motors-faber-automobile/bewertungen",
+                "imprint": "/haendler/auto-wolter-und-pro-motors-faber-automobile/impressum"
+            },
+            "showcarUiFragmentHtml": "\n<head>\n  <meta name=\"theme-color\" content=\"#FFFFFF\" />\n  <script data-pagespeed-no-defer pagespeed_no_defer>\n    /*! (C) WebReflection Mit Style License */\n(function(e,t,n,r){\"use strict\";function rt(e,t){for(var n=0,r=e.length;n<r;n++)vt(e[n],t)}function it(e){for(var t=0,n=e.length,r;t<n;t++)r=e[t],nt(r,b[ot(r)])}function st(e){return function(t){j(t)&&(vt(t,e),rt(t.querySelectorAll(w),e))}}function ot(e){var t=e.getAttribute(\"is\"),n=e.nodeName.toUpperCase(),r=S.call(y,t?v+t.toUpperCase():d+n);return t&&-1<r&&!ut(n,t)?-1:r}function ut(e,t){return-1<w.indexOf(e+'[is=\"'+t+'\"]')}function at(e){var t=e.currentTarget,n=e.attrChange,r=e.attrName,i=e.target;Q&&(!i||i===t)&&t.attributeChangedCallback&&r!==\"style\"&&e.prevValue!==e.newValue&&t.attributeChangedCallback(r,n===e[a]?null:e.prevValue,n===e[l]?null:e.newValue)}function ft(e){var t=st(e);return function(e){X.push(t,e.target)}}function lt(e){K&&(K=!1,e.currentTarget.removeEventListener(h,lt)),rt((e.target||t).querySelectorAll(w),e.detail===o?o:s),B&&pt()}function ct(e,t){var n=this;q.call(n,e,t),G.call(n,{target:n})}function ht(e,t){D(e,t),et?et.observe(e,z):(J&&(e.setAttribute=ct,e[i]=Z(e),e.addEventListener(p,G)),e.addEventListener(c,at)),e.createdCallback&&Q&&(e.created=!0,e.createdCallback(),e.created=!1)}function pt(){for(var e,t=0,n=F.length;t<n;t++)e=F[t],E.contains(e)||(n--,F.splice(t--,1),vt(e,o))}function dt(e){throw new Error(\"A \"+e+\" type is already registered\")}function vt(e,t){var n,r=ot(e);-1<r&&(tt(e,b[r]),r=0,t===s&&!e[s]?(e[o]=!1,e[s]=!0,r=1,B&&S.call(F,e)<0&&F.push(e)):t===o&&!e[o]&&(e[s]=!1,e[o]=!0,r=1),r&&(n=e[t+\"Callback\"])&&n.call(e))}if(r in t)return;var i=\"__\"+r+(Math.random()*1e5>>0),s=\"attached\",o=\"detached\",u=\"extends\",a=\"ADDITION\",f=\"MODIFICATION\",l=\"REMOVAL\",c=\"DOMAttrModified\",h=\"DOMContentLoaded\",p=\"DOMSubtreeModified\",d=\"<\",v=\"=\",m=/^[A-Z][A-Z0-9]*(?:-[A-Z0-9]+)+$/,g=[\"ANNOTATION-XML\",\"COLOR-PROFILE\",\"FONT-FACE\",\"FONT-FACE-SRC\",\"FONT-FACE-URI\",\"FONT-FACE-FORMAT\",\"FONT-FACE-NAME\",\"MISSING-GLYPH\"],y=[],b=[],w=\"\",E=t.documentElement,S=y.indexOf||function(e){for(var t=this.length;t--&&this[t]!==e;);return t},x=n.prototype,T=x.hasOwnProperty,N=x.isPrototypeOf,C=n.defineProperty,k=n.getOwnPropertyDescriptor,L=n.getOwnPropertyNames,A=n.getPrototypeOf,O=n.setPrototypeOf,M=!!n.__proto__,_=n.create||function mt(e){return e?(mt.prototype=e,new mt):this},D=O||(M?function(e,t){return e.__proto__=t,e}:L&&k?function(){function e(e,t){for(var n,r=L(t),i=0,s=r.length;i<s;i++)n=r[i],T.call(e,n)||C(e,n,k(t,n))}return function(t,n){do e(t,n);while((n=A(n))&&!N.call(n,t));return t}}():function(e,t){for(var n in t)e[n]=t[n];return e}),P=e.MutationObserver||e.WebKitMutationObserver,H=(e.HTMLElement||e.Element||e.Node).prototype,B=!N.call(H,E),j=B?function(e){return e.nodeType===1}:function(e){return N.call(H,e)},F=B&&[],I=H.cloneNode,q=H.setAttribute,R=H.removeAttribute,U=t.createElement,z=P&&{attributes:!0,characterData:!0,attributeOldValue:!0},W=P||function(e){J=!1,E.removeEventListener(c,W)},X,V=e.requestAnimationFrame||e.webkitRequestAnimationFrame||e.mozRequestAnimationFrame||e.msRequestAnimationFrame||function(e){setTimeout(e,10)},$=!1,J=!0,K=!0,Q=!0,G,Y,Z,et,tt,nt;O||M?(tt=function(e,t){N.call(t,e)||ht(e,t)},nt=ht):(tt=function(e,t){e[i]||(e[i]=n(!0),ht(e,t))},nt=tt),B?(J=!1,function(){var e=k(H,\"addEventListener\"),t=e.value,n=function(e){var t=new CustomEvent(c,{bubbles:!0});t.attrName=e,t.prevValue=this.getAttribute(e),t.newValue=null,t[l]=t.attrChange=2,R.call(this,e),this.dispatchEvent(t)},r=function(e,t){var n=this.hasAttribute(e),r=n&&this.getAttribute(e),i=new CustomEvent(c,{bubbles:!0});q.call(this,e,t),i.attrName=e,i.prevValue=n?r:null,i.newValue=t,n?i[f]=i.attrChange=1:i[a]=i.attrChange=0,this.dispatchEvent(i)},s=function(e){var t=e.currentTarget,n=t[i],r=e.propertyName,s;n.hasOwnProperty(r)&&(n=n[r],s=new CustomEvent(c,{bubbles:!0}),s.attrName=n.name,s.prevValue=n.value||null,s.newValue=n.value=t[r]||null,s.prevValue==null?s[a]=s.attrChange=0:s[f]=s.attrChange=1,t.dispatchEvent(s))};e.value=function(e,o,u){e===c&&this.attributeChangedCallback&&this.setAttribute!==r&&(this[i]={className:{name:\"class\",value:this.className}},this.setAttribute=r,this.removeAttribute=n,t.call(this,\"propertychange\",s)),t.call(this,e,o,u)},C(H,\"addEventListener\",e)}()):P||(E.addEventListener(c,W),E.setAttribute(i,1),E.removeAttribute(i),J&&(G=function(e){var t=this,n,r,s;if(t===e.target){n=t[i],t[i]=r=Z(t);for(s in r){if(!(s in n))return Y(0,t,s,n[s],r[s],a);if(r[s]!==n[s])return Y(1,t,s,n[s],r[s],f)}for(s in n)if(!(s in r))return Y(2,t,s,n[s],r[s],l)}},Y=function(e,t,n,r,i,s){var o={attrChange:e,currentTarget:t,attrName:n,prevValue:r,newValue:i};o[s]=e,at(o)},Z=function(e){for(var t,n,r={},i=e.attributes,s=0,o=i.length;s<o;s++)t=i[s],n=t.name,n!==\"setAttribute\"&&(r[n]=t.value);return r})),t[r]=function(n,r){c=n.toUpperCase(),$||($=!0,P?(et=function(e,t){function n(e,t){for(var n=0,r=e.length;n<r;t(e[n++]));}return new P(function(r){for(var i,s,o,u=0,a=r.length;u<a;u++)i=r[u],i.type===\"childList\"?(n(i.addedNodes,e),n(i.removedNodes,t)):(s=i.target,Q&&s.attributeChangedCallback&&i.attributeName!==\"style\"&&(o=s.getAttribute(i.attributeName),o!==i.oldValue&&s.attributeChangedCallback(i.attributeName,i.oldValue,o)))})}(st(s),st(o)),et.observe(t,{childList:!0,subtree:!0})):(X=[],V(function E(){while(X.length)X.shift().call(null,X.shift());V(E)}),t.addEventListener(\"DOMNodeInserted\",ft(s)),t.addEventListener(\"DOMNodeRemoved\",ft(o))),t.addEventListener(h,lt),t.addEventListener(\"readystatechange\",lt),t.createElement=function(e,n){var r=U.apply(t,arguments),i=\"\"+e,s=S.call(y,(n?v:d)+(n||i).toUpperCase()),o=-1<s;return n&&(r.setAttribute(\"is\",n=n.toLowerCase()),o&&(o=ut(i.toUpperCase(),n))),Q=!t.createElement.innerHTMLHelper,o&&nt(r,b[s]),r},H.cloneNode=function(e){var t=I.call(this,!!e),n=ot(t);return-1<n&&nt(t,b[n]),e&&it(t.querySelectorAll(w)),t}),-2<S.call(y,v+c)+S.call(y,d+c)&&dt(n);if(!m.test(c)||-1<S.call(g,c))throw new Error(\"The type \"+n+\" is invalid\");var i=function(){return f?t.createElement(l,c):t.createElement(l)},a=r||x,f=T.call(a,u),l=f?r[u].toUpperCase():c,c,p;return f&&-1<S.call(y,d+l)&&dt(l),p=y.push((f?v:d)+c)-1,w=w.concat(w.length?\",\":\"\",f?l+'[is=\"'+n.toLowerCase()+'\"]':l),i.prototype=b[p]=T.call(a,\"prototype\")?a.prototype:_(H),rt(t.querySelectorAll(w),s),i}})(window,document,Object,\"registerElement\");\n  </script>\n  <link rel=\"stylesheet\" href=\"/assets/external/showcar-ui/master/315/showcar-ui.css\" />\n</head>\n<script src=\"/assets/external/showcar-ui/master/315/showcar-ui.js\"></script>\n\n\n",
+            "jsonLd": "{\"@context\":\"http://schema.org\",\"@type\":\"AutoDealer\",\"name\":\"AUTO WOLTER  &  PRO-MOTORS  FABER  Automobile\",\"description\":\"Seit 1990 freie KFZ-Meister-Werkstatt für alle Fabrikate !\\nSeit 1997 SUBARU Vertragspartner !\\nSeit 1999 zertifizierter Gasumrüster für Fahrzeuge !\\nSUBARU Service , Ersatzteile , Reparaturen und Verkauf von Neuwagen , Vorführwagen und Gebrauchtwagen !\\nVertrieb von meistergeprüften Gebrauchtwagen !\\nInzahlungnahme und freier Ankauf von Gebrauchtwagen !\\nUnfallinstandsetzungen !\\nGlasbruch- und Steinschlagschädenbeseitigung !\\nSmart-Repair von Karroserie- , Lack- und Glasschäden !\\nReifenservice (inkl. Einlagerung von Sommer- und Winterreifen) !\\nKFZ-Versicherungen und Finanzdienstleistungen \\nTÜV & DEKRA  Stützpunkt\\n\\nSeit 2020 Erweiterung und Ausbau des Fahrzeughandel mit Neufahrzeugen anderer Marken aus Deutschland und weiteren EU-Ländern.\\nFreier Ankauf und Verkauf meistergeprüften Gebrauchtfahrzeugen aller Typen und Marken. \\nHierzu bieten wir Hilfe bei Finanzierungs- und Leasingfragen nach Ihren Vorstellungen , gerne  mit auch Garantien für Ihr Wunschfahrzeug bis 12 Jahren Fahrzeugalter .\\nHilfe zu allen Fragen rund ums Fahrzeug mit Consulting und Beratung durch die PRO - MOTORS  Faber Automobile !\\nWir freuen uns auf Sie und möchten Sie nur vollkommen zufrieden stellen !\\nBitte sprechen Sie uns an und besuchen uns.   \\n\\n\\n\\n\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Ludwig-Erhard-Straße 9\",\"addressLocality\":\"Bergheim\",\"postalCode\":\"50129\",\"addressCountry\":\"DE\"},\"contactPoint\":[{\"@type\":\"ContactPoint\",\"name\":\"Hajo Faber\",\"email\":\"h.faber@autowolter.de\",\"contactType\":\"customer support\",\"telephone\":\"+49 (0)1637-298478\"}],\"brand\":[\"Subaru\",\"Audi\",\"BMW\",\"Citroen\",\"Dacia\",\"Daihatsu\",\"Fiat\",\"Ford\",\"Honda\",\"Hyundai\",\"Infiniti\",\"Jaguar\",\"Jeep\",\"Kia\",\"Land Rover\",\"Lexus\",\"Mazda\",\"Mercedes-Benz\",\"MINI\",\"Mitsubishi\",\"Nissan\",\"Oldtimer\",\"Opel\",\"Peugeot\",\"Porsche\",\"Renault\",\"Saab\",\"SEAT\",\"Skoda\",\"smart\",\"Subaru\",\"Suzuki\",\"Toyota\",\"Volvo\",\"Volkswagen\",\"Wiesmann\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":4.96,\"ratingCount\":273},\"hasOfferCatalog\":{\"@type\":\"OfferCatalog\",\"name\":\"additional services\",\"itemListElement\":[{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Abgastest\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Autoelektrik\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Autoglaserei\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Autozubehör\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"DEKRA Siegel\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Design\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Ersatzteileexpressversand\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Ersatzteileverkauf\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Ersatzwagen\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Fahrwerksumbauten\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Finanzservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Gutachten bei Unfallfahrzeugen\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Hauptuntersuchung\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Karosserie\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Klimaanlagenservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Lackiererei\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Lackierung, Kunststoffbeschichtungen\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Meisterwerkstatt\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Motoreninstandsetzung\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Navigationssysteme\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Reifenservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Reifenverkauf\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Schnellservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Telefonverkauf\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Veredelung, Umbauten\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Versicherungen\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Werkstatt\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Zulassungsservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Zylinderreparatur (Hohnen,Schleifen,Beschichten)\"}}]},\"openingHours\":[\"Mo 08:00-17:00\",\"Tu 08:00-17:00\",\"We 08:00-17:00\",\"Th 08:00-17:00\",\"Fr 08:00-15:30\"],\"member\":[],\"url\":\"https://www.autoscout24.de/haendler/auto-wolter-und-pro-motors-faber-automobile\",\"image\":\"https://prod.pictures.autoscout24.net/dealer-info/17816441-original-9132a506-4bd2-46d5-a459-400f75ff3667.jpg/resize/1200x800>/quality/90/\",\"logo\":\"https://prod.pictures.autoscout24.net/dealer-info/17816441-original-540dc244-7fc9-41f1-b457-b98961859edf.jpg/resize/130x39>/quality/90/\",\"telephone\":\"+49 (0)2238 - 945128\",\"faxNumber\":\"+49 (0)2238 - 945129\"}",
+            "optimizelyVariations": {
+                "experimentMock": null
+            },
+            "isTestDealer": false,
+            "useNewFavApi": true,
+            "language": "de",
+            "topRatingToggle": false,
+            "listingSummaryCompactAssetsFragmentHtml": "\n<head>\n    <link rel=\"stylesheet\" href=\"/assets/classified-detail/stylesheets/94f7805c7d785b4807de15ef9d8b41b2-listing-summary-item-compact.min.css\">\n    <link rel=\"stylesheet\" href=\"/assets/classified-detail/stylesheets/f763cb53f257ff2007430c04ab8786df-listing-summary-gallery.min.css\">\n    \n    \n        <script src=\"/assets/classified-detail/js/cbee149abc1fc1715266db306aa9fed4-as24-footnotes.min.js\"></script>\n    \n    <script src=\"/assets/classified-detail/js/5944ccf40f63c455a935e18e8accaec3-listing-summary-item-compact.min.js\"></script>\n    <script src=\"/assets/classified-detail/js/9286d19a044a32bbd17ee8e6d69fd64c-listing-summary-item-superdeal.min.js\"></script>\n</head>\n",
+            "newOffersFragmentHtml": "<div class=\"dp-offers\">\n      <div class=\"dp-offers__item\">\n            \n\n\n<a href=\"/angebote/volkswagen-golf-match-supersauber-fr-insp-pdc-alu-wkr-garantie-benzin-silber-788ff8b0-51b8-4e09-96ba-b1f893fb83fa\" class=\"cldt-summary-compact-item\" data-item-name=\"listing-summary-compact-container\">\n    <div class=\"cldt-summary-image\" data-item-name=\"image\" data-cs-mask>\n        <as24-listing-summary-image data-item-name=\"image\"\n                            data-images-count=\"1\"\n                            data-image=\"Some(https://prod.pictures.autoscout24.net/listing-images/788ff8b0-51b8-4e09-96ba-b1f893fb83fa_a913d8dc-42e4-4d59-93ea-6bada7042358.jpg/{size}.{format})\"\n                            data-image-sizes=\"60x45,120x90,250x188 ,289x217,360x270,420x315,540x405,640x480,800x600,1280x960,2560x1920\"\n                            data-listing-id=\"788ff8b0-51b8-4e09-96ba-b1f893fb83fa\"\n                            class=\"native-lazy shine listing-image\">\n    \n        <picture>\n            <source media=\"(max-width: 420px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/788ff8b0-51b8-4e09-96ba-b1f893fb83fa_a913d8dc-42e4-4d59-93ea-6bada7042358.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 640px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/788ff8b0-51b8-4e09-96ba-b1f893fb83fa_a913d8dc-42e4-4d59-93ea-6bada7042358.jpg/640x480.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 767px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/788ff8b0-51b8-4e09-96ba-b1f893fb83fa_a913d8dc-42e4-4d59-93ea-6bada7042358.jpg/800x600.jpg\" type=\"image/jpeg\">\n            <source media=\"(min-width: 768px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/788ff8b0-51b8-4e09-96ba-b1f893fb83fa_a913d8dc-42e4-4d59-93ea-6bada7042358.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <img src=\"https://prod.pictures.autoscout24.net/listing-images/788ff8b0-51b8-4e09-96ba-b1f893fb83fa_a913d8dc-42e4-4d59-93ea-6bada7042358.jpg/420x315.jpg\" loading=\"lazy\">\n        </picture>\n    \n\n    \n    \n\n</as24-listing-summary-image>\n    </div>\n\n    <h2 class=\"cldt-summary-headline sc-ellipsis sc-font-m\"  data-item-name=\"headline\">\n        <span class=\"sc-font-bold cldt-summary-make-model\">Volkswagen Golf</span>\n        \n            <span class=\"cldt-summary-version\">MATCH supersauber fr.Insp.PDC..Alu.WKR.Garantie</span>\n        \n    </h2>\n\n    <div class=\"cldt-summary\">\n        <div class=\"cldt-summary-pricing \" data-item-name='pricing'>\n            \n                \n                    \n\n<span class=\"cldt-price sc-font-l sc-font-bold\" data-item-name=\"price\">\n        € 9.380,-\n        \n\n\n</span>\n\n                \n                \n            \n        </div>\n\n        <div class=\"cldt-summary-vehicle-data \" data-item-name=\"vehicle-data\" >\n            \n\n\n\n\n\n\n\n\n\n\n\n\n<ul data-item-name=\"vehicle-details\"  class=\"\">\n    \n    \n    \n    <li  data-type=\"mileage\" >\n        109.200 km\n        \n    </li>\n\n    \n    <li  data-type=\"first-registration\" >\n        11/2012\n        \n    </li>\n\n    \n    <li   >\n        77 kW (105 PS)\n        \n    </li>\n\n    \n    <li  data-type=\"offer-type\" >\n        Gebraucht\n        \n    </li>\n\n    \n    <li  data-type=\"previous-owners\" >\n        2 Fahrzeughalter\n        \n    </li>\n\n    \n    <li  data-type=\"transmission-type\" >\n        Schaltgetriebe\n        \n    </li>\n\n    \n    <li   class=\"summary_item_no_bottom_line\">\n        Benzin\n        \n    </li>\n\n    \n    <li  data-type=\"combined-consumption\" class=\"summary_item_no_bottom_line\">\n        5,2 l/100 km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    <li  data-type=\"co2-emission\" class=\"summary_item_no_bottom_line\">\n        121 g/km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    \n    \n\n</ul>\n\n        </div>\n    </div>\n    \n        <div class=\"cldt-summary-seller sc-font-s sc-ellipsis\" data-item-name=\"seller\" data-cs-mask>\n            \n\n    <span data-test=\"seller-type\">Händler,&nbsp;</span>\n\n<span>DE-50129 Bergheim</span>\n\n        </div>\n    \n\n</a>\n\n          </div>,<div class=\"dp-offers__item\">\n            \n\n\n<a href=\"/angebote/skoda-fabia-fresh-kombi-navi-shz-ahk-1-hd-klima-alu-subersaube-benzin-blau-8544caa6-08ca-4de4-9158-3eab069d74ca\" class=\"cldt-summary-compact-item\" data-item-name=\"listing-summary-compact-container\">\n    <div class=\"cldt-summary-image\" data-item-name=\"image\" data-cs-mask>\n        <as24-listing-summary-image data-item-name=\"image\"\n                            data-images-count=\"1\"\n                            data-image=\"Some(https://prod.pictures.autoscout24.net/listing-images/8544caa6-08ca-4de4-9158-3eab069d74ca_d3dfa983-8d0e-4c79-a9c2-37109b0d64d9.jpg/{size}.{format})\"\n                            data-image-sizes=\"60x45,120x90,250x188 ,289x217,360x270,420x315,540x405,640x480,800x600,1280x960,2560x1920\"\n                            data-listing-id=\"8544caa6-08ca-4de4-9158-3eab069d74ca\"\n                            class=\"native-lazy shine listing-image\">\n    \n        <picture>\n            <source media=\"(max-width: 420px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/8544caa6-08ca-4de4-9158-3eab069d74ca_d3dfa983-8d0e-4c79-a9c2-37109b0d64d9.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 640px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/8544caa6-08ca-4de4-9158-3eab069d74ca_d3dfa983-8d0e-4c79-a9c2-37109b0d64d9.jpg/640x480.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 767px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/8544caa6-08ca-4de4-9158-3eab069d74ca_d3dfa983-8d0e-4c79-a9c2-37109b0d64d9.jpg/800x600.jpg\" type=\"image/jpeg\">\n            <source media=\"(min-width: 768px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/8544caa6-08ca-4de4-9158-3eab069d74ca_d3dfa983-8d0e-4c79-a9c2-37109b0d64d9.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <img src=\"https://prod.pictures.autoscout24.net/listing-images/8544caa6-08ca-4de4-9158-3eab069d74ca_d3dfa983-8d0e-4c79-a9c2-37109b0d64d9.jpg/420x315.jpg\" loading=\"lazy\">\n        </picture>\n    \n\n    \n    \n\n</as24-listing-summary-image>\n    </div>\n\n    <h2 class=\"cldt-summary-headline sc-ellipsis sc-font-m\"  data-item-name=\"headline\">\n        <span class=\"sc-font-bold cldt-summary-make-model\">Skoda Fabia</span>\n        \n            <span class=\"cldt-summary-version\">FRESH KOMBI NAVI SHZ AHK 1.HD KLIMA ALU SUBERSAUBE</span>\n        \n    </h2>\n\n    <div class=\"cldt-summary\">\n        <div class=\"cldt-summary-pricing \" data-item-name='pricing'>\n            \n                \n                    \n\n<span class=\"cldt-price sc-font-l sc-font-bold\" data-item-name=\"price\">\n        € 9.190,-\n        \n\n\n</span>\n\n                \n                \n            \n        </div>\n\n        <div class=\"cldt-summary-vehicle-data \" data-item-name=\"vehicle-data\" >\n            \n\n\n\n\n\n\n\n\n\n\n\n\n<ul data-item-name=\"vehicle-details\"  class=\"\">\n    \n    \n    \n    <li  data-type=\"mileage\" >\n        84.600 km\n        \n    </li>\n\n    \n    <li  data-type=\"first-registration\" >\n        06/2013\n        \n    </li>\n\n    \n    <li   >\n        63 kW (86 PS)\n        \n    </li>\n\n    \n    <li  data-type=\"offer-type\" >\n        Gebraucht\n        \n    </li>\n\n    \n    <li  data-type=\"previous-owners\" >\n        1 Fahrzeughalter\n        \n    </li>\n\n    \n    <li  data-type=\"transmission-type\" >\n        Schaltgetriebe\n        \n    </li>\n\n    \n    <li   class=\"summary_item_no_bottom_line\">\n        Benzin\n        \n    </li>\n\n    \n    <li  data-type=\"combined-consumption\" class=\"summary_item_no_bottom_line\">\n        5,2 l/100 km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    <li  data-type=\"co2-emission\" class=\"summary_item_no_bottom_line\">\n        123 g/km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    \n    \n\n</ul>\n\n        </div>\n    </div>\n    \n        <div class=\"cldt-summary-seller sc-font-s sc-ellipsis\" data-item-name=\"seller\" data-cs-mask>\n            \n\n    <span data-test=\"seller-type\">Händler,&nbsp;</span>\n\n<span>DE-50129 Bergheim</span>\n\n        </div>\n    \n\n</a>\n\n          </div>,<div class=\"dp-offers__item\">\n            \n\n\n<a href=\"/angebote/hyundai-i40-kombi-1-6-subersauber-alle-inspektionen-alu-benzin-weiss-a3a84990-d500-4adc-aacc-eda6817d75ef\" class=\"cldt-summary-compact-item\" data-item-name=\"listing-summary-compact-container\">\n    <div class=\"cldt-summary-image\" data-item-name=\"image\" data-cs-mask>\n        <as24-listing-summary-image data-item-name=\"image\"\n                            data-images-count=\"1\"\n                            data-image=\"Some(https://prod.pictures.autoscout24.net/listing-images/a3a84990-d500-4adc-aacc-eda6817d75ef_66f750f9-5bb8-4f36-8722-2eba840ae75c.jpg/{size}.{format})\"\n                            data-image-sizes=\"60x45,120x90,250x188 ,289x217,360x270,420x315,540x405,640x480,800x600,1280x960,2560x1920\"\n                            data-listing-id=\"a3a84990-d500-4adc-aacc-eda6817d75ef\"\n                            class=\"native-lazy shine listing-image\">\n    \n        <picture>\n            <source media=\"(max-width: 420px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/a3a84990-d500-4adc-aacc-eda6817d75ef_66f750f9-5bb8-4f36-8722-2eba840ae75c.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 640px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/a3a84990-d500-4adc-aacc-eda6817d75ef_66f750f9-5bb8-4f36-8722-2eba840ae75c.jpg/640x480.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 767px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/a3a84990-d500-4adc-aacc-eda6817d75ef_66f750f9-5bb8-4f36-8722-2eba840ae75c.jpg/800x600.jpg\" type=\"image/jpeg\">\n            <source media=\"(min-width: 768px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/a3a84990-d500-4adc-aacc-eda6817d75ef_66f750f9-5bb8-4f36-8722-2eba840ae75c.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <img src=\"https://prod.pictures.autoscout24.net/listing-images/a3a84990-d500-4adc-aacc-eda6817d75ef_66f750f9-5bb8-4f36-8722-2eba840ae75c.jpg/420x315.jpg\" loading=\"lazy\">\n        </picture>\n    \n\n    \n    \n\n</as24-listing-summary-image>\n    </div>\n\n    <h2 class=\"cldt-summary-headline sc-ellipsis sc-font-m\"  data-item-name=\"headline\">\n        <span class=\"sc-font-bold cldt-summary-make-model\">Hyundai i40</span>\n        \n            <span class=\"cldt-summary-version\">KOMBI  1.6  SUBERSAUBER ALLE INSPEKTIONEN ALU</span>\n        \n    </h2>\n\n    <div class=\"cldt-summary\">\n        <div class=\"cldt-summary-pricing \" data-item-name='pricing'>\n            \n                \n                    \n\n<span class=\"cldt-price sc-font-l sc-font-bold\" data-item-name=\"price\">\n        € 10.980,-\n        \n\n\n</span>\n\n                \n                \n            \n        </div>\n\n        <div class=\"cldt-summary-vehicle-data \" data-item-name=\"vehicle-data\" >\n            \n\n\n\n\n\n\n\n\n\n\n\n\n<ul data-item-name=\"vehicle-details\"  class=\"\">\n    \n    \n    \n    <li  data-type=\"mileage\" >\n        112.200 km\n        \n    </li>\n\n    \n    <li  data-type=\"first-registration\" >\n        04/2015\n        \n    </li>\n\n    \n    <li   >\n        99 kW (135 PS)\n        \n    </li>\n\n    \n    <li  data-type=\"offer-type\" >\n        Gebraucht\n        \n    </li>\n\n    \n    <li  data-type=\"previous-owners\" >\n        3 Fahrzeughalter\n        \n    </li>\n\n    \n    <li  data-type=\"transmission-type\" >\n        Schaltgetriebe\n        \n    </li>\n\n    \n    <li   class=\"summary_item_no_bottom_line\">\n        Benzin\n        \n    </li>\n\n    \n    <li  data-type=\"combined-consumption\" class=\"summary_item_no_bottom_line\">\n        6,4 l/100 km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    <li  data-type=\"co2-emission\" class=\"summary_item_no_bottom_line\">\n        149 g/km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    \n    \n\n</ul>\n\n        </div>\n    </div>\n    \n        <div class=\"cldt-summary-seller sc-font-s sc-ellipsis\" data-item-name=\"seller\" data-cs-mask>\n            \n\n    <span data-test=\"seller-type\">Händler,&nbsp;</span>\n\n<span>DE-50129 Bergheim</span>\n\n        </div>\n    \n\n</a>\n\n          </div>\n    </div>",
+            "metaDescription": "Finden Sie alle Informationen zu AUTO WOLTER  &  PRO-MOTORS  FABER  Automobile in Bergheim auf AutoScout24. ✓ Fahrzeuge ✓ Bewertungen ✓ Öffnungszeiten.",
+            "trackingPageId": "home"
+        },
+        "__N_SSP": true
+    },
+    "page": "/about",
+    "query": {},
+    "buildId": "dealer-detail-pages_main-190",
+    "assetPrefix": "/assets/dealer-detail",
+    "isFallback": false,
+    "isExperimentalCompile": false,
+    "gssp": true,
+    "scriptLoader": []
+}

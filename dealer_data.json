@@ -1,0 +1,2482 @@
+[
+    {
+        "name": "Autohaus EuroCar Landshut GmbH",
+        "country": "Germany",
+        "zipCode": "84030",
+        "city": "Landshut",
+        "street": "Ergoldinger Str. 2a",
+        "phoneNumber": [
+            "+498711435010"
+        ],
+        "homepage": "http://eurocar-landshut.de",
+        "contactPersons": [
+            {
+                "name": "Hans Atzberger",
+                "position": "Verkauf",
+                "phone": "+49871 1435010 ",
+                "email": "info@eurocar-landshut.de"
+            },
+            {
+                "name": "Christian Schneider ",
+                "position": "Verkaufsleitung",
+                "phone": "+49871 1435010 ",
+                "email": "info@eurocar-landshut.de"
+            },
+            {
+                "name": "Raymond Petry",
+                "position": "Verkauf",
+                "phone": "+49871 1435010 ",
+                "email": "info@eurocar-landshut.de"
+            },
+            {
+                "name": "Alexander Driehorst",
+                "position": "Verkauf",
+                "phone": "+49871 1435010 ",
+                "email": "info@eurocar-landshut.de"
+            },
+            {
+                "name": "Marvin Kühne",
+                "position": "Verkauf",
+                "phone": "+49871 1435010 ",
+                "email": "info@eurocar-landshut.de"
+            }
+        ]
+    },
+    {
+        "name": "Auto Niedermayer GmbH",
+        "country": "Germany",
+        "zipCode": "94362",
+        "city": "Neukirchen",
+        "street": "Bogener Str. 8",
+        "phoneNumber": [
+            "+499961941377"
+        ],
+        "homepage": "http://niedermayer.de",
+        "contactPersons": [
+            {
+                "name": "Andreas Quoika",
+                "position": "Verkauf",
+                "phone": "09961/9413225",
+                "email": "a.quoika@niedermayer.de"
+            },
+            {
+                "name": "Sascha Kerscher",
+                "position": "Verkauf",
+                "phone": "09961/9413219",
+                "email": "s.kerscher@niedermayer.de"
+            },
+            {
+                "name": "Xaver Wittmann",
+                "position": "Verkauf",
+                "phone": "09961/9413228",
+                "email": "x.wittmann@niedermayer.de"
+            },
+            {
+                "name": "Andreas Wittmann",
+                "position": "Verkauf",
+                "phone": "09961/9413210",
+                "email": "a.wittmann@niedermayer.de"
+            },
+            {
+                "name": "Niklas Huber ",
+                "position": "Verkauf",
+                "phone": "09961/9416226",
+                "email": "n.huber@niedermayer.de"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Royal GmbH",
+        "country": "Germany",
+        "zipCode": "12103",
+        "city": "Berlin",
+        "street": "Bessemerstraße 42a",
+        "phoneNumber": [
+            "+4930800935832"
+        ],
+        "homepage": "http://www.autohaus-royal.de/",
+        "contactPersons": []
+    },
+    {
+        "name": "C+C Automobile e.K.",
+        "country": "Germany",
+        "zipCode": "84032",
+        "city": "Altdorf/Landshut",
+        "street": "Sonnenring 37",
+        "phoneNumber": [
+            "+498719357666",
+            "+491638515409"
+        ],
+        "homepage": "http://ccautomobile.de",
+        "contactPersons": [
+            {
+                "name": "Celik ",
+                "position": "Verkauf ",
+                "phone": "01793234119",
+                "email": "info@ccautomobile.de"
+            }
+        ]
+    },
+    {
+        "name": "MeinAuto.de Gebrauchtwagen",
+        "country": "Germany",
+        "zipCode": "41460",
+        "city": "Neuss bei Düsseldorf",
+        "street": "An der Hammer Brücke 3",
+        "phoneNumber": [
+            "+4921317766100"
+        ],
+        "homepage": "http://MeinAuto.de",
+        "contactPersons": [
+            {
+                "name": null,
+                "position": "Dein MeinAuto.de Gebrauchtwagen-Team",
+                "phone": "02131-7766100",
+                "email": null
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Inoglu GmbH",
+        "country": "Germany",
+        "zipCode": "65428",
+        "city": "Rüsselsheim",
+        "street": "Eisenstr. 58a",
+        "phoneNumber": [
+            "+496142550620",
+            "+491774791146"
+        ],
+        "homepage": "http://autohaus-inoglu.de",
+        "contactPersons": [
+            {
+                "name": "Herr Gurbet Inoglu",
+                "position": "Neuwagen - Gebrauchtwagen - Verkauf",
+                "phone": "06142/5506213",
+                "email": "g.inoglu@autohaus-inoglu.de"
+            },
+            {
+                "name": "Herr Bilgehan Inoglu",
+                "position": "Neuwagen - Gebrauchtwagen - Ankauf",
+                "phone": "06142/55062-12",
+                "email": "b.inoglu@autohaus-inoglu.de"
+            },
+            {
+                "name": "Frau Elena Jilka ",
+                "position": "Information",
+                "phone": "06142/55062-16",
+                "email": "werkstatt@autohaus-inoglu.de"
+            },
+            {
+                "name": "Jochen Schäfers",
+                "position": "Service Berater ",
+                "phone": "06142/5506211",
+                "email": "service@autohaus-inoglu.de"
+            },
+            {
+                "name": "Sven Ludwig",
+                "position": "Neuwagen - Gebrauchtwagen - Verkauf",
+                "phone": "06142/5506222",
+                "email": "sven.ludwig@autohaus-inoglu.de"
+            },
+            {
+                "name": "Hasib Salehi",
+                "position": "Neuwagen - Gebrauchtwagen - Verkauf",
+                "phone": "06142-5506226",
+                "email": "h.salehi@autohaus-inoglu.de"
+            }
+        ]
+    },
+    {
+        "name": "J.W. Handelsgesellschaft mbH",
+        "country": "Germany",
+        "zipCode": "98587",
+        "city": "Herges-Hallenberg",
+        "street": "Im Erlich 2",
+        "phoneNumber": [
+            "+4936847539550",
+            "+4915151104893"
+        ],
+        "homepage": "http://jwhg.de",
+        "contactPersons": [
+            {
+                "name": "Herr T. Ziegner",
+                "position": "Verkauf",
+                "phone": "036847 14000",
+                "email": null
+            }
+        ]
+    },
+    {
+        "name": "AF Cars GmbH",
+        "country": "Germany",
+        "zipCode": "21220",
+        "city": "Seevetal",
+        "street": "Unner de Bult 45",
+        "phoneNumber": [
+            "+494105580500",
+            "+4915773190488"
+        ],
+        "homepage": "http://af-cars.com",
+        "contactPersons": [
+            {
+                "name": "Alberto Fiorentino",
+                "position": "Verkauf / Finanzierung",
+                "phone": "04105580500",
+                "email": "service@af-cars.com"
+            }
+        ]
+    },
+    {
+        "name": "dreambikes 47",
+        "country": "Germany",
+        "zipCode": "53909",
+        "city": "Zülpich",
+        "street": "Villa Rustica 7",
+        "phoneNumber": [
+            "+4922528397368",
+            "+4915221995980"
+        ],
+        "homepage": "http://web.de",
+        "contactPersons": [
+            {
+                "name": "Weber",
+                "position": "VERKAUF",
+                "phone": "01522/1995980",
+                "email": "dreambikes47@web.de"
+            }
+        ]
+    },
+    {
+        "name": "EU Neuwagen Knott GmbH",
+        "country": "Germany",
+        "zipCode": "82407",
+        "city": "Wielenbach",
+        "street": "Bergweg 2",
+        "phoneNumber": [
+            "+4981589148962"
+        ],
+        "homepage": "http://auto-per-mausklick.de",
+        "contactPersons": [
+            {
+                "name": "Christian Knott",
+                "position": "EU-Neuwagen Knott GmbH",
+                "phone": "08158 / 904 21 35",
+                "email": "info@auto-per-mausklick.de"
+            }
+        ]
+    },
+    {
+        "name": "Auto-Klaus GmbH & Co. KG",
+        "country": "Germany",
+        "zipCode": "56856",
+        "city": "Zell / Mosel",
+        "street": "Willi-Gräbner-Straße 1",
+        "phoneNumber": [
+            "+496542989964",
+            "+49654298990"
+        ],
+        "homepage": "https://www.auto-klaus.de/fahrzeugangebote",
+        "contactPersons": [
+            {
+                "name": "Sabrina Crowley de Vries",
+                "position": "Serviceannahme",
+                "phone": "06542/98990",
+                "email": "sabrina.crowleydevries@auto-klaus.de"
+            },
+            {
+                "name": "Mehmet Özbuldu",
+                "position": "Verkauf",
+                "phone": "06542/989937",
+                "email": "mehmet.o@auto-klaus.de"
+            },
+            {
+                "name": "Gennaro Graniglia",
+                "position": "Verkauf",
+                "phone": "06542/989977",
+                "email": "gennaro.graniglia@auto-klaus.de"
+            },
+            {
+                "name": "Eduard Schmitgal",
+                "position": "Verkauf ",
+                "phone": "06542/989964",
+                "email": "eduard.schmitgal@auto-klaus.de"
+            },
+            {
+                "name": "Michael Althoff",
+                "position": "Verkauf ",
+                "phone": "06542/989988",
+                "email": "michael.althoff@auto-klaus.de"
+            }
+        ]
+    },
+    {
+        "name": "TK-Autos",
+        "country": "Germany",
+        "zipCode": "84405",
+        "city": "Dorfen",
+        "street": "Gewerbering 9",
+        "phoneNumber": [
+            "+4980819526144",
+            "+4917622046139"
+        ],
+        "homepage": "http://tk-autos.de",
+        "contactPersons": [
+            {
+                "name": "Sebastian Korsch",
+                "position": "Verkaufsberater",
+                "phone": "08081-9526144 ",
+                "email": "verkauf@tk-autos.de"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Uzun",
+        "country": "Germany",
+        "zipCode": "30419",
+        "city": "Hannover",
+        "street": "Stöckenerstr. 158 (OT Stöcken)",
+        "phoneNumber": [
+            "+495112281144"
+        ],
+        "homepage": "http://autohaus-uzun.de",
+        "contactPersons": [
+            {
+                "name": "Herr Andreas Dase + Sascha Reinhold",
+                "position": "Ankauf",
+                "phone": "0511 - 2281144",
+                "email": "info@autohaus-uzun.de"
+            },
+            {
+                "name": "Herr Andreas Dase + Sascha Reinhold",
+                "position": "Verkauf",
+                "phone": "0511 - 2281144",
+                "email": "info@autohaus-uzun.de"
+            }
+        ]
+    },
+    {
+        "name": "Karsan Automobile GmbH",
+        "country": "Germany",
+        "zipCode": "64293",
+        "city": "Darmstadt",
+        "street": "Pallaswiesenstr. 205",
+        "phoneNumber": [
+            "+4961511542450",
+            "+491751956793"
+        ],
+        "homepage": "http://karsanautomobile.de",
+        "contactPersons": [
+            {
+                "name": "Karsan",
+                "position": "Geschäftsführung",
+                "phone": "06151 1542 450",
+                "email": "info@karsanautomobile.de"
+            },
+            {
+                "name": "Dana ",
+                "position": null,
+                "phone": "01751956793",
+                "email": "info@karsanautomobile.de"
+            }
+        ]
+    },
+    {
+        "name": "MeinAuto.de Gebrauchtwagen",
+        "country": "Germany",
+        "zipCode": "85748",
+        "city": "Garching bei München",
+        "street": "Daimlerstr. 6",
+        "phoneNumber": [
+            "+498963266344"
+        ],
+        "homepage": "http://MeinAuto.de",
+        "contactPersons": [
+            {
+                "name": "Verkaufsteam",
+                "position": "Verkauf",
+                "phone": "089-63266-344",
+                "email": "mobilitycon@eautoseller.com"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Köln - Autozentrum Matthes GmbH",
+        "country": "Germany",
+        "zipCode": "51149",
+        "city": "Köln",
+        "street": "Welserstr. 5",
+        "phoneNumber": [
+            "+492203290420"
+        ],
+        "homepage": "https://www.matthesmobile.de/",
+        "contactPersons": [
+            {
+                "name": "Ihr Verkaufsteam",
+                "position": "Fahrzeugverkauf",
+                "phone": "02203 290 42 0",
+                "email": "koeln@autozentrum-matthes.de"
+            }
+        ]
+    },
+    {
+        "name": "Levent Aygün Automobile",
+        "country": "Germany",
+        "zipCode": "36381",
+        "city": "Schlüchtern",
+        "street": "Hanauer Str. 10 - 12",
+        "phoneNumber": [
+            "+4966611753",
+            "+491749908687"
+        ],
+        "homepage": "http://ayguen-automobile.de",
+        "contactPersons": [
+            {
+                "name": "Levent & Bülent",
+                "position": "Verkaufsteam",
+                "phone": "06661-1753",
+                "email": "info@ayguen-automobile.de"
+            }
+        ]
+    },
+    {
+        "name": "Auto Empire Trading GmbH",
+        "country": "Germany",
+        "zipCode": "35510",
+        "city": "Butzbach",
+        "street": "Am Hetgesborn 18",
+        "phoneNumber": [
+            "+49603389439991"
+        ],
+        "homepage": "http://auto-empire.de",
+        "contactPersons": [
+            {
+                "name": "Herr Thorsten Mrasek",
+                "position": "Verkauf",
+                "phone": "+49 6033 89439991 ",
+                "email": "auto-empire-trading.verkauf@autocrm.de"
+            },
+            {
+                "name": "Herr Salih Dogru",
+                "position": "Verkauf",
+                "phone": "+49 6033 89439991",
+                "email": "auto-empire-trading.verkauf@autocrm.de"
+            },
+            {
+                "name": "Herr Stephan Kiesewetter",
+                "position": "Verkauf",
+                "phone": "+49 6033 89439991",
+                "email": "auto-empire-trading.verkauf@autocrm.de"
+            }
+        ]
+    },
+    {
+        "name": "AUTO WEBER",
+        "country": "Germany",
+        "zipCode": "71069",
+        "city": "Sindelfingen/Darmsheim",
+        "street": "Kruppstr. 1/1",
+        "phoneNumber": [
+            "+4970318196361"
+        ],
+        "homepage": "http://auto-weber.net",
+        "contactPersons": []
+    },
+    {
+        "name": "Dietrich Automobile GmbH",
+        "country": "Germany",
+        "zipCode": "88376",
+        "city": "Königseggwald",
+        "street": "Hosskircherstraße 45",
+        "phoneNumber": [
+            "+4975879507799",
+            "+491715509478"
+        ],
+        "homepage": "http://dietrich-automobile.de",
+        "contactPersons": [
+            {
+                "name": "Joachim Dietrich",
+                "position": "Verkauf",
+                "phone": "07587-9507799",
+                "email": "jdietrich@dietrich-automobile.de"
+            },
+            {
+                "name": "Sabine Dietrich",
+                "position": "Buchhaltung",
+                "phone": "07587- 9507799",
+                "email": "sdietrich@dietrich-automobile.de"
+            }
+        ]
+    },
+    {
+        "name": "Feldmeier Automobile GmbH",
+        "country": "Germany",
+        "zipCode": "33449",
+        "city": "Langenberg",
+        "street": "Selhorster Str. 1",
+        "phoneNumber": [
+            "+4952486957"
+        ],
+        "homepage": "http://feldmeier-automobile.de",
+        "contactPersons": [
+            {
+                "name": "Wolfgang Feldmeier",
+                "position": "Verkauf",
+                "phone": "05248/6957",
+                "email": "info@feldmeier-automobile.de"
+            }
+        ]
+    },
+    {
+        "name": "intaco e.K.",
+        "country": "Germany",
+        "zipCode": "30177",
+        "city": "Hannover",
+        "street": "Marie-Jahn-Straße 20",
+        "phoneNumber": [
+            "+4951164213171",
+            "+491725453534"
+        ],
+        "homepage": "http://intaco.de",
+        "contactPersons": [
+            {
+                "name": "Dennis Beck",
+                "position": "Verkauf",
+                "phone": "051164213171",
+                "email": "info@intaco.de"
+            }
+        ]
+    },
+    {
+        "name": "Automobile Zimmermann GmbH",
+        "country": "Germany",
+        "zipCode": "76344",
+        "city": "Eggenstein",
+        "street": "Industriestr. 2a/b",
+        "phoneNumber": [
+            "+49721201840"
+        ],
+        "homepage": "http://auto-zimmermann.de",
+        "contactPersons": [
+            {
+                "name": "Uwe Salewski",
+                "position": "Verkaufsleiter",
+                "phone": "0721/ 20 18 40",
+                "email": "verkauf@auto-zimmermann.de"
+            },
+            {
+                "name": "Uwe Salewski",
+                "position": "Verkauf",
+                "phone": "0721/ 20 18 40",
+                "email": "verkauf@auto-zimmermann.de"
+            }
+        ]
+    },
+    {
+        "name": "Automobile Dresden Weißig",
+        "country": "Germany",
+        "zipCode": "01328",
+        "city": "Dresden/Weißig",
+        "street": "An der Prießnitzaue  9",
+        "phoneNumber": [
+            "+493512508910",
+            "+4935125089111"
+        ],
+        "homepage": "http://automobile-dresden.com",
+        "contactPersons": [
+            {
+                "name": "Herr Arnold",
+                "position": "Verkauf ",
+                "phone": "0351/25089116",
+                "email": "j.arnold@automobile-dresden.com"
+            },
+            {
+                "name": "Herr Tietz",
+                "position": "Verkauf ",
+                "phone": "0351/25089113",
+                "email": "m.tietz@automobile-dresden.com"
+            },
+            {
+                "name": "Herr Stanislawski ",
+                "position": "Verkauf ",
+                "phone": "0351/25089112",
+                "email": "t.stanislawski@automobile-dresden.com"
+            }
+        ]
+    },
+    {
+        "name": "Hohmann Automobile GmbH",
+        "country": "Germany",
+        "zipCode": "68782",
+        "city": "Brühl",
+        "street": "Mannheimer Landstr. 6",
+        "phoneNumber": [
+            "+4917634277972"
+        ],
+        "homepage": "None",
+        "contactPersons": []
+    },
+    {
+        "name": "Philipp Automobile GmbH",
+        "country": "Germany",
+        "zipCode": "45478",
+        "city": "Mülheim an der Ruhr",
+        "street": "Ruhrorter Str. 53",
+        "phoneNumber": [
+            "+492083757299"
+        ],
+        "homepage": "http://mobile.de",
+        "contactPersons": [
+            {
+                "name": "Jerome Kerkhoff, Philipp Pütz, Mustafa Yagmur",
+                "position": "Verkauf",
+                "phone": "+4920888029771",
+                "email": "autoscout24@bmw-philipp.dealerdesk.de"
+            }
+        ]
+    },
+    {
+        "name": "SD-Automobile",
+        "country": "Germany",
+        "zipCode": "90763",
+        "city": "Fürth",
+        "street": "Georg-Benda-Str. 5",
+        "phoneNumber": [
+            "+491728945968"
+        ],
+        "homepage": "http://gmx.de",
+        "contactPersons": [
+            {
+                "name": "Sahin Dogan",
+                "position": "Verkauf",
+                "phone": "01728945968",
+                "email": "sd-automobile@gmx.de"
+            }
+        ]
+    },
+    {
+        "name": "Hollmann International GmbH & Co. KG",
+        "country": "Germany",
+        "zipCode": "28816",
+        "city": "Stuhr",
+        "street": "Charlotte Auerbach Str. 4",
+        "phoneNumber": [
+            "+4942180608210",
+            "+4915152551952"
+        ],
+        "homepage": "http://hollmann.international",
+        "contactPersons": [
+            {
+                "name": "Ilya Rivkin",
+                "position": "Beratung (Deutsch, Englisch, Russisch)",
+                "phone": "+49 176 60800650",
+                "email": "ilya.rivkin@hollmann.international"
+            },
+            {
+                "name": "Daniel Beier",
+                "position": "Beratung (Deutsch, Englisch, Russisch)",
+                "phone": "+49 175 6907514",
+                "email": "daniel.baier@hollmann.international"
+            },
+            {
+                "name": "Frank Ruocheng Zeng",
+                "position": "Beratung (Deutsch, Englisch, Chinesisch)",
+                "phone": "+49 175 7023823",
+                "email": "ruocheng.zeng@hollmann.international"
+            },
+            {
+                "name": "Wei Wang",
+                "position": "Beratung (Deutsch, Englisch, Chinesisch)",
+                "phone": "+49 176 71976861",
+                "email": "wei.wang@hollmann.international"
+            },
+            {
+                "name": "Marvin Just",
+                "position": "Beratung (Deutsch, Englisch)",
+                "phone": "+49 1512 7179391",
+                "email": "marvin.just@hollmann.international"
+            },
+            {
+                "name": "Lukas Rothfuchs",
+                "position": "Beratung (Deutsch, Englisch, Arabisch)",
+                "phone": "+49 15157277282 ",
+                "email": "lukas.rothfuchs@hollmann.international"
+            }
+        ]
+    },
+    {
+        "name": "Yildirim Handels GmbH",
+        "country": "Germany",
+        "zipCode": "52477",
+        "city": "Alsdorf",
+        "street": "An der Hermannskolonie. 1",
+        "phoneNumber": [
+            "+4924049573310",
+            "+491729008101"
+        ],
+        "homepage": "http://auto.barankauf.de",
+        "contactPersons": [
+            {
+                "name": "Herr Yildirim ",
+                "position": "Alsdorf",
+                "phone": "02404-9573310",
+                "email": "yildirim@auto.barankauf.de"
+            }
+        ]
+    },
+    {
+        "name": "MC CARS",
+        "country": "Germany",
+        "zipCode": "25451",
+        "city": "Quickborn",
+        "street": "Kieler Straße 9",
+        "phoneNumber": [
+            "+4941066409260",
+            "+491725188246"
+        ],
+        "homepage": "http://mccars-quickborn.de",
+        "contactPersons": [
+            {
+                "name": "Marlon Caligiore",
+                "position": "Verkauf & Finanzierung",
+                "phone": "+49 01725188246",
+                "email": "info@mccars-quickborn.de"
+            }
+        ]
+    },
+    {
+        "name": "FA Automobile GmbH & Co. KG",
+        "country": "Germany",
+        "zipCode": "63814",
+        "city": "Mainaschaff (bei Aschaffenburg)",
+        "street": "Kreuzäcker-Ring 19",
+        "phoneNumber": [
+            "+496021442200",
+            "+491604747477"
+        ],
+        "homepage": "https://fa-auto.de/datenschutz.php",
+        "contactPersons": [
+            {
+                "name": "Ferzan Agirman",
+                "position": "Verkauf",
+                "phone": "+49 6021 4422022",
+                "email": "fa@fa-auto.de"
+            },
+            {
+                "name": "Hüseyin Agirman",
+                "position": "Verkauf",
+                "phone": "+49 6021 4422017",
+                "email": "H.agirman@fa-auto.de"
+            },
+            {
+                "name": "Giuseppe Sanzone",
+                "position": "Verkauf",
+                "phone": "+49 6021 4422014",
+                "email": "Sanzone@fa-auto.de"
+            },
+            {
+                "name": "Merdan Tekin",
+                "position": "Verkauf",
+                "phone": "+49 6021 4422014",
+                "email": "tekin@fa-auto.de"
+            }
+        ]
+    },
+    {
+        "name": "JS-Automobile",
+        "country": "Germany",
+        "zipCode": "41515",
+        "city": "Grevenbroich",
+        "street": "Heinrich-Goebel-Str. 22",
+        "phoneNumber": [
+            "+491727233212"
+        ],
+        "homepage": "http://t-online.de",
+        "contactPersons": [
+            {
+                "name": "Jörg Schwerzel",
+                "position": "AN & VERKAUF",
+                "phone": "0172-7233212",
+                "email": "J.Schwerzel@t-online.de"
+            }
+        ]
+    },
+    {
+        "name": "auto-agent24.de GmbH",
+        "country": "Germany",
+        "zipCode": "01257",
+        "city": "Dresden",
+        "street": "Bismarckstr. 63b",
+        "phoneNumber": [
+            "+493518567046"
+        ],
+        "homepage": "http://auto-agent24.de",
+        "contactPersons": [
+            {
+                "name": "David Schuck",
+                "position": "Teamleitung | Team Leading",
+                "phone": "+49 351 856 70 46",
+                "email": "d.schuck@auto-agent24.de"
+            },
+            {
+                "name": "René Preusche",
+                "position": "Verkauf | Sale",
+                "phone": "+49 351 856 70 46",
+                "email": "r.preusche@auto-agent24.de"
+            },
+            {
+                "name": "Ronny Sandig",
+                "position": "Verkauf | Sale",
+                "phone": "+49 351 856 70 46",
+                "email": "r.sandig@auto-agent24.de"
+            },
+            {
+                "name": "Lars Schönherr",
+                "position": "Disposition",
+                "phone": "+49 351 856 70 46",
+                "email": "l.schoenherr@auto-agent24.de"
+            },
+            {
+                "name": "Sebastian Lindner",
+                "position": "Disposition",
+                "phone": "+49 351 856 70 46",
+                "email": "s.lindner@auto-agent24.de"
+            },
+            {
+                "name": "Elena Geselet",
+                "position": "Buchhaltung | Accounting",
+                "phone": "+49 351 856 70 46",
+                "email": "e.geselet@auto-agent24.de"
+            },
+            {
+                "name": "Maja Küchler",
+                "position": "Buchhaltung | Accounting",
+                "phone": "+49 351 856 70 46",
+                "email": "m.kuechler@auto-agent24.de"
+            },
+            {
+                "name": " Andreas Trautmann",
+                "position": "Geschäftsleitung | Management",
+                "phone": "+49 351 856 70 46",
+                "email": null
+            }
+        ]
+    },
+    {
+        "name": "Tratega GmbH",
+        "country": "Germany",
+        "zipCode": "76646",
+        "city": "Bruchsal",
+        "street": "Mergelgrube 33",
+        "phoneNumber": [
+            "+4972513217330",
+            "+4972513217331"
+        ],
+        "homepage": "http://www.tratega.de",
+        "contactPersons": [
+            {
+                "name": "Julian Kaltschmidt",
+                "position": "Verkauf",
+                "phone": "07251/3217340",
+                "email": "julian.kaltschmidt@tratega.de"
+            },
+            {
+                "name": "Gökhan Öz",
+                "position": "Verkauf",
+                "phone": "07251/3217335",
+                "email": "goekhan.oez@tratega.de"
+            }
+        ]
+    },
+    {
+        "name": "Auto Zentrum Wardenburg",
+        "country": "Germany",
+        "zipCode": "26203",
+        "city": "Wardenburg",
+        "street": "Neuengland 2",
+        "phoneNumber": [
+            "+4944079136740"
+        ],
+        "homepage": "http://autozentrum-wardenburg.de",
+        "contactPersons": [
+            {
+                "name": "Georgi Ilichov",
+                "position": "Geschäftsinhaber",
+                "phone": "044079136741",
+                "email": "ilichov@autozentrum-wardenburg.de"
+            },
+            {
+                "name": "Nico Gerwing",
+                "position": "Verkauf",
+                "phone": "044079136742",
+                "email": "info@autozentrum-wardenburg.de"
+            },
+            {
+                "name": "Konstantin Hense",
+                "position": "Verkauf",
+                "phone": "044079136744",
+                "email": "info@autozentrum-wardenburg.de"
+            },
+            {
+                "name": "Vitali Scheidt",
+                "position": "Verkauf",
+                "phone": "044079136743",
+                "email": "v.scheidt@autozentrum-wardenburg.de"
+            }
+        ]
+    },
+    {
+        "name": "Kraftfahrzeuge Rosenhoffer",
+        "country": "Germany",
+        "zipCode": "67227",
+        "city": "Frankenthal",
+        "street": "Carl-Zeiss-Str. 6",
+        "phoneNumber": [
+            "+4962333750723",
+            "+491729356118"
+        ],
+        "homepage": "http://t-online.de",
+        "contactPersons": [
+            {
+                "name": "Rosenhoffer Horst",
+                "position": "Verkauf",
+                "phone": "0172-9356118",
+                "email": "KFZ-Rosenhoffer@t-online.de"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Isernhagen GmbH & Co. KG",
+        "country": "Germany",
+        "zipCode": "30916",
+        "city": "Isernhagen",
+        "street": "Fuhrbleek 48-50",
+        "phoneNumber": [
+            "+4951112323119",
+            "+49511123230"
+        ],
+        "homepage": "http://autohaus-isernhagen.com",
+        "contactPersons": [
+            {
+                "name": "Verkaufsteam",
+                "position": "Verkauf",
+                "phone": "+4951112323119",
+                "email": "verkauf@autohaus-isernhagen.com"
+            },
+            {
+                "name": "Frank Zeppei",
+                "position": "BMW Service Leiter",
+                "phone": "0511123231",
+                "email": "frank.zeppei@autohaus-isernhagen.com"
+            },
+            {
+                "name": "Stefan Neumann",
+                "position": "Werkstatt",
+                "phone": "0511123230",
+                "email": "neumann@autohaus-isernhagen.com"
+            },
+            {
+                "name": "Eugen Ponomarenko",
+                "position": "Karosserie und Lackiererei",
+                "phone": "051112323302",
+                "email": "ponomarenko@autohaus-isernhagen.com"
+            }
+        ]
+    },
+    {
+        "name": "Auto Träger GmbH",
+        "country": "Germany",
+        "zipCode": "42109",
+        "city": "Wuppertal",
+        "street": "Uellendahler Str. 254",
+        "phoneNumber": [
+            "+49202750549",
+            "+491743830327"
+        ],
+        "homepage": "http://autotraeger.com",
+        "contactPersons": [
+            {
+                "name": "Arne Brennecke",
+                "position": "Vertrieb: ",
+                "phone": "+49202750549",
+                "email": "info@autotraeger.com"
+            },
+            {
+                "name": "Oliver Träger",
+                "position": "Geschäftsführung, Vertrieb: ",
+                "phone": "+49202750549",
+                "email": "info@autotraeger.com"
+            },
+            {
+                "name": "Benny Blumenroth",
+                "position": "Vertrieb:",
+                "phone": "+49202750549",
+                "email": "info@autotraeger.com"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus am Ring",
+        "country": "Germany",
+        "zipCode": "40878",
+        "city": "Ratingen",
+        "street": "Hauser Ring 70-74",
+        "phoneNumber": [
+            "+49210246020",
+            "+491722016258"
+        ],
+        "homepage": "http://autohausamring.de",
+        "contactPersons": [
+            {
+                "name": "Herr Karakus, Aydin",
+                "position": "Geschäftsführer",
+                "phone": "01722016258",
+                "email": "info@autohausamring.de"
+            },
+            {
+                "name": "Herr Karakus, Bahtiyar",
+                "position": "Werkstatt",
+                "phone": "01736009931",
+                "email": "info@autohausamring.de"
+            }
+        ]
+    },
+    {
+        "name": "Carcenter Langenau",
+        "country": "Germany",
+        "zipCode": "89129",
+        "city": "Langenau",
+        "street": "Kiesgräble 14",
+        "phoneNumber": [
+            "+497345929631",
+            "+491745960265"
+        ],
+        "homepage": "http://carcenter-langenau.de",
+        "contactPersons": [
+            {
+                "name": "Erdem Akkaya",
+                "position": null,
+                "phone": "07345929631",
+                "email": "info@carcenter-langenau.de"
+            }
+        ]
+    },
+    {
+        "name": "Reffgen & Schmuck Automobile GmbH",
+        "country": "Germany",
+        "zipCode": "68309",
+        "city": "Mannheim",
+        "street": "Radeberger Straße 1",
+        "phoneNumber": [
+            "+4962176222313",
+            "+4962176223617"
+        ],
+        "homepage": "https://www.autohandel-rs.de",
+        "contactPersons": [
+            {
+                "name": "Benjamin Müller ",
+                "position": "Verkauf ",
+                "phone": "0621-76222313",
+                "email": "kontakt@autohandel-rs.de"
+            },
+            {
+                "name": "Steffen Reffgen",
+                "position": null,
+                "phone": "0621-76222313",
+                "email": "kontakt@autohandel-rs.de"
+            },
+            {
+                "name": "Michael Schmuck",
+                "position": null,
+                "phone": "0621-76222313",
+                "email": "kontakt@autohandel-rs.de"
+            }
+        ]
+    },
+    {
+        "name": "Autopark Alam GmbH",
+        "country": "Germany",
+        "zipCode": "84030",
+        "city": "Landshut",
+        "street": "Waldkirchener Straße 9",
+        "phoneNumber": [
+            "+4987114354200"
+        ],
+        "homepage": "http://autopark-alam.de",
+        "contactPersons": [
+            {
+                "name": "Elias Alam",
+                "position": "Verkauf",
+                "phone": "0871 14354200",
+                "email": "info@autopark-alam.de"
+            }
+        ]
+    },
+    {
+        "name": "Auto Center Bostan e.K.",
+        "country": "Germany",
+        "zipCode": "78054",
+        "city": "Villingen Schwenningen",
+        "street": "Villinger Straße 142",
+        "phoneNumber": [
+            "+4977208092920"
+        ],
+        "homepage": "http://mobile.de",
+        "contactPersons": [
+            {
+                "name": "Bostan Mustafa",
+                "position": "Verkaufsleiter / Prokurist",
+                "phone": "+497720-8092922",
+                "email": "mustafa@bostan.de"
+            },
+            {
+                "name": "Bostan Abdullah ",
+                "position": "Verkaufsberater ",
+                "phone": "+4972208092927",
+                "email": "abdullah@bostan.de"
+            },
+            {
+                "name": "Ovuka Dragan ",
+                "position": "Verkaufsberater ",
+                "phone": "+4977208092926",
+                "email": "info@bostan.de"
+            }
+        ]
+    },
+    {
+        "name": "Schwarz Garage",
+        "country": "Germany",
+        "zipCode": "03130",
+        "city": "Spremberg",
+        "street": "Trattendorfer Straße  32",
+        "phoneNumber": [
+            "+491723750112",
+            "+491723750112"
+        ],
+        "homepage": "None",
+        "contactPersons": [
+            {
+                "name": "Toni Schwarz",
+                "position": "Verkauf",
+                "phone": "0172/3750112",
+                "email": "info@schwarzgarage.de"
+            }
+        ]
+    },
+    {
+        "name": "J.W.-Automobile",
+        "country": "Germany",
+        "zipCode": "64584",
+        "city": "Biebesheim",
+        "street": "Lise-Meitner-Straße 10",
+        "phoneNumber": [
+            "+491629752853"
+        ],
+        "homepage": "http://web.de",
+        "contactPersons": [
+            {
+                "name": "Hr. Walla",
+                "position": "Verkauf",
+                "phone": "01629752853",
+                "email": "jenswalla@yahoo.de"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Michael Schmidt GmbH",
+        "country": "Germany",
+        "zipCode": "82538",
+        "city": "Geretsried - Gelting",
+        "street": "Leitenstraße 18",
+        "phoneNumber": [
+            "+49817141869130",
+            "+4915114609401"
+        ],
+        "homepage": "http://Dipl.Ing",
+        "contactPersons": [
+            {
+                "name": "Stefan Beran-Petito",
+                "position": "Gebrauchtwagenverkauf",
+                "phone": "0817141869134",
+                "email": "stefan.beran@bmw-schmidt.com"
+            }
+        ]
+    },
+    {
+        "name": "Ehnes Automobile Winterbach",
+        "country": "Germany",
+        "zipCode": "73650",
+        "city": "Winterbach",
+        "street": "Spanninger Straße 16",
+        "phoneNumber": [
+            "+49718144040",
+            "+4915116553080"
+        ],
+        "homepage": "http://ehnes-automobile.de",
+        "contactPersons": [
+            {
+                "name": "Hans-Jürgen Ehnes",
+                "position": null,
+                "phone": "+4949718144040",
+                "email": "info@ehnes-automobile.de"
+            }
+        ]
+    },
+    {
+        "name": "Schubarth Automobile GmbH",
+        "country": "Germany",
+        "zipCode": "63533",
+        "city": "Mainhausen",
+        "street": "Zellhäuser Straße 16 B",
+        "phoneNumber": [
+            "+4915110601215",
+            "+4915110601215"
+        ],
+        "homepage": "http://schubarth-automobile.de",
+        "contactPersons": [
+            {
+                "name": "Sven Schubarth",
+                "position": "Einkauf / Verkauf / Geschäftsführer",
+                "phone": "+49 151-10601215",
+                "email": "sven@schubarth-automobile.de"
+            }
+        ]
+    },
+    {
+        "name": "Auto Naim GmbH",
+        "country": "Germany",
+        "zipCode": "64291",
+        "city": "Darmstadt",
+        "street": "Messeler-Park-Str. 124a",
+        "phoneNumber": [
+            "+4961507497"
+        ],
+        "homepage": "http://auto-naim.de",
+        "contactPersons": [
+            {
+                "name": "Ressa Naim",
+                "position": "Verkauf",
+                "phone": "06150/7497",
+                "email": "verkauf@auto-naim.de"
+            },
+            {
+                "name": "Karim Naim",
+                "position": "Verkauf",
+                "phone": "06150/7497",
+                "email": "verkauf@auto-naim.de"
+            },
+            {
+                "name": "Sebastian Schaffner",
+                "position": "Verkauf",
+                "phone": "06150/7497",
+                "email": "verkauf@auto-naim.de"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Rosen - Stock GmbH",
+        "country": "Germany",
+        "zipCode": "10553",
+        "city": "Berlin",
+        "street": "Kaiserin-Augusta-Allee 16",
+        "phoneNumber": [
+            "+493034560461"
+        ],
+        "homepage": "http://arcor.de",
+        "contactPersons": []
+    },
+    {
+        "name": "Wendt-Mobile GmbH",
+        "country": "Germany",
+        "zipCode": "02977",
+        "city": "Hoyerswerda",
+        "street": "Merzdorfer Str. 48",
+        "phoneNumber": [
+            "+4935712093524",
+            "+493571209350"
+        ],
+        "homepage": "http://wendt-mobile.de",
+        "contactPersons": [
+            {
+                "name": "Senf Bodo",
+                "position": "Verkauf",
+                "phone": "035712093524",
+                "email": "bodosenf@wendt-mobile.de"
+            },
+            {
+                "name": "Wendt Jörg",
+                "position": "Verkauf",
+                "phone": "035712093523",
+                "email": "info@wendt-mobile.de"
+            }
+        ]
+    },
+    {
+        "name": "Eurocar & Pflege",
+        "country": "Germany",
+        "zipCode": "53424",
+        "city": "Remagen-Rolandseck",
+        "street": "Bonner Straße 53-57",
+        "phoneNumber": [
+            "+4922228913910"
+        ],
+        "homepage": "None",
+        "contactPersons": [
+            {
+                "name": "Ansprechpartner: Herr Schrepping",
+                "position": "Autohandel, Autowäsche, Aufbereitung, Smart-Repair & Lackierung",
+                "phone": "02228-913910",
+                "email": "eurocar-pflege@outlook.de"
+            },
+            {
+                "name": "Herr Lucas",
+                "position": "Service/ Verkauf",
+                "phone": "02228-913910",
+                "email": "eurocar-pflege@outlook.de"
+            }
+        ]
+    },
+    {
+        "name": "autoladen-dresden.de GmbH & Co. KG",
+        "country": "Germany",
+        "zipCode": "01809",
+        "city": "Heidenau",
+        "street": "Hauptstr. 96",
+        "phoneNumber": [
+            "+49352957542011",
+            "+491638837894",
+            "+491622093592"
+        ],
+        "homepage": "http://autoladen-dresden.de",
+        "contactPersons": [
+            {
+                "name": "Alexander Eißrich",
+                "position": "Verkauf",
+                "phone": "035295741420",
+                "email": "autoladen-dresden.verkauf@autocrm.de"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Alkis GmbH - Kfz-Meisterbetrieb seit 1996",
+        "country": "Germany",
+        "zipCode": "33647",
+        "city": "Bielefeld / Brackwede",
+        "street": "Gütersloher Str. 6",
+        "phoneNumber": [
+            "+495219427272"
+        ],
+        "homepage": "http://USt-Id.Nr",
+        "contactPersons": [
+            {
+                "name": null,
+                "position": null,
+                "phone": "+4917610333997",
+                "email": "autohausalkis@t-online.de"
+            }
+        ]
+    },
+    {
+        "name": "AUTO-SEKTOR GmbH",
+        "country": "Germany",
+        "zipCode": "41063",
+        "city": "Mönchengladbach",
+        "street": "Krefelder Str. 40 - 46",
+        "phoneNumber": [
+            "+491715224005",
+            "+491715224005",
+            "+491715224005"
+        ],
+        "homepage": "http://auto-sektor.de",
+        "contactPersons": [
+            {
+                "name": "HERR ROBERT",
+                "position": "VERKAUF",
+                "phone": "0152/36958304",
+                "email": "info@auto-sektor.de"
+            }
+        ]
+    },
+    {
+        "name": "Automobile Alexander Mentzl",
+        "country": "Germany",
+        "zipCode": "45326",
+        "city": "Essen",
+        "street": "Hövelstr. 170",
+        "phoneNumber": [
+            "+492013163394",
+            "+4915110666269"
+        ],
+        "homepage": "None",
+        "contactPersons": []
+    },
+    {
+        "name": "Auto-Kara (seit 1989)",
+        "country": "Germany",
+        "zipCode": "76185",
+        "city": "Karlsruhe / Grünwinkel",
+        "street": "Zeppelinstrasse 14",
+        "phoneNumber": [
+            "+497219554012",
+            "+49721558435",
+            "+491717509559"
+        ],
+        "homepage": "http://web.de",
+        "contactPersons": [
+            {
+                "name": "Herr Kara",
+                "position": "Verkauf",
+                "phone": "0721-9554012",
+                "email": "auto-kara@web.de"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Muhra GmbH",
+        "country": "Germany",
+        "zipCode": "46149",
+        "city": "Oberhausen",
+        "street": "Im Erlengrund 1",
+        "phoneNumber": [
+            "+49208659050"
+        ],
+        "homepage": "http://www.muhra.net",
+        "contactPersons": [
+            {
+                "name": "Zentrale",
+                "position": "Autohaus Muhra GmbH",
+                "phone": "0208/ 65 90 50",
+                "email": "info@muhra.net"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Daub",
+        "country": "Germany",
+        "zipCode": "72160",
+        "city": "Horb am Neckar",
+        "street": "Kirschbäumle 2-4",
+        "phoneNumber": [
+            "+497451551734"
+        ],
+        "homepage": "http://autohaus-daub.de",
+        "contactPersons": [
+            {
+                "name": "Bernd Zeeb",
+                "position": "Suzuki Verkauf",
+                "phone": "07451 5517-22",
+                "email": "bz@autohaus-daub.de"
+            },
+            {
+                "name": "Stefan Müller",
+                "position": "Kia Verkauf",
+                "phone": "07451 5517-19",
+                "email": "sm@autohaus-daub.de"
+            },
+            {
+                "name": "Nils Apelt",
+                "position": "Kia Verkauf",
+                "phone": "07451 5517-41",
+                "email": "na@autohaus-daub.de"
+            },
+            {
+                "name": "Mike Schache",
+                "position": "Gebrauchtwagen Verkauf",
+                "phone": "07451 5517-10",
+                "email": "ms@autohaus-daub.de"
+            },
+            {
+                "name": "Markus Conrad",
+                "position": "Gebrauchtwagen Verkauf",
+                "phone": "07451 5517-20",
+                "email": "hv@autohaus-daub.de"
+            },
+            {
+                "name": "Werkstatt Team",
+                "position": "Service",
+                "phone": "07451 5517-17",
+                "email": "werkstatt@autohaus-daub.de"
+            }
+        ]
+    },
+    {
+        "name": "Auto Schiller",
+        "country": "Germany",
+        "zipCode": "44803",
+        "city": "Bochum",
+        "street": "Wittenerstr. 254-256",
+        "phoneNumber": [
+            "+49234357676"
+        ],
+        "homepage": "http://web.de",
+        "contactPersons": [
+            {
+                "name": "Rafael Korz",
+                "position": "Werkstatt - Service ",
+                "phone": "0234-357676",
+                "email": "auto-schiller@web.de"
+            },
+            {
+                "name": "Dirk Schiller",
+                "position": "Verkauf + Service",
+                "phone": "0234-357676",
+                "email": "auto-schiller@web.de"
+            },
+            {
+                "name": "Philipp Gorki ",
+                "position": "Werkstatt - Service",
+                "phone": "0234 357676",
+                "email": "auto-schiller@web.de"
+            }
+        ]
+    },
+    {
+        "name": "Zons-Automobile",
+        "country": "Germany",
+        "zipCode": "44795",
+        "city": "Bochum",
+        "street": "Wasserstr. 421",
+        "phoneNumber": [
+            "+49234433847",
+            "+491774189722"
+        ],
+        "homepage": "http://zons-automobile.de",
+        "contactPersons": [
+            {
+                "name": "Oliver Zons",
+                "position": null,
+                "phone": "+49234433847",
+                "email": "info@zons-automobile.de"
+            }
+        ]
+    },
+    {
+        "name": "Ihr Traumauto GmbH",
+        "country": "Germany",
+        "zipCode": "30890",
+        "city": "Barsinghausen",
+        "street": "Göbelstraße 6",
+        "phoneNumber": [
+            "+4951057796586",
+            "+491781674012"
+        ],
+        "homepage": "http://ihrtraumauto.de",
+        "contactPersons": [
+            {
+                "name": "S.Blaskovic",
+                "position": "Verkauf",
+                "phone": "05105-7796586",
+                "email": "info@ihrtraumauto.de"
+            },
+            {
+                "name": "S.Smith",
+                "position": "Disposition",
+                "phone": "05105-7796586",
+                "email": "info@ihrtraumauto.de"
+            }
+        ]
+    },
+    {
+        "name": "Limbächer & Limbächer GmbH",
+        "country": "Germany",
+        "zipCode": "70794",
+        "city": "Filderstadt",
+        "street": "Echterdinger Str. 85",
+        "phoneNumber": [
+            "+4971179730311",
+            "+497117973030"
+        ],
+        "homepage": "http://www.limbaecher.de",
+        "contactPersons": []
+    },
+    {
+        "name": "Autohaus Schmitt",
+        "country": "Germany",
+        "zipCode": "68794",
+        "city": "Oberhausen",
+        "street": "Weiherweg 27",
+        "phoneNumber": [
+            "+4972549588600",
+            "+491727266246",
+            "+4972549588601"
+        ],
+        "homepage": "None",
+        "contactPersons": [
+            {
+                "name": "Holger Schmitt",
+                "position": "Beratung & Verkauf",
+                "phone": "07254/9588600",
+                "email": "info@autohausschmitt-oberhausen.de"
+            },
+            {
+                "name": "Dominik Schmitt",
+                "position": "Beratung & Verkauf",
+                "phone": "07254/9588600",
+                "email": "info@autohausschmitt-oberhausen.de"
+            }
+        ]
+    },
+    {
+        "name": "AUTO - CEKER",
+        "country": "Germany",
+        "zipCode": "76229",
+        "city": "Karlsruhe-Grötzingen",
+        "street": "Beunstrasse 62a",
+        "phoneNumber": [
+            "+4972191673969",
+            "+491631437061"
+        ],
+        "homepage": "http://web.de",
+        "contactPersons": [
+            {
+                "name": "Herr Ceker",
+                "position": null,
+                "phone": "0721- 91 67 39 69",
+                "email": null
+            }
+        ]
+    },
+    {
+        "name": "Kraichgau Automobile Helmsheim",
+        "country": "Germany",
+        "zipCode": "76646",
+        "city": "Bruchsal-Helmsheim",
+        "street": "Mergelgrube 28",
+        "phoneNumber": [
+            "+4972513589624",
+            "+491728703286"
+        ],
+        "homepage": "http://gmx.de",
+        "contactPersons": [
+            {
+                "name": "B.Güney",
+                "position": "Ankauf/Verkauf",
+                "phone": "07251/3589624",
+                "email": "kraichgau.automobile@gmx.de"
+            }
+        ]
+    },
+    {
+        "name": "CarCenter Erding",
+        "country": "Germany",
+        "zipCode": "85435",
+        "city": "Erding, Altenerding",
+        "street": "Otto-Hahn-Str. 4",
+        "phoneNumber": [
+            "+4981222280164",
+            "+491744720904"
+        ],
+        "homepage": "http://www.carcenter-erding.de",
+        "contactPersons": [
+            {
+                "name": "K. Rahman",
+                "position": "Geschäftsleitung",
+                "phone": "01744720904",
+                "email": "info@carcenter-erding.de"
+            },
+            {
+                "name": "K. Rahman",
+                "position": "Verkauf",
+                "phone": "08122 2280164",
+                "email": "info@carcenter-erding.de"
+            },
+            {
+                "name": "J. Rahman",
+                "position": "Verkauf",
+                "phone": "01731598750",
+                "email": "Jouwan@carcenter-erding.de"
+            }
+        ]
+    },
+    {
+        "name": "Automarkt Walzbachtal",
+        "country": "Germany",
+        "zipCode": "75045",
+        "city": "Walzbachtal (bei Karlsruhe)",
+        "street": "Rudolf-Diesel-Weg 3 / Ecke Grombacherstr.",
+        "phoneNumber": [
+            "+491729052609",
+            "+491729052609"
+        ],
+        "homepage": "None",
+        "contactPersons": [
+            {
+                "name": "Ajith Perera",
+                "position": "Geschäftsinhaber, Verkauf",
+                "phone": "0172 9052609",
+                "email": "a.perera@t-online.de"
+            },
+            {
+                "name": "Kevin D. Perera",
+                "position": "Einkauf & Verkauf",
+                "phone": "0172 9052609",
+                "email": "a.perera@t-online.de"
+            }
+        ]
+    },
+    {
+        "name": "Carline Autowelt GmbH",
+        "country": "Germany",
+        "zipCode": "40880",
+        "city": "Ratingen",
+        "street": "Boschstraße 4",
+        "phoneNumber": [
+            "+4921027709913",
+            "+491738525111"
+        ],
+        "homepage": "http://gmail.com",
+        "contactPersons": [
+            {
+                "name": "Don Carlos Kliefoth",
+                "position": "Verkauf",
+                "phone": "+49 2102 770 99 13",
+                "email": "autowelt2021@gmail.com"
+            }
+        ]
+    },
+    {
+        "name": "MMGW GmbH",
+        "country": "Germany",
+        "zipCode": "64404",
+        "city": "Bickenbach",
+        "street": "Darmstädter Straße 59",
+        "phoneNumber": [
+            "+4962577600"
+        ],
+        "homepage": "http://multimarken-gebrauchtwagen.de",
+        "contactPersons": [
+            {
+                "name": null,
+                "position": "Verkauf",
+                "phone": "06257 - 7600",
+                "email": "info@multimarken-gebrauchtwagen.de"
+            }
+        ]
+    },
+    {
+        "name": "Automarkt Donauwörth",
+        "country": "Germany",
+        "zipCode": "86609",
+        "city": "Donauwörth",
+        "street": "Rainer Str. 54",
+        "phoneNumber": [
+            "+499067057512"
+        ],
+        "homepage": "http://www.automarkt-donauwoerth.de",
+        "contactPersons": [
+            {
+                "name": "Hr. Dinkelmeier",
+                "position": "Verkauf / Einkauf",
+                "phone": "0906/7057510",
+                "email": "verkauf@automarkt-donauwoerth.de"
+            },
+            {
+                "name": "Fr. Dinkelmeier",
+                "position": "Buchhaltung",
+                "phone": "0906/7057511",
+                "email": "info@automarkt-donauwoerth.de"
+            },
+            {
+                "name": "Harald Beier / Marius Pröll",
+                "position": "Werkstatt",
+                "phone": "0906/7057514",
+                "email": "info@automarkt-donauwoerth.de"
+            }
+        ]
+    },
+    {
+        "name": "Alexander Brunner Kraftfahrzeuge Buchloe e.K.",
+        "country": "Germany",
+        "zipCode": "86807",
+        "city": "Buchloe",
+        "street": "Alpina-Ring 5",
+        "phoneNumber": [
+            "+4982419961222",
+            "+491733964584"
+        ],
+        "homepage": "http://brunner-kfz.de",
+        "contactPersons": [
+            {
+                "name": "Alexander Brunner",
+                "position": "Verkauf / Kundenbetreuung",
+                "phone": "+491733964584",
+                "email": "anfrage@brunner-kfz.de"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Landherr GmbH",
+        "country": "Germany",
+        "zipCode": "86470",
+        "city": "Thannhausen",
+        "street": "Edelstetter Straße 41",
+        "phoneNumber": [
+            "+4982819900940"
+        ],
+        "homepage": "http://t-online.de",
+        "contactPersons": [
+            {
+                "name": "Dimakis/Höfle/Kastrati/Schedel/Yalap/Nestele/Kießling/Ostermeier/Widmann",
+                "position": "Neu- und Gebrauchtwagen",
+                "phone": "08281 / 99 00 940",
+                "email": "verkauf@autohaus-landherr.de"
+            }
+        ]
+    },
+    {
+        "name": "Auto Wilhelm",
+        "country": "Germany",
+        "zipCode": "68623",
+        "city": "Lampertheim",
+        "street": "Gaußstraße 13",
+        "phoneNumber": [
+            "+49620612345",
+            "+491726273750",
+            "+496206911352"
+        ],
+        "homepage": "http://gmx.de",
+        "contactPersons": [
+            {
+                "name": "Otmar Wilhelm",
+                "position": "Verkauf und Vermittlung Beratung",
+                "phone": "06206/12345  06206/7039964",
+                "email": "otmar911@gmx.de"
+            }
+        ]
+    },
+    {
+        "name": "trowa-automobile",
+        "country": "Germany",
+        "zipCode": "67433",
+        "city": "Neustadt",
+        "street": "Konrad-Adenauer-Strasse 19",
+        "phoneNumber": [
+            "+491726535491",
+            "+491726535491"
+        ],
+        "homepage": "http://trowa-automobile.de",
+        "contactPersons": [
+            {
+                "name": "Herr Waschkowski",
+                "position": null,
+                "phone": "0172 6535491",
+                "email": "trowa-automobile@gmx.de"
+            }
+        ]
+    },
+    {
+        "name": "Auto Salon Schwarzwald GmbH",
+        "country": "Germany",
+        "zipCode": "78647",
+        "city": "Trossingen",
+        "street": "Bahnhofstraße 2",
+        "phoneNumber": [
+            "+4974259513961",
+            "+4915128941054"
+        ],
+        "homepage": "http://as-schwarzwald.de",
+        "contactPersons": []
+    },
+    {
+        "name": "Öz Automobile GmbH",
+        "country": "Germany",
+        "zipCode": "41469",
+        "city": "Neuss",
+        "street": "Siemensstr. 2",
+        "phoneNumber": [
+            "+492137103390",
+            "+491722679297"
+        ],
+        "homepage": "http://oz-autohaus.de",
+        "contactPersons": [
+            {
+                "name": "Deniz Öz",
+                "position": "Verkauf",
+                "phone": "02137-103390",
+                "email": "info@oz-autohaus.de"
+            },
+            {
+                "name": "Jutta Schön",
+                "position": "Verkauf",
+                "phone": "02137-103390",
+                "email": "info@oz-autohaus.de"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Eckendörfer GmbH",
+        "country": "Germany",
+        "zipCode": "91466",
+        "city": "Gerhardshofen",
+        "street": "Dachsbacher Str. 1",
+        "phoneNumber": [
+            "+499163997290"
+        ],
+        "homepage": "http://auto-eckendoerfer.de",
+        "contactPersons": [
+            {
+                "name": "Michael Eckendörfer",
+                "position": "Fahrzeugverkauf",
+                "phone": "09163/99729-15",
+                "email": "micha.eckendoerfer@auto-eckendoerfer.de"
+            }
+        ]
+    },
+    {
+        "name": "Autopoint An der B 180",
+        "country": "Germany",
+        "zipCode": "04603",
+        "city": "Nobitz",
+        "street": "OT Gösdorf Nr. 5",
+        "phoneNumber": [
+            "+493449477500",
+            "+4916091550501"
+        ],
+        "homepage": "http://www.autopointanderb180.de",
+        "contactPersons": [
+            {
+                "name": "Holger Hesse",
+                "position": "Verkauf",
+                "phone": "03449477500",
+                "email": "info@autopointanderb180.de"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Scholtalbers GmbH",
+        "country": "Germany",
+        "zipCode": "26789",
+        "city": "Leer",
+        "street": "Am Emsdeich 30",
+        "phoneNumber": [
+            "+49491927770",
+            "+4915174520195"
+        ],
+        "homepage": "http://www.ah-scholtalbers.de",
+        "contactPersons": [
+            {
+                "name": "Marco Janssen",
+                "position": "Verkauf",
+                "phone": "0491 / 92 777-13",
+                "email": "vertrieb@ah-scholtalbers.de"
+            },
+            {
+                "name": "Anke Richter",
+                "position": "Service",
+                "phone": "0491 / 92 777-0",
+                "email": "service@ah-scholtalbers.de"
+            }
+        ]
+    },
+    {
+        "name": "Auto Georg GmbH",
+        "country": "Germany",
+        "zipCode": "65205",
+        "city": "Wiesbaden",
+        "street": "Ostring 11",
+        "phoneNumber": [
+            "+4961229180100",
+            "+4961229180111",
+            "+4961229180102"
+        ],
+        "homepage": "http://autogeorg.de",
+        "contactPersons": [
+            {
+                "name": "Julian Busch",
+                "position": "Verkaufsleiter",
+                "phone": "061229180100",
+                "email": "info@autogeorg.de"
+            }
+        ]
+    },
+    {
+        "name": "Autopuls",
+        "country": "Germany",
+        "zipCode": "76744",
+        "city": "Wörth am Rhein",
+        "street": "Obere Weide 2",
+        "phoneNumber": [
+            "+4917673532652",
+            "+491744078462",
+            "+4972719019975"
+        ],
+        "homepage": "http://outlook.de",
+        "contactPersons": [
+            {
+                "name": "Waldemar Obholz",
+                "position": "Inhaber",
+                "phone": "017673532652",
+                "email": "handel@autopuls.de"
+            },
+            {
+                "name": "Evgenij Suppis",
+                "position": "Verkauf",
+                "phone": "+491744078462",
+                "email": "handel@autopuls.de"
+            }
+        ]
+    },
+    {
+        "name": "MeinAuto.de Gebrauchtwagen",
+        "country": "Germany",
+        "zipCode": "63128",
+        "city": "Dietzenbach bei Frankfurt",
+        "street": "Voltastraße 8",
+        "phoneNumber": [
+            "+4960748187210",
+            "+4917610444460"
+        ],
+        "homepage": "http://MeinAuto.de",
+        "contactPersons": [
+            {
+                "name": "Verkaufsteam",
+                "position": "Verkauf",
+                "phone": "06074 8187 200",
+                "email": "mobilitycon@eautoseller.com"
+            }
+        ]
+    },
+    {
+        "name": "ASG - Remscheid",
+        "country": "Germany",
+        "zipCode": "42855",
+        "city": "Remscheid/NRW",
+        "street": "Vor dem Anger 3",
+        "phoneNumber": [
+            "+492191791590"
+        ],
+        "homepage": "None",
+        "contactPersons": [
+            {
+                "name": "Hüseyin Acir",
+                "position": "Einkauf",
+                "phone": "02191/ 7915903",
+                "email": "h.acir@asg-rs.de"
+            }
+        ]
+    },
+    {
+        "name": "KFZ Lohmeier GbR",
+        "country": "Germany",
+        "zipCode": "85467",
+        "city": "Niederneuching",
+        "street": "Methmühlweg 10a",
+        "phoneNumber": [
+            "+49812212608",
+            "+491715779474"
+        ],
+        "homepage": "http://kfz-lohmeier.de",
+        "contactPersons": [
+            {
+                "name": "Tobias Lohmeier",
+                "position": "Verkauf PKW / LKW Neu- und Gebrauchtfahrzeuge",
+                "phone": "+49 171-5779474",
+                "email": "info@kfz-lohmeier.de"
+            },
+            {
+                "name": "Hans Lohmeier",
+                "position": "Verkauf PKW / LKW Neu- und Gebrauchtfahrzeuge",
+                "phone": "+49 176-34167784",
+                "email": "info@kfz-lohmeier.de"
+            },
+            {
+                "name": "Maria Lohmeier",
+                "position": "Zentrale",
+                "phone": "+49 8122-12608",
+                "email": "info@kfz-lohmeier.de"
+            }
+        ]
+    },
+    {
+        "name": "Fa. Klaus - Werner -  Baumann",
+        "country": "Germany",
+        "zipCode": "67435",
+        "city": "Neustadt/Wstr., Ortsteil Lachen-Speyerdorf",
+        "street": "Conrad-Freytag-Str. 28",
+        "phoneNumber": [
+            "+491726249077",
+            "+496327969186"
+        ],
+        "homepage": "http://aol.com",
+        "contactPersons": [
+            {
+                "name": "Klaus Baumann",
+                "position": "Verkauf",
+                "phone": "06327/969186",
+                "email": "baumannkfz911@aol.com"
+            }
+        ]
+    },
+    {
+        "name": "Automobile Kaddoura",
+        "country": "Germany",
+        "zipCode": "42653",
+        "city": "Solingen",
+        "street": "Jahnstraße 6",
+        "phoneNumber": [
+            "+4921225080069",
+            "+491702829856",
+            "+4921238372900"
+        ],
+        "homepage": "http://automobile-kaddoura.de",
+        "contactPersons": [
+            {
+                "name": "Herr Ghassan Kaddoura",
+                "position": null,
+                "phone": "0212-38372900",
+                "email": "info@automobile-kaddoura.de"
+            }
+        ]
+    },
+    {
+        "name": "Car Corner GmbH",
+        "country": "Germany",
+        "zipCode": "20537",
+        "city": "Hamburg",
+        "street": "Ausschläger Weg 71-73",
+        "phoneNumber": [
+            "+4917660903006",
+            "+491724507605",
+            "+494031819711"
+        ],
+        "homepage": "http://car-corner-hh.de",
+        "contactPersons": [
+            {
+                "name": "Sohrab Sia",
+                "position": "Verkauf",
+                "phone": "01724507605",
+                "email": "info@car-corner-hh.de"
+            },
+            {
+                "name": "Nozrab Sia",
+                "position": "Verkaufsleitung",
+                "phone": "017660903006",
+                "email": "info@car-corner-hh.de"
+            }
+        ]
+    },
+    {
+        "name": "ASW Autosalon Westend GmbH",
+        "country": "Germany",
+        "zipCode": "13597",
+        "city": "Berlin",
+        "street": "Freiheit 22",
+        "phoneNumber": [
+            "+493067828117"
+        ],
+        "homepage": "http://autosalon-westend.de",
+        "contactPersons": [
+            {
+                "name": "Fabian Baumann",
+                "position": "Gebrauchtwagen-Verkauf",
+                "phone": "030-67828117",
+                "email": "verkauf@autosalon-westend.de"
+            },
+            {
+                "name": "Fabian Jendro",
+                "position": "Gebrauchtwagen-Verkauf",
+                "phone": "030-67828117",
+                "email": "verkauf@autosalon-westend.de"
+            }
+        ]
+    },
+    {
+        "name": "Grumbach Autocenter KG",
+        "country": "Germany",
+        "zipCode": "06774",
+        "city": "Muldestausee",
+        "street": "Poucher Hauptstr. 73",
+        "phoneNumber": [
+            "+49349355339"
+        ],
+        "homepage": "http://grumbach-autocenter.de",
+        "contactPersons": [
+            {
+                "name": "Marcus Grumbach",
+                "position": "Verkauf",
+                "phone": "++49349355339",
+                "email": "m.grumbach@grumbach-autocenter.de"
+            },
+            {
+                "name": "Rene Thiemicke",
+                "position": "Verkauf",
+                "phone": "++49349355339",
+                "email": "r.thiemicke@grumbach-autocenter.de"
+            },
+            {
+                "name": "Kathleen Gollek",
+                "position": "Disposition / Planung Fahrzeugauslieferung",
+                "phone": "++49349355339",
+                "email": "a.gollek@grumbach-autocenter.de"
+            },
+            {
+                "name": "Annett Grumbach ",
+                "position": "Werkstatt Annahme / Zulassungs Service ",
+                "phone": "++49349355339",
+                "email": "a.grumbach@grumbach-autocenter.de"
+            },
+            {
+                "name": "Maik Schade",
+                "position": "KFZ Meister",
+                "phone": "++49349355339",
+                "email": "m.schade@grumbach-autocenter.de"
+            },
+            {
+                "name": "Patrick Hofmann ",
+                "position": "KFZ-Aufbereitung  ",
+                "phone": "++49349355339",
+                "email": null
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Ekinci Bretten",
+        "country": "Germany",
+        "zipCode": "75015",
+        "city": "Bretten",
+        "street": "Diedelsheimer Höhe  7",
+        "phoneNumber": [
+            "+4972529747440",
+            "+4972529747441"
+        ],
+        "homepage": "http://autohaus-ekinci.de",
+        "contactPersons": [
+            {
+                "name": "Hr. Ekinci",
+                "position": "Verkauf",
+                "phone": "07252 - 97 47 440",
+                "email": "info@autohaus-ekinci.de"
+            }
+        ]
+    },
+    {
+        "name": "Jakob Automobile",
+        "country": "Germany",
+        "zipCode": "76676",
+        "city": "Graben-Neudorf",
+        "street": "Ottostraße 5",
+        "phoneNumber": [
+            "+4972557668933"
+        ],
+        "homepage": "http://jakobautomobile.de",
+        "contactPersons": [
+            {
+                "name": "Jakob",
+                "position": "Autos - Gebrauchtwagen",
+                "phone": "+49 (0)7255 / 7668933",
+                "email": "info@jakobautomobile.de"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Wenzel GmbH",
+        "country": "Germany",
+        "zipCode": "53115",
+        "city": "Bonn",
+        "street": "Karl-Frowein-Str. 1-3",
+        "phoneNumber": [
+            "+49228635387"
+        ],
+        "homepage": "http://autohauswenzel.de",
+        "contactPersons": [
+            {
+                "name": "Marcus Wenzel",
+                "position": "VERKAUF / ANKAUF / FINANZIERUNG",
+                "phone": "0228-635387",
+                "email": "mwenzel@autohauswenzel.de"
+            },
+            {
+                "name": "Erwin Wenzel",
+                "position": "VERKAUF",
+                "phone": "0228-635387",
+                "email": "ewenzel@autohauswenzel.de"
+            }
+        ]
+    },
+    {
+        "name": "Autohaus Langlinderer e.K.",
+        "country": "Germany",
+        "zipCode": "84503",
+        "city": "Altötting",
+        "street": "Tüsslinger Str. 1",
+        "phoneNumber": [
+            "+49867150000"
+        ],
+        "homepage": "http://langlinderer.de",
+        "contactPersons": [
+            {
+                "name": "Stephan Lux ",
+                "position": "Verkauf Altötting ",
+                "phone": "+49 8671 50 000",
+                "email": "gw-anfrage@langlinderer.de"
+            },
+            {
+                "name": "Maximilian Langlinderer",
+                "position": "Verkauf Waldkraiburg ",
+                "phone": "+49 8638 9440-14",
+                "email": "gw-anfrage@langlinderer.de"
+            }
+        ]
+    },
+    {
+        "name": "Ausolis Trading GmbH",
+        "country": "Germany",
+        "zipCode": "42489",
+        "city": "Wülfrath",
+        "street": "Wilhelmstraße   20",
+        "phoneNumber": [
+            "+4920581754940",
+            "+491739901180"
+        ],
+        "homepage": "http://ausolis.de",
+        "contactPersons": [
+            {
+                "name": "Steffen Schäfers",
+                "position": "Verkauf/Finanzierungen",
+                "phone": "020581754943 ",
+                "email": "schaefers@ausolis.de"
+            },
+            {
+                "name": "Stephan Kelas",
+                "position": "Verkauf",
+                "phone": "020581754940  ",
+                "email": "kelas@ausolis.de"
+            },
+            {
+                "name": "Andre Andriesen",
+                "position": "Verkauf/Finanzierungen",
+                "phone": "020581754940",
+                "email": "andriesen@ausolis.de"
+            },
+            {
+                "name": "Fahrzeuganfragen über WhatsApp",
+                "position": "Verkauf",
+                "phone": "+49 173 9901180",
+                "email": null
+            }
+        ]
+    },
+    {
+        "name": "Automobilfachbetrieb Müller GmbH",
+        "country": "Germany",
+        "zipCode": "45481",
+        "city": "Mülheim/Ruhr   , Stadteil: Mülheim Saarn",
+        "street": "Strassburger Allee 85-87",
+        "phoneNumber": [
+            "+49208488442"
+        ],
+        "homepage": "http://t-online.de",
+        "contactPersons": [
+            {
+                "name": "Ingo Müller, Oliver Müller",
+                "position": "Verkauf",
+                "phone": "0208 488442",
+                "email": "automobile_mueller_gmbh@t-online.de"
+            },
+            {
+                "name": "Herr Müller ",
+                "position": "Verkauf + Einkauf",
+                "phone": "0208 488442",
+                "email": "automobile_mueller_gmbh@t-online.de"
+            },
+            {
+                "name": "Herr Oliver Müller ",
+                "position": "Werkstatt + Verkauf",
+                "phone": "0208 488442",
+                "email": "automobile_mueller_gmbh@t-online.de"
+            },
+            {
+                "name": "Frau Müller",
+                "position": "Buchhaltung/ Büro",
+                "phone": "0208 488442",
+                "email": "automobile_mueller_gmbh@t-online.de"
+            },
+            {
+                "name": "Herr Teczan",
+                "position": "Fahrzeugaufbereitung",
+                "phone": "0208 488442",
+                "email": "automobile_mueller_gmbh@t-online.de"
+            }
+        ]
+    },
+    {
+        "name": "Automobile Thomas in Giessen",
+        "country": "Germany",
+        "zipCode": "35457",
+        "city": "Lollar",
+        "street": "Sandweg 9",
+        "phoneNumber": [
+            "+491723655552",
+            "+491717449229",
+            "+496406907090"
+        ],
+        "homepage": "http://yahoo.de",
+        "contactPersons": [
+            {
+                "name": "Thomas Dodopoulos",
+                "position": "An -und Verkauf",
+                "phone": "01717449229",
+                "email": "thomasdodopoulos@yahoo.de"
+            }
+        ]
+    },
+    {
+        "name": "SK Automobile",
+        "country": "Germany",
+        "zipCode": "41516",
+        "city": "Grevenbroich",
+        "street": "Dorfstraße 2",
+        "phoneNumber": [
+            "+4915111572801",
+            "+4921825733810"
+        ],
+        "homepage": "http://sk-Automobile.info",
+        "contactPersons": [
+            {
+                "name": "Stefan Kastner",
+                "position": "An / Verkauf",
+                "phone": "015111572801",
+                "email": "verkauf@sk-automobile.info"
+            }
+        ]
+    },
+    {
+        "name": "Autocenter Stoppenberg",
+        "country": "Germany",
+        "zipCode": "45141",
+        "city": "Essen",
+        "street": "Stoppenberger Straße 60",
+        "phoneNumber": [
+            "+4915753113007",
+            "+4915753113007"
+        ],
+        "homepage": "http://hotmail.com",
+        "contactPersons": [
+            {
+                "name": "Team Autocenter Stoppenberg",
+                "position": null,
+                "phone": "015753113007",
+                "email": "Autocenterstoppenberg@hotmail.com"
+            }
+        ]
+    },
+    {
+        "name": "AUTO WOLTER  &  PRO-MOTORS  FABER  Automobile",
+        "country": "Germany",
+        "zipCode": "50129",
+        "city": "Bergheim",
+        "street": "Ludwig-Erhard-Straße 9",
+        "phoneNumber": [
+            "+492238945128",
+            "+491637298478"
+        ],
+        "homepage": "http://autowolter.de",
+        "contactPersons": [
+            {
+                "name": "Hajo Faber",
+                "position": "An- & Verkauf von Neu-, Gebraucht- und EU-Fahrzeugen ausgesuchter Marken ",
+                "phone": "0163 / 72 984 78 ",
+                "email": "h.faber@autowolter.de"
+            }
+        ]
+    }
+]
