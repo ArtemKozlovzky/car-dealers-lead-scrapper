@@ -1,5 +1,6 @@
 import requests
 import json
+from retrying import retry
 from bs4 import BeautifulSoup
 
 headers = {
@@ -7,9 +8,7 @@ headers = {
     'User-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36'
 }
 
-def get_homepage(dealer_link):
-    req = requests.get(f'https://www.autoscout24.de/haendler/{dealer_link}/impressum', headers=headers)
-    src = req.text
+def get_homepage(src):
     soup = BeautifulSoup(src, 'lxml')
     dealer_impressum = soup.find_all('div', class_='dp-section__text')
     for item in dealer_impressum:
@@ -23,38 +22,50 @@ def get_homepage(dealer_link):
         else:
             return item_href
 
+def get_car_brands():
+    car_brands = input('Please enter the car brands for which information about dealerships should be collected')
+    car_brands_split = car_brands.split(' ')
+    car_brands = '%2C'.join(car_brands_split)
+    return car_brands
 
-
-def collect_data():
-    dump = []
-    amount_of_dealers = input('enter an amount of dealers')
+def get_amount_of_dealers():
+    amount_of_dealers = input('Please enter an amount of leads to get data from (default amount is 1000)')
     if amount_of_dealers == '':
         amount_of_dealers = 1000
-    car_brands = input('enter car-brands')
-    car_brands_split = car_brands.split(' ')
-    car_brands =  '%2C'.join(car_brands_split)
+    return amount_of_dealers
+
+@retry(wait_fixed=100, stop_max_attempt_number=3)
+def get_response(car_brands, i, size_of_page):
+    response = requests.get(
+        url=f'https://www.autoscout24.de/dealer-search/api/?country=DE&companyName=&services=&makes={car_brands}&pageIndex={i}&size={size_of_page}&sortBy=best',
+        headers=headers)
+    return response
+
+@retry(wait_fixed=100, stop_max_attempt_number=3)
+def get_src(dealer_link):
+    dealer_link_impressum = (f'https://www.autoscout24.de/haendler/{dealer_link}/impressum')
+    src = requests.get(dealer_link_impressum, headers=headers).text
+    return src
+
+def collect_data(amount_of_dealers, car_brands):
+    dump = []
+    size_of_page = 10
     i = 1
     j = 1
-    while i <= int (amount_of_dealers) / 10 or i % 10 != 0:
+    retry(wait_fixed=1000, stop_max_attempt_number=3)
+    while i <= int (amount_of_dealers) / size_of_page or i % size_of_page != 0:
 
-        response = requests.get(
-            url=f'https://www.autoscout24.de/dealer-search/api/?country=DE&companyName=&services=&makes={car_brands}&pageIndex={i}&size=10&sortBy=best',
-            headers=headers)
+        response = get_response(car_brands, i, size_of_page)
 
         results = response.json()["results"]
         for dealer in results:
             if j >= int (amount_of_dealers) + 1:
                 break
             dealer_link = dealer.get("slug")
-            dealer_link_about = (f'https://www.autoscout24.de/haendler/{dealer_link}/ueber-uns')
-            src = requests.get(dealer_link_about, headers=headers).text
+            src = get_src(dealer_link)
             soup = BeautifulSoup(src, 'lxml')
             json_data = soup.find('script', attrs={'id': '__NEXT_DATA__'}).text
-            data = json.loads(json_data)
-            with open('next_data.json', 'w', encoding='utf-8') as f:
-                json.dump(data, f, ensure_ascii=False, indent=4)
-            with open('next_data.json', 'r', encoding='utf-8') as file:
-                next_data = json.load(file)
+            next_data = json.loads(json_data)
             dealer_country = (next_data['props']['pageProps']['dealerInfoPage']['customerAddress']['country'])
             if dealer_country == 'DE':
                 dealer_country = 'Germany'
@@ -74,17 +85,18 @@ def collect_data():
                dealer_country = 'Austria'
             else:
                 dealer_country = 'Europe'
-            dealer_name = (next_data['props']['pageProps']['dealerInfoPage']['customerName'])
-            dealer_zipcode = (next_data['props']['pageProps']['dealerInfoPage']['customerAddress']['zipCode'])
-            dealer_city = (next_data['props']['pageProps']['dealerInfoPage']['customerAddress']['city'])
-            dealer_street = (next_data['props']['pageProps']['dealerInfoPage']['customerAddress']['street'])
-            dealer_phone_number = (next_data['props']['pageProps']['dealerInfoPage']['callPhoneNumbers'])
-            dealer_homepage = (next_data['props']['pageProps']['dealerInfoPage']['homepageUrl'])
-            contact_person = (next_data['props']['pageProps']['dealerInfoPage']['contactPersons'])
+
+            dealer_info_page = next_data['props']['pageProps']['dealerInfoPage']
+            dealer_name = (dealer_info_page['customerName'])
+            dealer_zipcode = (dealer_info_page['customerAddress']['zipCode'])
+            dealer_city = (dealer_info_page['customerAddress']['city'])
+            dealer_street = (dealer_info_page['customerAddress']['street'])
+            dealer_phone_number = (dealer_info_page['callPhoneNumbers'])
+            dealer_homepage = (dealer_info_page['homepageUrl'])
+            contact_person = (dealer_info_page['contactPersons'])
 
             if dealer_homepage == None:
-                dealer_homepage = get_homepage(dealer_link)
-            print (dealer_homepage)
+                dealer_homepage = get_homepage(src)
 
             dealer_data = {
                 'name': dealer_name, 'country': dealer_country, 'zipCode': dealer_zipcode, 'city': dealer_city,
@@ -92,18 +104,20 @@ def collect_data():
                 'contactPersons': contact_person
             }
 
-            dump += [dealer_data]
+            dump.append(dealer_data)
 
             print(f'{j}. {dealer_name} is processed!')
             j = j + 1
+
+        with open('dealer_data.json', 'w', encoding='utf-8') as file:
+            json.dump(dump, file, indent=4, ensure_ascii=False)
+
         i = i + 1
 
-    with open('dealer_data.json', 'w', encoding='utf-8') as file:
-        json.dump(dump, file, indent=4, ensure_ascii=False)
-
-
 def main():
-    collect_data()
+    amount_of_dealers = get_amount_of_dealers()
+    car_brands = get_car_brands()
+    collect_data(amount_of_dealers, car_brands)
 
 
 if __name__ == '__main__':
