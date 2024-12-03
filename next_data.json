@@ -2,42 +2,40 @@
     "props": {
         "pageProps": {
             "url": "/about",
-            "pageTitle": "AUTO WOLTER  &  PRO-MOTORS  FABER  Automobile in Bergheim | AutoScout24",
-            "slug": "auto-wolter-und-pro-motors-faber-automobile",
+            "pageTitle": "Autohaus Uzun in Hannover | AutoScout24",
+            "slug": "autohaus-uzun",
             "cultureIso": "de-DE",
             "dealerInfoPage": {
-                "slug": "auto-wolter-und-pro-motors-faber-automobile",
-                "sellId": "2142113928",
+                "slug": "autohaus-uzun",
+                "sellId": "246164924",
                 "culture": "de-DE",
-                "customerName": "AUTO WOLTER  &  PRO-MOTORS  FABER  Automobile",
-                "customerId": 17816441,
+                "customerName": "Autohaus Uzun",
+                "customerId": 22953,
                 "customerAddress": {
                     "country": "DE",
-                    "zipCode": "50129",
-                    "city": "Bergheim",
-                    "street": "Ludwig-Erhard-Straße 9"
+                    "zipCode": "30419",
+                    "city": "Hannover",
+                    "street": "Stöckenerstr. 158 (OT Stöcken)"
                 },
                 "customerPhoneNumbers": [
-                    "+49 (0)2238 - 945128",
-                    "+49 (0)163 - 7298478"
+                    "+49 (0)511 - 2281144"
                 ],
                 "customerFaxNumbers": [
-                    "+49 (0)2238 - 945129"
+                    "+49 (0)511 - 2281143"
                 ],
                 "callPhoneNumbers": [
-                    "+492238945128",
-                    "+491637298478"
+                    "+495112281144"
                 ],
                 "homepageUrl": null,
-                "companyAddOn": "SUBARU Vertragspartner & EU-Import- & GW-Fahrzeuge",
-                "contactName": "Hajo Faber",
+                "companyAddOn": null,
+                "contactName": null,
                 "ratings": {
                     "reviews": [
                         {
-                            "reviewId": "1732790811665|MTc4MTY0NDF8MGEzN2I2MTItN2M0My00YjJiLWFkOTgtMDNhZmNhOTEzMWYx",
+                            "reviewId": "1732368331049|MjI5NTN8NGNhZTcyNDYtN2NkOC00NDg4LThkYzQtNDc0YzAwMmJjMTVl",
                             "stars": 5,
-                            "created": "28.11.2024",
-                            "name": "Kay",
+                            "created": "29.11.2024",
+                            "name": "Natalia Musiol",
                             "grades": [
                                 {
                                     "stars": 5,
@@ -60,48 +58,16 @@
                                     "label": "Kaufprozess"
                                 }
                             ],
-                            "reviewText": "Hr. Faber war sehr kompetent, freundlich und genauso zuverlässig. Vielen Dank nochmal ",
-                            "replyText": "",
-                            "replyCreated": null,
+                            "reviewText": "Alle super freundlich und eine kompetente Beratung. Abwicklung ging schnell und unkompliziert. Ein super Service. Kann ich nur weiterempfehlen 😊",
+                            "replyText": "Vielen lieben Dank für das tolle Feedback lieber Kunde und das uns entgegengebrachte Vertrauen in dem Sie uns Ihren schönen Fahrzeug anvertraut haben. Liebe Grüße und alles Gute wünscht Ihnen die Ankaufstation Hannover - Autohaus ",
+                            "replyCreated": "30.11.2024",
                             "topRating": false
                         },
                         {
-                            "reviewId": "1731916450409|MTc4MTY0NDF8MDQ4Y2I5MDktZGYxZC00NTYzLTkzYTUtZjhjZjE4YTlkOWFl",
-                            "stars": 5,
-                            "created": "18.11.2024",
-                            "name": "Steff",
-                            "grades": [
-                                {
-                                    "stars": 5,
-                                    "label": "Gesamteindruck"
-                                },
-                                {
-                                    "stars": 5,
-                                    "label": "Erreichbarkeit"
-                                },
-                                {
-                                    "stars": 5,
-                                    "label": "Zuverlässigkeit"
-                                },
-                                {
-                                    "stars": 5,
-                                    "label": "Angebotsbeschreibung"
-                                },
-                                {
-                                    "stars": 5,
-                                    "label": "Kaufprozess"
-                                }
-                            ],
-                            "reviewText": "Ich kann nur Gutes sagen zur gesamten Kaufabwickelung. Alles wurde sehr professionell bearbeitet ",
-                            "replyText": "",
-                            "replyCreated": null,
-                            "topRating": false
-                        },
-                        {
-                            "reviewId": "1731670595028|MTc4MTY0NDF8MmRiNGM1NmMtODE3NC00ODA3LTljNTUtY2I5NDg4MTg3Mzli",
+                            "reviewId": "1729528206566|MjI5NTN8YjBjMzU2ZTUtNTJiOC00OTM5LWI4YTAtY2Y0OWJlOWNkYjM1",
                             "stars": 5,
                             "created": "15.11.2024",
-                            "name": "LOLA",
+                            "name": "L. Eggerking ",
                             "grades": [
                                 {
                                     "stars": 5,
@@ -124,16 +90,16 @@
                                     "label": "Kaufprozess"
                                 }
                             ],
-                            "reviewText": "Alles wurde zu meiner vollsten Zufriedenheit durchgeführt und ich wurde immer äußerst freundlich und kompetent bedient ",
-                            "replyText": "",
-                            "replyCreated": null,
-                            "topRating": false
+                            "reviewText": "Ich habe mein Auto hier verkauft und wurde sehr gut beraten. Es wurde per Echtzeit überwiesen und das Geld war direkt auf meinem Konto. Mein Auto wurde im 6 Augen Prinzip bewertet und es wurde sich viel Zeit genommen. ",
+                            "replyText": "Vielen lieben Dank für das tolle Feedback liebe Frau L. Eggerking und das uns entgegengebrachte Vertrauen in dem Sie uns Ihren schönen Fahrzeug anvertraut haben. Liebe Grüße und alles Gute wünscht Ihnen die Ankaufstation Hannover - Autohaus ",
+                            "replyCreated": "15.11.2024",
+                            "topRating": true
                         },
                         {
-                            "reviewId": "1731577209718|MTc4MTY0NDF8NTg0NTExODctZGNmMC00N2ZiLWJjZTEtYzAxNDUzNmU3YTkw",
+                            "reviewId": "1726924688417|MjI5NTN8YmNjODBhZGEtMTRjYi00MTY3LTk1ZDgtZGYwNzQ3YzA4ZDMy",
                             "stars": 5,
-                            "created": "14.11.2024",
-                            "name": "Pablo ",
+                            "created": "18.10.2024",
+                            "name": "Nicole R.",
                             "grades": [
                                 {
                                     "stars": 5,
@@ -156,16 +122,80 @@
                                     "label": "Kaufprozess"
                                 }
                             ],
-                            "reviewText": "Es war meine erstes Mal das wir ein Auto gekauft haben und Herr Faber hat uns ganz toll geholfen. Er hat alle unsere Fragen beantwortet und uns jeden Schritt bis zur Zulassung erklärt. Neben bei haben wir natürlich auch einen tollen BMW bekommen und sind rundherum glücklich mit der gesamten Abwicklung.\nVielen Dank für die schnelle Lieferung ",
-                            "replyText": "",
-                            "replyCreated": null,
+                            "reviewText": "Von der ersten Kontaktaufnahme, über den Besuch im Autohaus,bis zur Kaufabwicklung war alles top!\nIn sehr freundliches Team!\nAlle Fragen werden geradeaus beantwortet.",
+                            "replyText": "Vielen lieben Dank liebe Nicole R. für das wirklich tolle Feedback und allzeit gute Fahrt mit Ihrem \"neuen\" BMW 116 aus dem Autohaus UZUN.",
+                            "replyCreated": "19.10.2024",
+                            "topRating": true
+                        },
+                        {
+                            "reviewId": "1717145827333|MjI5NTN8YzU2ZDg2NTgtMWJmZC00Y2NhLTg2MzgtZGIyZTFlMzdjNDg3",
+                            "stars": 5,
+                            "created": "14.06.2024",
+                            "name": "Autohaus Uzun",
+                            "grades": [
+                                {
+                                    "stars": 5,
+                                    "label": "Gesamteindruck"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Erreichbarkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Zuverlässigkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Angebotsbeschreibung"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Kaufprozess"
+                                }
+                            ],
+                            "reviewText": "Danke an Herr Reinhold für dieses tolle Angebot und den reibungslosen An und Abmeldeservice. Es gab eine offene und ehrliche Kaufberatung ohne Aufdringlichkeiten. \nEin tolles Auto und ehrliche Verkäufer. Danke",
+                            "replyText": "Vielen lieben Dank für das tolle Feedback lieber Kunde und das uns entgegengebrachte Vertrauen in dem Sie uns Ihren schönen Fahrzeug anvertraut haben. Liebe Grüße und alles Gute wünscht Ihnen die Ankaufstation Hannover - Autohaus ",
+                            "replyCreated": "14.6.2024",
+                            "topRating": true
+                        },
+                        {
+                            "reviewId": "1729096326336|MjI5NTN8YTkxOTVmOWYtMDE5Yy00NTg2LWFhZTktODZjN2RmZjk5ZjRm",
+                            "stars": 5,
+                            "created": "15.11.2024",
+                            "name": "Ford",
+                            "grades": [
+                                {
+                                    "stars": 5,
+                                    "label": "Gesamteindruck"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Erreichbarkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Zuverlässigkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Angebotsbeschreibung"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Kaufprozess"
+                                }
+                            ],
+                            "reviewText": "Sehr gute Beratung Guter Service  habe dort Nein Auto verkauft",
+                            "replyText": "Vielen lieben Dank für das tolle Feedback lieber Kunde und das uns entgegengebrachte Vertrauen in dem Sie uns Ihren schönen Fahrzeug anvertraut haben. Liebe Grüße und alles Gute wünscht Ihnen die Ankaufstation Hannover - Autohaus ",
+                            "replyCreated": "15.11.2024",
                             "topRating": false
                         },
                         {
-                            "reviewId": "1728900307071|MTc4MTY0NDF8MDdkNDY0MjEtYjg5ZC00YmFiLWExM2QtYWJlNjBmZDYxZDkz",
+                            "reviewId": "1730481306585|MjI5NTN8NTk3YWRiYjMtOTVhNi00YzIzLWJiZWUtY2Y2ZDg3MDI3YThk",
                             "stars": 5,
                             "created": "12.11.2024",
-                            "name": "Anja ",
+                            "name": "Burghard Heinz Ahlvers",
                             "grades": [
                                 {
                                     "stars": 5,
@@ -188,16 +218,48 @@
                                     "label": "Kaufprozess"
                                 }
                             ],
-                            "reviewText": "Das ist ein ganz vertrauensvoller und hilfsbereiter Händler. Ich fühle mich dort bestens betreut ",
-                            "replyText": "",
-                            "replyCreated": null,
+                            "reviewText": "Jederzeit würde ich wieder ein Auto in diesem Autohaus kaufen.",
+                            "replyText": "Vielen lieben Dank für das tolle Feedback lieber Burghard Heinz Ahlvers und das uns entgegengebrachte Vertrauen in dem Sie uns Ihren schönen Fahrzeug anvertraut haben. Liebe Grüße und alles Gute wünscht Ihnen die Ankaufstation Hannover - Autohaus ",
+                            "replyCreated": "12.11.2024",
                             "topRating": false
                         },
                         {
-                            "reviewId": "1727256908315|MTc4MTY0NDF8NmEzYjQyYWQtYTVkYi00YmRhLTk4MzQtN2I2NWU0N2Y1MzZl",
+                            "reviewId": "1728405969533|MjI5NTN8MGQ5NTlhMWItYmYyMi00YTI1LWIxNjktY2VlYzNmZTEzODc4",
+                            "stars": 5,
+                            "created": "30.10.2024",
+                            "name": "Abdulkadir Badekil",
+                            "grades": [
+                                {
+                                    "stars": 5,
+                                    "label": "Gesamteindruck"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Erreichbarkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Zuverlässigkeit"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Angebotsbeschreibung"
+                                },
+                                {
+                                    "stars": 5,
+                                    "label": "Kaufprozess"
+                                }
+                            ],
+                            "reviewText": "Sehr freundlich und sehr hilfsbereit. Ich bedanke mich für die nette beratung und danke für das schöne auto.",
+                            "replyText": "Vielen lieben Dank für das tolle Feedback lieber Abdulkadir Badekil und das uns entgegengebrachte Vertrauen in dem Sie uns Ihren schönen Fahrzeug anvertraut haben. Liebe Grüße und alles Gute wünscht Ihnen die Ankaufstation Hannover - Autohaus ",
+                            "replyCreated": "30.10.2024",
+                            "topRating": false
+                        },
+                        {
+                            "reviewId": "1728132011422|MjI5NTN8ZTlmNTdmNTgtZjFiNS00MWEyLThjMTktNmE0MTBlZjQwNGVk",
                             "stars": 5,
                             "created": "20.10.2024",
-                            "name": "Alex",
+                            "name": "Lot",
                             "grades": [
                                 {
                                     "stars": 5,
@@ -220,16 +282,16 @@
                                     "label": "Kaufprozess"
                                 }
                             ],
-                            "reviewText": "Wir kommen gerne wieder weil wir einfach nur von Euch überzeugt wurden und ein tolles Fahrzeug heute fahren. Ebenfalls ist euer Service sehr gut und uns wird immer sofort professionell geholfen. ",
-                            "replyText": "",
-                            "replyCreated": null,
+                            "reviewText": "Hervorragende Beratung, freundlich, gute Fachkenntnisse. Volles Vertrauen. Allseits weiterzuempfehlen .",
+                            "replyText": "Vielen lieben Dank für das tolle Feedback lieber Herr Lot und für das uns entgegengebrachte Vertrauen in dem Sie uns Ihr schönenes Fahrzeug anvertraut haben. Liebe Grüße und alles Gute wünscht Ihnen die Ankaufstation Hannover - Autohaus Uzun",
+                            "replyCreated": "21.10.2024",
                             "topRating": false
                         },
                         {
-                            "reviewId": "1727700787691|MTc4MTY0NDF8ZGIyYmZiNjAtMTNhMi00NWY3LTgzMmMtYjk3NDcwOTA4YmI4",
+                            "reviewId": "1726841109124|MjI5NTN8NGJmZjUxMWEtNTNjMC00OWU2LTg4NWItOGE1NWVjODM5ZGEy",
                             "stars": 5,
-                            "created": "04.10.2024",
-                            "name": "Outback Platinum Cross",
+                            "created": "18.10.2024",
+                            "name": "Herr.Mann",
                             "grades": [
                                 {
                                     "stars": 5,
@@ -252,16 +314,16 @@
                                     "label": "Kaufprozess"
                                 }
                             ],
-                            "reviewText": "Schon vorab der offiziellen Presseveröffentlichung über dieses Sondermodell hat mir der Händler Informationen hierüber besorgt, bereitgestellt und mir eine ausgiebige Probefahrt eines vergleichbaren Serienmodells ermöglicht. Der anschließende Kaufprozess  war vertrauenswürdig, nett und verbindlich, für alles wurde auch eine Lösung gefunden. Vielen Dank und gerne immer wieder.",
-                            "replyText": "",
-                            "replyCreated": null,
+                            "reviewText": "Super Team\nTolles Auto",
+                            "replyText": "Vielen lieben Dank lieber Herr Mann für das wirklich tolle Feedback und allzeit gute Fahrt mit Ihrem \"neuen\" VW Polo aus dem Autohaus UZUN.",
+                            "replyCreated": "19.10.2024",
                             "topRating": false
                         },
                         {
-                            "reviewId": "1726488741543|MTc4MTY0NDF8YzNjNjZiNGUtODg2OS00ZGYwLWE4ZTMtZGVjNGM4MzY2MDU3",
+                            "reviewId": "1728923345798|MjI5NTN8ODVhN2YyNDUtOWVlNS00N2Q3LWI0ZDgtOTdjNjUwYjAxYTUx",
                             "stars": 5,
-                            "created": "16.09.2024",
-                            "name": "DIRHANS",
+                            "created": "17.10.2024",
+                            "name": "Familie Pages",
                             "grades": [
                                 {
                                     "stars": 5,
@@ -278,85 +340,17 @@
                                 {
                                     "stars": 5,
                                     "label": "Angebotsbeschreibung"
-                                },
-                                {
-                                    "stars": 5,
-                                    "label": "Kaufprozess"
                                 }
                             ],
-                            "reviewText": "Ich kann euch nur weiterempfehlen da Ihr alle so gut beraten habt und sehr hilfsbereit ward. ",
-                            "replyText": "",
-                            "replyCreated": null,
-                            "topRating": false
-                        },
-                        {
-                            "reviewId": "1724753167260|MTc4MTY0NDF8MTAyOTBhZmQtZWY3Ni00MzMwLWJhZjUtMzkyYTkzYjU1YzFi",
-                            "stars": 5,
-                            "created": "04.09.2024",
-                            "name": "Piet",
-                            "grades": [
-                                {
-                                    "stars": 5,
-                                    "label": "Gesamteindruck"
-                                },
-                                {
-                                    "stars": 5,
-                                    "label": "Erreichbarkeit"
-                                },
-                                {
-                                    "stars": 5,
-                                    "label": "Zuverlässigkeit"
-                                },
-                                {
-                                    "stars": 5,
-                                    "label": "Angebotsbeschreibung"
-                                },
-                                {
-                                    "stars": 5,
-                                    "label": "Kaufprozess"
-                                }
-                            ],
-                            "reviewText": "Sehr guter Service und Beratung. Sauberes Familienfahrzeug mit viel Platz zu einem günstigen Preis.\nHerr Faber ist ein guter und zuverlässiger Ansprechpartner. ",
-                            "replyText": "",
-                            "replyCreated": null,
-                            "topRating": false
-                        },
-                        {
-                            "reviewId": "1725388574886|MTc4MTY0NDF8NzI0YzdiM2EtZDNkNC00NjRmLWI5OTMtNWRlMGM4YmNhMjll",
-                            "stars": 5,
-                            "created": "04.09.2024",
-                            "name": "Secsim",
-                            "grades": [
-                                {
-                                    "stars": 5,
-                                    "label": "Gesamteindruck"
-                                },
-                                {
-                                    "stars": 5,
-                                    "label": "Erreichbarkeit"
-                                },
-                                {
-                                    "stars": 5,
-                                    "label": "Zuverlässigkeit"
-                                },
-                                {
-                                    "stars": 5,
-                                    "label": "Angebotsbeschreibung"
-                                },
-                                {
-                                    "stars": 5,
-                                    "label": "Kaufprozess"
-                                }
-                            ],
-                            "reviewText": "Hier gab es mein, Wunschfahrzeug mit einem tollen Service. ",
-                            "replyText": "",
-                            "replyCreated": null,
+                            "reviewText": "Top Händler Top Service tolle Fahrzeuge dort .. alles in einem ein Top Händler von A-Z auch wenn’s über den verdienten Feierabend hinaus geht bleiben alle nett und freundlich 🤙",
+                            "replyText": "Vielen lieben Dank liebe Familie Pages für das wirklich tolle Feedback und allzeit gute Fahrt mit Ihrem \"neuen\" VW up aus dem Autohaus UZUN.",
+                            "replyCreated": "18.10.2024",
                             "topRating": false
                         }
                     ],
-                    "reviewCount": 273,
-                    "ratingCount": 273,
-                    "ratingAverage": 4.96,
+                    "reviewCount": 625,
+                    "ratingCount": 625,
+                    "ratingAverage": 4.71,
                     "ratingStars": 5,
                     "gradesAverage": [
                         {
@@ -380,65 +374,38 @@
                             "label": "Kaufprozess"
                         }
                     ],
-                    "recommendPercentage": 100,
+                    "recommendPercentage": 97,
                     "timedOut": false
                 },
-                "aboutUs": "Seit 1990 freie KFZ-Meister-Werkstatt für alle Fabrikate !\nSeit 1997 SUBARU Vertragspartner !\nSeit 1999 zertifizierter Gasumrüster für Fahrzeuge !\nSUBARU Service , Ersatzteile , Reparaturen und Verkauf von Neuwagen , Vorführwagen und Gebrauchtwagen !\nVertrieb von meistergeprüften Gebrauchtwagen !\nInzahlungnahme und freier Ankauf von Gebrauchtwagen !\nUnfallinstandsetzungen !\nGlasbruch- und Steinschlagschädenbeseitigung !\nSmart-Repair von Karroserie- , Lack- und Glasschäden !\nReifenservice (inkl. Einlagerung von Sommer- und Winterreifen) !\nKFZ-Versicherungen und Finanzdienstleistungen \nTÜV & DEKRA  Stützpunkt\n\nSeit 2020 Erweiterung und Ausbau des Fahrzeughandel mit Neufahrzeugen anderer Marken aus Deutschland und weiteren EU-Ländern.\nFreier Ankauf und Verkauf meistergeprüften Gebrauchtfahrzeugen aller Typen und Marken. \nHierzu bieten wir Hilfe bei Finanzierungs- und Leasingfragen nach Ihren Vorstellungen , gerne  mit auch Garantien für Ihr Wunschfahrzeug bis 12 Jahren Fahrzeugalter .\nHilfe zu allen Fragen rund ums Fahrzeug mit Consulting und Beratung durch die PRO - MOTORS  Faber Automobile !\nWir freuen uns auf Sie und möchten Sie nur vollkommen zufrieden stellen !\nBitte sprechen Sie uns an und besuchen uns.   \n\n\n\n",
-                "imprint": "Verantwortlicher für die Datenverarbeitung, der über dieses Kontaktformular weitergeleiteten Daten:\n1. Auto Wolter , Inhaber Christian Wolter , Ludwig-Erhard-Str. 9 , 50129 Bergheim Glessen , Gerichtsstand ist Bergheim\n2. Telefon : 02238 / 94 51 27 ,  Fax  :  02238 / 94 51 29 , Email :  verkauf@autowolter.de\n3.  Internet :  www.autowolter.de\n4.  Umsatzsteuer IDNR :  DE 121946970\n\nZweck und Rechtsgrundlage\nDie Verarbeitung der von Ihnen angegebenen personenbezogenen Daten dient der Kontaktaufnahme \nmit Ihnen zur Beantwortung Ihrer Anfrage. Die Rechtsgrundlage für die Verarbeitung der Daten ist Art \n6 Abs 1 lit. f DSGVO. Das erforderliche berechtigte Interesse liegt in der Beantwortung Ihrer Anfrage.\n\nEmpfänger oder Kategorien von Empfängern\nInnerhalb unseres Autohauses erhalten diejenigen Stellen bzw. Mitarbeiterinnen und Mitarbeiter Ihre \nDaten, die diese zur Wahrung berechtigter Interessen und/oder etwaiger gesetzlicher Pflichten \nbenötigen.\nSpeicherdauer\nIhre personenbezogenen Daten werden von uns nur so lange aufbewahrt, wie dies vernünftigerweise \nvon uns als nötig erachtet wird, um die unter Zweck und Rechtsgrundlage genannten Zwecke zu \nerreichen und wie dies nach anwendbarem Recht zulässig ist. Wir speichern Ihre personenbezogenen \nDaten, solange gesetzliche Aufbewahrungspflichten bestehen oder Verjährungsfristen potentieller \nRechtsansprüche noch nicht abgelaufen sind.\n\nIhre Rechte\nSie haben das Recht auf Auskunft gemäß Artikel 15 DSGVO, das Recht auf Berichtigung gemäß Artikel \n16 DSGVO, das Recht auf Löschung gemäß Artikel 17 DSGVO, das Recht auf Einschränkung der \nVerarbeitung gemäß Artikel 18 DSGVO, das Recht auf Datenübertragbarkeit gemäß Artikel 20 DSGVO \nsowie das Recht auf Widerspruch gemäß Artikel 21 DSGVO. Sie haben ferner das Recht, sich bei der \nzuständigen Aufsichtsbehörde zu beschweren",
+                "aboutUs": "Auto Ankaufstation Hannover\nAutohaus UZUN® seit 1991\n\n- ständig  ca. 250 Fahrzeuge sofort verfügbar.\n- alle Marken - alle Klassen \n- Ankauf mit Sofortauszahlung in 30 Minuten möglich",
+                "imprint": "Autohaus UZUN\n\nStöckener Straße 158 \n30419 Hannover\nDeutschland\n\nTel.:  0511 2281144\nFax.:  0511 2281143\nE - Mail: info@autohaus-uzun.de\n\nHandelsregister: Hannover\nHandelsregisternr.:\nSt.-Nr.:25/145/09518\nUmsatzsteuer-Id.: DE313599762\n\nVertretungsberechtigter: Herr Numan Uzun\n\nVerantwortlicher für die Datenverarbeitung, der über dieses Kontaktformular weitergeleiteten Daten:\n\nAutohaus Uzun\nStöckener Straße 158\n30419 Hannover \nTel: 0511 2281144\n\nMail: info@autohaus-uzun.de\nAnsprechpartner für den Datenschutz: Frau Sabine Günther\n\nZweck und Rechtsgrundlage\nDie Verarbeitung der von Ihnen angegebenen personenbezogenen Daten dient der Kontaktaufnahme mit Ihnen zur Beantwortung Ihrer Anfrage. Die Rechtsgrundlage für die Verarbeitung der Daten ist Art 6 Abs 1 lit. f DSGVO. Das erforderliche berechtigte Interesse liegt in der Beantwortung Ihrer Anfrage.\n\nEmpfänger oder Kategorien von Empfängern\nInnerhalb unseres Autohauses erhalten diejenigen Stellen bzw. Mitarbeiterinnen und Mitarbeiter Ihre Daten, die diese zur Wahrung berechtigter Interessen und/oder etwaiger gesetzlicher Pflichten benötigen.\n\nSpeicherdauer\nIhre personenbezogenen Daten werden von uns nur so lange aufbewahrt, wie dies vernünftigerweise von uns als nötig erachtet wird, um die unter Zweck und Rechtsgrundlage genannten Zwecke zu erreichen und wie dies nach anwendbarem Recht zulässig ist. Wir speichern Ihre personenbezogenen Daten, solange gesetzliche Aufbewahrungspflichten bestehen oder Verjährungsfristen potentieller Rechtsansprüche noch nicht abgelaufen sind.\n\nIhre Rechte\nSie haben das Recht auf Auskunft gemäß Artikel 15 DSGVO, das Recht auf Berichtigung gemäß Artikel 16 DSGVO, das Recht auf Löschung gemäß Artikel 17 DSGVO, das Recht auf Einschränkung der Verarbeitung gemäß Artikel 18 DSGVO, das Recht auf Datenübertragbarkeit gemäß Artikel 20 DSGVO sowie das Recht auf Widerspruch gemäß Artikel 21 DSGVO. Sie haben ferner das Recht, sich bei der zuständigen Aufsichtsbehörde zu beschweren.",
                 "openingHours": [
                     {
-                        "department": "Werkstatt , Service , Ersatzteile ",
+                        "department": "Showroom",
                         "timetable": [
                             [
-                                800,
-                                1700
-                            ],
-                            [
-                                800,
-                                1700
-                            ],
-                            [
-                                800,
-                                1700
-                            ],
-                            [
-                                800,
-                                1700
-                            ],
-                            [
-                                800,
-                                1530
-                            ],
-                            [],
-                            []
-                        ]
-                    },
-                    {
-                        "department": "Verkauf  / Ankauf / Versicherung  / Finanzierung    (nach Terminabstimmung)",
-                        "timetable": [
-                            [
-                                900,
-                                1800
-                            ],
-                            [
-                                900,
-                                1800
-                            ],
-                            [
-                                900,
-                                1800
-                            ],
-                            [
-                                900,
-                                1800
-                            ],
-                            [
-                                900,
-                                1800
+                                1000,
+                                1730
                             ],
                             [
                                 1000,
-                                1400
+                                1730
+                            ],
+                            [
+                                1000,
+                                1730
+                            ],
+                            [
+                                1000,
+                                1730
+                            ],
+                            [
+                                1000,
+                                1730
+                            ],
+                            [
+                                1000,
+                                1330
                             ],
                             []
                         ]
@@ -446,10 +413,16 @@
                 ],
                 "contactPersons": [
                     {
-                        "name": "Hajo Faber",
-                        "position": "An- & Verkauf von Neu-, Gebraucht- und EU-Fahrzeugen ausgesuchter Marken ",
-                        "phone": "0163 / 72 984 78 ",
-                        "email": "h.faber@autowolter.de"
+                        "name": "Herr Andreas Dase + Sascha Reinhold",
+                        "position": "Ankauf",
+                        "phone": "0511 - 2281144",
+                        "email": "info@autohaus-uzun.de"
+                    },
+                    {
+                        "name": "Herr Andreas Dase + Sascha Reinhold",
+                        "position": "Verkauf",
+                        "phone": "0511 - 2281144",
+                        "email": "info@autohaus-uzun.de"
                     }
                 ],
                 "dealerTypes": [
@@ -458,12 +431,60 @@
                         "name": "Freier Händler Auto",
                         "makes": [
                             {
-                                "id": "9",
-                                "name": "Audi"
+                                "id": "47",
+                                "name": "Mercedes-Benz"
                             },
                             {
                                 "id": "13",
                                 "name": "BMW"
+                            },
+                            {
+                                "id": "74",
+                                "name": "Volkswagen"
+                            },
+                            {
+                                "id": "65",
+                                "name": "Skoda"
+                            },
+                            {
+                                "id": "64",
+                                "name": "SEAT"
+                            },
+                            {
+                                "id": "16396",
+                                "name": "Abarth"
+                            },
+                            {
+                                "id": "6",
+                                "name": "Alfa Romeo"
+                            },
+                            {
+                                "id": "14",
+                                "name": "Alpina"
+                            },
+                            {
+                                "id": "8",
+                                "name": "Aston Martin"
+                            },
+                            {
+                                "id": "9",
+                                "name": "Audi"
+                            },
+                            {
+                                "id": "11",
+                                "name": "Bentley"
+                            },
+                            {
+                                "id": "17",
+                                "name": "Cadillac"
+                            },
+                            {
+                                "id": "19",
+                                "name": "Chevrolet"
+                            },
+                            {
+                                "id": "20",
+                                "name": "Chrysler"
                             },
                             {
                                 "id": "21",
@@ -478,6 +499,18 @@
                                 "name": "Daihatsu"
                             },
                             {
+                                "id": "16397",
+                                "name": "Daimler"
+                            },
+                            {
+                                "id": "16415",
+                                "name": "DS Automobiles"
+                            },
+                            {
+                                "id": "27",
+                                "name": "Ferrari"
+                            },
+                            {
                                 "id": "28",
                                 "name": "Fiat"
                             },
@@ -488,6 +521,10 @@
                             {
                                 "id": "31",
                                 "name": "Honda"
+                            },
+                            {
+                                "id": "15674",
+                                "name": "HUMMER"
                             },
                             {
                                 "id": "33",
@@ -510,6 +547,14 @@
                                 "name": "Kia"
                             },
                             {
+                                "id": "40",
+                                "name": "Lada"
+                            },
+                            {
+                                "id": "41",
+                                "name": "Lamborghini"
+                            },
+                            {
                                 "id": "15641",
                                 "name": "Land Rover"
                             },
@@ -518,12 +563,16 @@
                                 "name": "Lexus"
                             },
                             {
-                                "id": "46",
-                                "name": "Mazda"
+                                "id": "44",
+                                "name": "Lotus"
                             },
                             {
-                                "id": "47",
-                                "name": "Mercedes-Benz"
+                                "id": "45",
+                                "name": "Maserati"
+                            },
+                            {
+                                "id": "46",
+                                "name": "Mazda"
                             },
                             {
                                 "id": "16338",
@@ -536,10 +585,6 @@
                             {
                                 "id": "52",
                                 "name": "Nissan"
-                            },
-                            {
-                                "id": "15670",
-                                "name": "Oldtimer"
                             },
                             {
                                 "id": "54",
@@ -558,16 +603,16 @@
                                 "name": "Renault"
                             },
                             {
+                                "id": "61",
+                                "name": "Rolls-Royce"
+                            },
+                            {
+                                "id": "62",
+                                "name": "Rover"
+                            },
+                            {
                                 "id": "63",
                                 "name": "Saab"
-                            },
-                            {
-                                "id": "64",
-                                "name": "SEAT"
-                            },
-                            {
-                                "id": "65",
-                                "name": "Skoda"
                             },
                             {
                                 "id": "15525",
@@ -582,6 +627,10 @@
                                 "name": "Suzuki"
                             },
                             {
+                                "id": "51520",
+                                "name": "Tesla"
+                            },
+                            {
                                 "id": "70",
                                 "name": "Toyota"
                             },
@@ -590,22 +639,8 @@
                                 "name": "Volvo"
                             },
                             {
-                                "id": "74",
-                                "name": "Volkswagen"
-                            },
-                            {
                                 "id": "16351",
                                 "name": "Wiesmann"
-                            }
-                        ]
-                    },
-                    {
-                        "type": "CC",
-                        "name": "Vertragshändler Auto",
-                        "makes": [
-                            {
-                                "id": "67",
-                                "name": "Subaru"
                             }
                         ]
                     }
@@ -624,36 +659,16 @@
                         "name": "Autoglaserei"
                     },
                     {
-                        "id": "50",
-                        "name": "Autozubehör"
-                    },
-                    {
-                        "id": "220",
-                        "name": "DEKRA Siegel"
-                    },
-                    {
-                        "id": "1003",
-                        "name": "Design"
-                    },
-                    {
-                        "id": "1004",
-                        "name": "Ersatzteileexpressversand"
-                    },
-                    {
                         "id": "60",
                         "name": "Ersatzteileverkauf"
                     },
                     {
-                        "id": "70",
-                        "name": "Ersatzwagen"
-                    },
-                    {
-                        "id": "1007",
-                        "name": "Fahrwerksumbauten"
-                    },
-                    {
                         "id": "90",
                         "name": "Finanzservice"
+                    },
+                    {
+                        "id": "1009",
+                        "name": "Gabel- u. Stossdämpferservice"
                     },
                     {
                         "id": "1010",
@@ -680,16 +695,12 @@
                         "name": "Lackierung, Kunststoffbeschichtungen"
                     },
                     {
+                        "id": "1012",
+                        "name": "Leistungsprüfstand"
+                    },
+                    {
                         "id": "1032",
                         "name": "Meisterwerkstatt"
-                    },
-                    {
-                        "id": "1019",
-                        "name": "Motoreninstandsetzung"
-                    },
-                    {
-                        "id": "130",
-                        "name": "Navigationssysteme"
                     },
                     {
                         "id": "1021",
@@ -704,14 +715,6 @@
                         "name": "Schnellservice"
                     },
                     {
-                        "id": "170",
-                        "name": "Telefonverkauf"
-                    },
-                    {
-                        "id": "1026",
-                        "name": "Veredelung, Umbauten"
-                    },
-                    {
                         "id": "180",
                         "name": "Versicherungen"
                     },
@@ -722,24 +725,20 @@
                     {
                         "id": "1030",
                         "name": "Zulassungsservice"
-                    },
-                    {
-                        "id": "1031",
-                        "name": "Zylinderreparatur (Hohnen,Schleifen,Beschichten)"
                     }
                 ],
                 "heroImage": {
-                    "imageId": "9132a506-4bd2-46d5-a459-400f75ff3667",
-                    "small": "https://prod.pictures.autoscout24.net/dealer-info/17816441-original-9132a506-4bd2-46d5-a459-400f75ff3667.jpg/resize/300x200>/quality/90/",
-                    "medium": "https://prod.pictures.autoscout24.net/dealer-info/17816441-original-9132a506-4bd2-46d5-a459-400f75ff3667.jpg/resize/800x500>/quality/90/",
-                    "big": "https://prod.pictures.autoscout24.net/dealer-info/17816441-original-9132a506-4bd2-46d5-a459-400f75ff3667.jpg/resize/1200x800>/quality/90/",
-                    "url": "https://prod.pictures.autoscout24.net/dealer-info/17816441-original-9132a506-4bd2-46d5-a459-400f75ff3667.jpg/resize/1200x800>/quality/90/",
-                    "large": "https://prod.pictures.autoscout24.net/dealer-info/17816441-original-9132a506-4bd2-46d5-a459-400f75ff3667.jpg/resize/1200x800>/quality/90/"
+                    "imageId": "079996d2-b349-4407-8459-cfd7db4f8fa2",
+                    "small": "https://prod.pictures.autoscout24.net/dealer-info/22953-original-079996d2-b349-4407-8459-cfd7db4f8fa2.jpg/resize/300x200>/quality/90/",
+                    "medium": "https://prod.pictures.autoscout24.net/dealer-info/22953-original-079996d2-b349-4407-8459-cfd7db4f8fa2.jpg/resize/800x500>/quality/90/",
+                    "big": "https://prod.pictures.autoscout24.net/dealer-info/22953-original-079996d2-b349-4407-8459-cfd7db4f8fa2.jpg/resize/1200x800>/quality/90/",
+                    "url": "https://prod.pictures.autoscout24.net/dealer-info/22953-original-079996d2-b349-4407-8459-cfd7db4f8fa2.jpg/resize/1200x800>/quality/90/",
+                    "large": "https://prod.pictures.autoscout24.net/dealer-info/22953-original-079996d2-b349-4407-8459-cfd7db4f8fa2.jpg/resize/1200x800>/quality/90/"
                 },
                 "logo": {
-                    "imageId": "540dc244-7fc9-41f1-b457-b98961859edf",
-                    "small": "https://prod.pictures.autoscout24.net/dealer-info/17816441-original-540dc244-7fc9-41f1-b457-b98961859edf.jpg/resize/130x39>/quality/90/",
-                    "url": "https://prod.pictures.autoscout24.net/dealer-info/17816441-original-540dc244-7fc9-41f1-b457-b98961859edf.jpg/resize/130x39>/quality/90/"
+                    "imageId": "b4ab4d21-a6b7-4ec3-8130-c8c3d2ec6b97",
+                    "small": "https://prod.pictures.autoscout24.net/dealer-info/22953-original-b4ab4d21-a6b7-4ec3-8130-c8c3d2ec6b97.png/resize/130x39>/quality/90/",
+                    "url": "https://prod.pictures.autoscout24.net/dealer-info/22953-original-b4ab4d21-a6b7-4ec3-8130-c8c3d2ec6b97.png/resize/130x39>/quality/90/"
                 },
                 "branches": []
             },
@@ -1431,14 +1430,14 @@
                 "routes.imprint": "impressum"
             },
             "routes": {
-                "home": "/haendler/auto-wolter-und-pro-motors-faber-automobile",
-                "aboutus": "/haendler/auto-wolter-und-pro-motors-faber-automobile/ueber-uns",
-                "list": "/haendler/auto-wolter-und-pro-motors-faber-automobile/fahrzeuge",
-                "rating": "/haendler/auto-wolter-und-pro-motors-faber-automobile/bewertungen",
-                "imprint": "/haendler/auto-wolter-und-pro-motors-faber-automobile/impressum"
+                "home": "/haendler/autohaus-uzun",
+                "aboutus": "/haendler/autohaus-uzun/ueber-uns",
+                "list": "/haendler/autohaus-uzun/fahrzeuge",
+                "rating": "/haendler/autohaus-uzun/bewertungen",
+                "imprint": "/haendler/autohaus-uzun/impressum"
             },
             "showcarUiFragmentHtml": "\n<head>\n  <meta name=\"theme-color\" content=\"#FFFFFF\" />\n  <script data-pagespeed-no-defer pagespeed_no_defer>\n    /*! (C) WebReflection Mit Style License */\n(function(e,t,n,r){\"use strict\";function rt(e,t){for(var n=0,r=e.length;n<r;n++)vt(e[n],t)}function it(e){for(var t=0,n=e.length,r;t<n;t++)r=e[t],nt(r,b[ot(r)])}function st(e){return function(t){j(t)&&(vt(t,e),rt(t.querySelectorAll(w),e))}}function ot(e){var t=e.getAttribute(\"is\"),n=e.nodeName.toUpperCase(),r=S.call(y,t?v+t.toUpperCase():d+n);return t&&-1<r&&!ut(n,t)?-1:r}function ut(e,t){return-1<w.indexOf(e+'[is=\"'+t+'\"]')}function at(e){var t=e.currentTarget,n=e.attrChange,r=e.attrName,i=e.target;Q&&(!i||i===t)&&t.attributeChangedCallback&&r!==\"style\"&&e.prevValue!==e.newValue&&t.attributeChangedCallback(r,n===e[a]?null:e.prevValue,n===e[l]?null:e.newValue)}function ft(e){var t=st(e);return function(e){X.push(t,e.target)}}function lt(e){K&&(K=!1,e.currentTarget.removeEventListener(h,lt)),rt((e.target||t).querySelectorAll(w),e.detail===o?o:s),B&&pt()}function ct(e,t){var n=this;q.call(n,e,t),G.call(n,{target:n})}function ht(e,t){D(e,t),et?et.observe(e,z):(J&&(e.setAttribute=ct,e[i]=Z(e),e.addEventListener(p,G)),e.addEventListener(c,at)),e.createdCallback&&Q&&(e.created=!0,e.createdCallback(),e.created=!1)}function pt(){for(var e,t=0,n=F.length;t<n;t++)e=F[t],E.contains(e)||(n--,F.splice(t--,1),vt(e,o))}function dt(e){throw new Error(\"A \"+e+\" type is already registered\")}function vt(e,t){var n,r=ot(e);-1<r&&(tt(e,b[r]),r=0,t===s&&!e[s]?(e[o]=!1,e[s]=!0,r=1,B&&S.call(F,e)<0&&F.push(e)):t===o&&!e[o]&&(e[s]=!1,e[o]=!0,r=1),r&&(n=e[t+\"Callback\"])&&n.call(e))}if(r in t)return;var i=\"__\"+r+(Math.random()*1e5>>0),s=\"attached\",o=\"detached\",u=\"extends\",a=\"ADDITION\",f=\"MODIFICATION\",l=\"REMOVAL\",c=\"DOMAttrModified\",h=\"DOMContentLoaded\",p=\"DOMSubtreeModified\",d=\"<\",v=\"=\",m=/^[A-Z][A-Z0-9]*(?:-[A-Z0-9]+)+$/,g=[\"ANNOTATION-XML\",\"COLOR-PROFILE\",\"FONT-FACE\",\"FONT-FACE-SRC\",\"FONT-FACE-URI\",\"FONT-FACE-FORMAT\",\"FONT-FACE-NAME\",\"MISSING-GLYPH\"],y=[],b=[],w=\"\",E=t.documentElement,S=y.indexOf||function(e){for(var t=this.length;t--&&this[t]!==e;);return t},x=n.prototype,T=x.hasOwnProperty,N=x.isPrototypeOf,C=n.defineProperty,k=n.getOwnPropertyDescriptor,L=n.getOwnPropertyNames,A=n.getPrototypeOf,O=n.setPrototypeOf,M=!!n.__proto__,_=n.create||function mt(e){return e?(mt.prototype=e,new mt):this},D=O||(M?function(e,t){return e.__proto__=t,e}:L&&k?function(){function e(e,t){for(var n,r=L(t),i=0,s=r.length;i<s;i++)n=r[i],T.call(e,n)||C(e,n,k(t,n))}return function(t,n){do e(t,n);while((n=A(n))&&!N.call(n,t));return t}}():function(e,t){for(var n in t)e[n]=t[n];return e}),P=e.MutationObserver||e.WebKitMutationObserver,H=(e.HTMLElement||e.Element||e.Node).prototype,B=!N.call(H,E),j=B?function(e){return e.nodeType===1}:function(e){return N.call(H,e)},F=B&&[],I=H.cloneNode,q=H.setAttribute,R=H.removeAttribute,U=t.createElement,z=P&&{attributes:!0,characterData:!0,attributeOldValue:!0},W=P||function(e){J=!1,E.removeEventListener(c,W)},X,V=e.requestAnimationFrame||e.webkitRequestAnimationFrame||e.mozRequestAnimationFrame||e.msRequestAnimationFrame||function(e){setTimeout(e,10)},$=!1,J=!0,K=!0,Q=!0,G,Y,Z,et,tt,nt;O||M?(tt=function(e,t){N.call(t,e)||ht(e,t)},nt=ht):(tt=function(e,t){e[i]||(e[i]=n(!0),ht(e,t))},nt=tt),B?(J=!1,function(){var e=k(H,\"addEventListener\"),t=e.value,n=function(e){var t=new CustomEvent(c,{bubbles:!0});t.attrName=e,t.prevValue=this.getAttribute(e),t.newValue=null,t[l]=t.attrChange=2,R.call(this,e),this.dispatchEvent(t)},r=function(e,t){var n=this.hasAttribute(e),r=n&&this.getAttribute(e),i=new CustomEvent(c,{bubbles:!0});q.call(this,e,t),i.attrName=e,i.prevValue=n?r:null,i.newValue=t,n?i[f]=i.attrChange=1:i[a]=i.attrChange=0,this.dispatchEvent(i)},s=function(e){var t=e.currentTarget,n=t[i],r=e.propertyName,s;n.hasOwnProperty(r)&&(n=n[r],s=new CustomEvent(c,{bubbles:!0}),s.attrName=n.name,s.prevValue=n.value||null,s.newValue=n.value=t[r]||null,s.prevValue==null?s[a]=s.attrChange=0:s[f]=s.attrChange=1,t.dispatchEvent(s))};e.value=function(e,o,u){e===c&&this.attributeChangedCallback&&this.setAttribute!==r&&(this[i]={className:{name:\"class\",value:this.className}},this.setAttribute=r,this.removeAttribute=n,t.call(this,\"propertychange\",s)),t.call(this,e,o,u)},C(H,\"addEventListener\",e)}()):P||(E.addEventListener(c,W),E.setAttribute(i,1),E.removeAttribute(i),J&&(G=function(e){var t=this,n,r,s;if(t===e.target){n=t[i],t[i]=r=Z(t);for(s in r){if(!(s in n))return Y(0,t,s,n[s],r[s],a);if(r[s]!==n[s])return Y(1,t,s,n[s],r[s],f)}for(s in n)if(!(s in r))return Y(2,t,s,n[s],r[s],l)}},Y=function(e,t,n,r,i,s){var o={attrChange:e,currentTarget:t,attrName:n,prevValue:r,newValue:i};o[s]=e,at(o)},Z=function(e){for(var t,n,r={},i=e.attributes,s=0,o=i.length;s<o;s++)t=i[s],n=t.name,n!==\"setAttribute\"&&(r[n]=t.value);return r})),t[r]=function(n,r){c=n.toUpperCase(),$||($=!0,P?(et=function(e,t){function n(e,t){for(var n=0,r=e.length;n<r;t(e[n++]));}return new P(function(r){for(var i,s,o,u=0,a=r.length;u<a;u++)i=r[u],i.type===\"childList\"?(n(i.addedNodes,e),n(i.removedNodes,t)):(s=i.target,Q&&s.attributeChangedCallback&&i.attributeName!==\"style\"&&(o=s.getAttribute(i.attributeName),o!==i.oldValue&&s.attributeChangedCallback(i.attributeName,i.oldValue,o)))})}(st(s),st(o)),et.observe(t,{childList:!0,subtree:!0})):(X=[],V(function E(){while(X.length)X.shift().call(null,X.shift());V(E)}),t.addEventListener(\"DOMNodeInserted\",ft(s)),t.addEventListener(\"DOMNodeRemoved\",ft(o))),t.addEventListener(h,lt),t.addEventListener(\"readystatechange\",lt),t.createElement=function(e,n){var r=U.apply(t,arguments),i=\"\"+e,s=S.call(y,(n?v:d)+(n||i).toUpperCase()),o=-1<s;return n&&(r.setAttribute(\"is\",n=n.toLowerCase()),o&&(o=ut(i.toUpperCase(),n))),Q=!t.createElement.innerHTMLHelper,o&&nt(r,b[s]),r},H.cloneNode=function(e){var t=I.call(this,!!e),n=ot(t);return-1<n&&nt(t,b[n]),e&&it(t.querySelectorAll(w)),t}),-2<S.call(y,v+c)+S.call(y,d+c)&&dt(n);if(!m.test(c)||-1<S.call(g,c))throw new Error(\"The type \"+n+\" is invalid\");var i=function(){return f?t.createElement(l,c):t.createElement(l)},a=r||x,f=T.call(a,u),l=f?r[u].toUpperCase():c,c,p;return f&&-1<S.call(y,d+l)&&dt(l),p=y.push((f?v:d)+c)-1,w=w.concat(w.length?\",\":\"\",f?l+'[is=\"'+n.toLowerCase()+'\"]':l),i.prototype=b[p]=T.call(a,\"prototype\")?a.prototype:_(H),rt(t.querySelectorAll(w),s),i}})(window,document,Object,\"registerElement\");\n  </script>\n  <link rel=\"stylesheet\" href=\"/assets/external/showcar-ui/master/315/showcar-ui.css\" />\n</head>\n<script src=\"/assets/external/showcar-ui/master/315/showcar-ui.js\"></script>\n\n\n",
-            "jsonLd": "{\"@context\":\"http://schema.org\",\"@type\":\"AutoDealer\",\"name\":\"AUTO WOLTER  &  PRO-MOTORS  FABER  Automobile\",\"description\":\"Seit 1990 freie KFZ-Meister-Werkstatt für alle Fabrikate !\\nSeit 1997 SUBARU Vertragspartner !\\nSeit 1999 zertifizierter Gasumrüster für Fahrzeuge !\\nSUBARU Service , Ersatzteile , Reparaturen und Verkauf von Neuwagen , Vorführwagen und Gebrauchtwagen !\\nVertrieb von meistergeprüften Gebrauchtwagen !\\nInzahlungnahme und freier Ankauf von Gebrauchtwagen !\\nUnfallinstandsetzungen !\\nGlasbruch- und Steinschlagschädenbeseitigung !\\nSmart-Repair von Karroserie- , Lack- und Glasschäden !\\nReifenservice (inkl. Einlagerung von Sommer- und Winterreifen) !\\nKFZ-Versicherungen und Finanzdienstleistungen \\nTÜV & DEKRA  Stützpunkt\\n\\nSeit 2020 Erweiterung und Ausbau des Fahrzeughandel mit Neufahrzeugen anderer Marken aus Deutschland und weiteren EU-Ländern.\\nFreier Ankauf und Verkauf meistergeprüften Gebrauchtfahrzeugen aller Typen und Marken. \\nHierzu bieten wir Hilfe bei Finanzierungs- und Leasingfragen nach Ihren Vorstellungen , gerne  mit auch Garantien für Ihr Wunschfahrzeug bis 12 Jahren Fahrzeugalter .\\nHilfe zu allen Fragen rund ums Fahrzeug mit Consulting und Beratung durch die PRO - MOTORS  Faber Automobile !\\nWir freuen uns auf Sie und möchten Sie nur vollkommen zufrieden stellen !\\nBitte sprechen Sie uns an und besuchen uns.   \\n\\n\\n\\n\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Ludwig-Erhard-Straße 9\",\"addressLocality\":\"Bergheim\",\"postalCode\":\"50129\",\"addressCountry\":\"DE\"},\"contactPoint\":[{\"@type\":\"ContactPoint\",\"name\":\"Hajo Faber\",\"email\":\"h.faber@autowolter.de\",\"contactType\":\"customer support\",\"telephone\":\"+49 (0)1637-298478\"}],\"brand\":[\"Subaru\",\"Audi\",\"BMW\",\"Citroen\",\"Dacia\",\"Daihatsu\",\"Fiat\",\"Ford\",\"Honda\",\"Hyundai\",\"Infiniti\",\"Jaguar\",\"Jeep\",\"Kia\",\"Land Rover\",\"Lexus\",\"Mazda\",\"Mercedes-Benz\",\"MINI\",\"Mitsubishi\",\"Nissan\",\"Oldtimer\",\"Opel\",\"Peugeot\",\"Porsche\",\"Renault\",\"Saab\",\"SEAT\",\"Skoda\",\"smart\",\"Subaru\",\"Suzuki\",\"Toyota\",\"Volvo\",\"Volkswagen\",\"Wiesmann\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":4.96,\"ratingCount\":273},\"hasOfferCatalog\":{\"@type\":\"OfferCatalog\",\"name\":\"additional services\",\"itemListElement\":[{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Abgastest\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Autoelektrik\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Autoglaserei\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Autozubehör\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"DEKRA Siegel\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Design\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Ersatzteileexpressversand\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Ersatzteileverkauf\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Ersatzwagen\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Fahrwerksumbauten\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Finanzservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Gutachten bei Unfallfahrzeugen\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Hauptuntersuchung\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Karosserie\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Klimaanlagenservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Lackiererei\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Lackierung, Kunststoffbeschichtungen\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Meisterwerkstatt\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Motoreninstandsetzung\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Navigationssysteme\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Reifenservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Reifenverkauf\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Schnellservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Telefonverkauf\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Veredelung, Umbauten\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Versicherungen\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Werkstatt\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Zulassungsservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Zylinderreparatur (Hohnen,Schleifen,Beschichten)\"}}]},\"openingHours\":[\"Mo 08:00-17:00\",\"Tu 08:00-17:00\",\"We 08:00-17:00\",\"Th 08:00-17:00\",\"Fr 08:00-15:30\"],\"member\":[],\"url\":\"https://www.autoscout24.de/haendler/auto-wolter-und-pro-motors-faber-automobile\",\"image\":\"https://prod.pictures.autoscout24.net/dealer-info/17816441-original-9132a506-4bd2-46d5-a459-400f75ff3667.jpg/resize/1200x800>/quality/90/\",\"logo\":\"https://prod.pictures.autoscout24.net/dealer-info/17816441-original-540dc244-7fc9-41f1-b457-b98961859edf.jpg/resize/130x39>/quality/90/\",\"telephone\":\"+49 (0)2238 - 945128\",\"faxNumber\":\"+49 (0)2238 - 945129\"}",
+            "jsonLd": "{\"@context\":\"http://schema.org\",\"@type\":\"AutoDealer\",\"name\":\"Autohaus Uzun\",\"description\":\"Auto Ankaufstation Hannover\\nAutohaus UZUN® seit 1991\\n\\n- ständig  ca. 250 Fahrzeuge sofort verfügbar.\\n- alle Marken - alle Klassen \\n- Ankauf mit Sofortauszahlung in 30 Minuten möglich\",\"address\":{\"@type\":\"PostalAddress\",\"streetAddress\":\"Stöckenerstr. 158 (OT Stöcken)\",\"addressLocality\":\"Hannover\",\"postalCode\":\"30419\",\"addressCountry\":\"DE\"},\"contactPoint\":[{\"@type\":\"ContactPoint\",\"name\":\"Herr Andreas Dase + Sascha Reinhold\",\"email\":\"info@autohaus-uzun.de\",\"contactType\":\"customer support\",\"telephone\":\"+49 (0)5112-281144\"},{\"@type\":\"ContactPoint\",\"name\":\"Herr Andreas Dase + Sascha Reinhold\",\"email\":\"info@autohaus-uzun.de\",\"contactType\":\"customer support\",\"telephone\":\"+49 (0)5112-281144\"}],\"brand\":[\"Mercedes-Benz\",\"BMW\",\"Volkswagen\",\"Skoda\",\"SEAT\",\"Abarth\",\"Alfa Romeo\",\"Alpina\",\"Aston Martin\",\"Audi\",\"Bentley\",\"Cadillac\",\"Chevrolet\",\"Chrysler\",\"Citroen\",\"Dacia\",\"Daihatsu\",\"Daimler\",\"DS Automobiles\",\"Ferrari\",\"Fiat\",\"Ford\",\"Honda\",\"HUMMER\",\"Hyundai\",\"Infiniti\",\"Jaguar\",\"Jeep\",\"Kia\",\"Lada\",\"Lamborghini\",\"Land Rover\",\"Lexus\",\"Lotus\",\"Maserati\",\"Mazda\",\"MINI\",\"Mitsubishi\",\"Nissan\",\"Opel\",\"Peugeot\",\"Porsche\",\"Renault\",\"Rolls-Royce\",\"Rover\",\"Saab\",\"smart\",\"Subaru\",\"Suzuki\",\"Tesla\",\"Toyota\",\"Volvo\",\"Wiesmann\"],\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":4.71,\"ratingCount\":625},\"hasOfferCatalog\":{\"@type\":\"OfferCatalog\",\"name\":\"additional services\",\"itemListElement\":[{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Abgastest\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Autoelektrik\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Autoglaserei\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Ersatzteileverkauf\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Finanzservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Gabel- u. Stossdämpferservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Gutachten bei Unfallfahrzeugen\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Hauptuntersuchung\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Karosserie\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Klimaanlagenservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Lackiererei\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Lackierung, Kunststoffbeschichtungen\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Leistungsprüfstand\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Meisterwerkstatt\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Reifenservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Reifenverkauf\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Schnellservice\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Versicherungen\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Werkstatt\"}},{\"@type\":\"Offer\",\"itemOffered\":{\"@type\":\"Service\",\"name\":\"Zulassungsservice\"}}]},\"openingHours\":[\"Mo 10:00-17:30\",\"Tu 10:00-17:30\",\"We 10:00-17:30\",\"Th 10:00-17:30\",\"Fr 10:00-17:30\",\"Sa 10:00-13:30\"],\"member\":[],\"url\":\"https://www.autoscout24.de/haendler/autohaus-uzun\",\"image\":\"https://prod.pictures.autoscout24.net/dealer-info/22953-original-079996d2-b349-4407-8459-cfd7db4f8fa2.jpg/resize/1200x800>/quality/90/\",\"logo\":\"https://prod.pictures.autoscout24.net/dealer-info/22953-original-b4ab4d21-a6b7-4ec3-8130-c8c3d2ec6b97.png/resize/130x39>/quality/90/\",\"telephone\":\"+49 (0)511 - 2281144\",\"faxNumber\":\"+49 (0)511 - 2281143\"}",
             "optimizelyVariations": {
                 "experimentMock": null
             },
@@ -1447,8 +1446,8 @@
             "language": "de",
             "topRatingToggle": false,
             "listingSummaryCompactAssetsFragmentHtml": "\n<head>\n    <link rel=\"stylesheet\" href=\"/assets/classified-detail/stylesheets/94f7805c7d785b4807de15ef9d8b41b2-listing-summary-item-compact.min.css\">\n    <link rel=\"stylesheet\" href=\"/assets/classified-detail/stylesheets/f763cb53f257ff2007430c04ab8786df-listing-summary-gallery.min.css\">\n    \n    \n        <script src=\"/assets/classified-detail/js/cbee149abc1fc1715266db306aa9fed4-as24-footnotes.min.js\"></script>\n    \n    <script src=\"/assets/classified-detail/js/5944ccf40f63c455a935e18e8accaec3-listing-summary-item-compact.min.js\"></script>\n    <script src=\"/assets/classified-detail/js/9286d19a044a32bbd17ee8e6d69fd64c-listing-summary-item-superdeal.min.js\"></script>\n</head>\n",
-            "newOffersFragmentHtml": "<div class=\"dp-offers\">\n      <div class=\"dp-offers__item\">\n            \n\n\n<a href=\"/angebote/volkswagen-golf-match-supersauber-fr-insp-pdc-alu-wkr-garantie-benzin-silber-788ff8b0-51b8-4e09-96ba-b1f893fb83fa\" class=\"cldt-summary-compact-item\" data-item-name=\"listing-summary-compact-container\">\n    <div class=\"cldt-summary-image\" data-item-name=\"image\" data-cs-mask>\n        <as24-listing-summary-image data-item-name=\"image\"\n                            data-images-count=\"1\"\n                            data-image=\"Some(https://prod.pictures.autoscout24.net/listing-images/788ff8b0-51b8-4e09-96ba-b1f893fb83fa_a913d8dc-42e4-4d59-93ea-6bada7042358.jpg/{size}.{format})\"\n                            data-image-sizes=\"60x45,120x90,250x188 ,289x217,360x270,420x315,540x405,640x480,800x600,1280x960,2560x1920\"\n                            data-listing-id=\"788ff8b0-51b8-4e09-96ba-b1f893fb83fa\"\n                            class=\"native-lazy shine listing-image\">\n    \n        <picture>\n            <source media=\"(max-width: 420px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/788ff8b0-51b8-4e09-96ba-b1f893fb83fa_a913d8dc-42e4-4d59-93ea-6bada7042358.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 640px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/788ff8b0-51b8-4e09-96ba-b1f893fb83fa_a913d8dc-42e4-4d59-93ea-6bada7042358.jpg/640x480.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 767px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/788ff8b0-51b8-4e09-96ba-b1f893fb83fa_a913d8dc-42e4-4d59-93ea-6bada7042358.jpg/800x600.jpg\" type=\"image/jpeg\">\n            <source media=\"(min-width: 768px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/788ff8b0-51b8-4e09-96ba-b1f893fb83fa_a913d8dc-42e4-4d59-93ea-6bada7042358.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <img src=\"https://prod.pictures.autoscout24.net/listing-images/788ff8b0-51b8-4e09-96ba-b1f893fb83fa_a913d8dc-42e4-4d59-93ea-6bada7042358.jpg/420x315.jpg\" loading=\"lazy\">\n        </picture>\n    \n\n    \n    \n\n</as24-listing-summary-image>\n    </div>\n\n    <h2 class=\"cldt-summary-headline sc-ellipsis sc-font-m\"  data-item-name=\"headline\">\n        <span class=\"sc-font-bold cldt-summary-make-model\">Volkswagen Golf</span>\n        \n            <span class=\"cldt-summary-version\">MATCH supersauber fr.Insp.PDC..Alu.WKR.Garantie</span>\n        \n    </h2>\n\n    <div class=\"cldt-summary\">\n        <div class=\"cldt-summary-pricing \" data-item-name='pricing'>\n            \n                \n                    \n\n<span class=\"cldt-price sc-font-l sc-font-bold\" data-item-name=\"price\">\n        € 9.380,-\n        \n\n\n</span>\n\n                \n                \n            \n        </div>\n\n        <div class=\"cldt-summary-vehicle-data \" data-item-name=\"vehicle-data\" >\n            \n\n\n\n\n\n\n\n\n\n\n\n\n<ul data-item-name=\"vehicle-details\"  class=\"\">\n    \n    \n    \n    <li  data-type=\"mileage\" >\n        109.200 km\n        \n    </li>\n\n    \n    <li  data-type=\"first-registration\" >\n        11/2012\n        \n    </li>\n\n    \n    <li   >\n        77 kW (105 PS)\n        \n    </li>\n\n    \n    <li  data-type=\"offer-type\" >\n        Gebraucht\n        \n    </li>\n\n    \n    <li  data-type=\"previous-owners\" >\n        2 Fahrzeughalter\n        \n    </li>\n\n    \n    <li  data-type=\"transmission-type\" >\n        Schaltgetriebe\n        \n    </li>\n\n    \n    <li   class=\"summary_item_no_bottom_line\">\n        Benzin\n        \n    </li>\n\n    \n    <li  data-type=\"combined-consumption\" class=\"summary_item_no_bottom_line\">\n        5,2 l/100 km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    <li  data-type=\"co2-emission\" class=\"summary_item_no_bottom_line\">\n        121 g/km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    \n    \n\n</ul>\n\n        </div>\n    </div>\n    \n        <div class=\"cldt-summary-seller sc-font-s sc-ellipsis\" data-item-name=\"seller\" data-cs-mask>\n            \n\n    <span data-test=\"seller-type\">Händler,&nbsp;</span>\n\n<span>DE-50129 Bergheim</span>\n\n        </div>\n    \n\n</a>\n\n          </div>,<div class=\"dp-offers__item\">\n            \n\n\n<a href=\"/angebote/skoda-fabia-fresh-kombi-navi-shz-ahk-1-hd-klima-alu-subersaube-benzin-blau-8544caa6-08ca-4de4-9158-3eab069d74ca\" class=\"cldt-summary-compact-item\" data-item-name=\"listing-summary-compact-container\">\n    <div class=\"cldt-summary-image\" data-item-name=\"image\" data-cs-mask>\n        <as24-listing-summary-image data-item-name=\"image\"\n                            data-images-count=\"1\"\n                            data-image=\"Some(https://prod.pictures.autoscout24.net/listing-images/8544caa6-08ca-4de4-9158-3eab069d74ca_d3dfa983-8d0e-4c79-a9c2-37109b0d64d9.jpg/{size}.{format})\"\n                            data-image-sizes=\"60x45,120x90,250x188 ,289x217,360x270,420x315,540x405,640x480,800x600,1280x960,2560x1920\"\n                            data-listing-id=\"8544caa6-08ca-4de4-9158-3eab069d74ca\"\n                            class=\"native-lazy shine listing-image\">\n    \n        <picture>\n            <source media=\"(max-width: 420px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/8544caa6-08ca-4de4-9158-3eab069d74ca_d3dfa983-8d0e-4c79-a9c2-37109b0d64d9.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 640px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/8544caa6-08ca-4de4-9158-3eab069d74ca_d3dfa983-8d0e-4c79-a9c2-37109b0d64d9.jpg/640x480.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 767px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/8544caa6-08ca-4de4-9158-3eab069d74ca_d3dfa983-8d0e-4c79-a9c2-37109b0d64d9.jpg/800x600.jpg\" type=\"image/jpeg\">\n            <source media=\"(min-width: 768px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/8544caa6-08ca-4de4-9158-3eab069d74ca_d3dfa983-8d0e-4c79-a9c2-37109b0d64d9.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <img src=\"https://prod.pictures.autoscout24.net/listing-images/8544caa6-08ca-4de4-9158-3eab069d74ca_d3dfa983-8d0e-4c79-a9c2-37109b0d64d9.jpg/420x315.jpg\" loading=\"lazy\">\n        </picture>\n    \n\n    \n    \n\n</as24-listing-summary-image>\n    </div>\n\n    <h2 class=\"cldt-summary-headline sc-ellipsis sc-font-m\"  data-item-name=\"headline\">\n        <span class=\"sc-font-bold cldt-summary-make-model\">Skoda Fabia</span>\n        \n            <span class=\"cldt-summary-version\">FRESH KOMBI NAVI SHZ AHK 1.HD KLIMA ALU SUBERSAUBE</span>\n        \n    </h2>\n\n    <div class=\"cldt-summary\">\n        <div class=\"cldt-summary-pricing \" data-item-name='pricing'>\n            \n                \n                    \n\n<span class=\"cldt-price sc-font-l sc-font-bold\" data-item-name=\"price\">\n        € 9.190,-\n        \n\n\n</span>\n\n                \n                \n            \n        </div>\n\n        <div class=\"cldt-summary-vehicle-data \" data-item-name=\"vehicle-data\" >\n            \n\n\n\n\n\n\n\n\n\n\n\n\n<ul data-item-name=\"vehicle-details\"  class=\"\">\n    \n    \n    \n    <li  data-type=\"mileage\" >\n        84.600 km\n        \n    </li>\n\n    \n    <li  data-type=\"first-registration\" >\n        06/2013\n        \n    </li>\n\n    \n    <li   >\n        63 kW (86 PS)\n        \n    </li>\n\n    \n    <li  data-type=\"offer-type\" >\n        Gebraucht\n        \n    </li>\n\n    \n    <li  data-type=\"previous-owners\" >\n        1 Fahrzeughalter\n        \n    </li>\n\n    \n    <li  data-type=\"transmission-type\" >\n        Schaltgetriebe\n        \n    </li>\n\n    \n    <li   class=\"summary_item_no_bottom_line\">\n        Benzin\n        \n    </li>\n\n    \n    <li  data-type=\"combined-consumption\" class=\"summary_item_no_bottom_line\">\n        5,2 l/100 km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    <li  data-type=\"co2-emission\" class=\"summary_item_no_bottom_line\">\n        123 g/km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    \n    \n\n</ul>\n\n        </div>\n    </div>\n    \n        <div class=\"cldt-summary-seller sc-font-s sc-ellipsis\" data-item-name=\"seller\" data-cs-mask>\n            \n\n    <span data-test=\"seller-type\">Händler,&nbsp;</span>\n\n<span>DE-50129 Bergheim</span>\n\n        </div>\n    \n\n</a>\n\n          </div>,<div class=\"dp-offers__item\">\n            \n\n\n<a href=\"/angebote/hyundai-i40-kombi-1-6-subersauber-alle-inspektionen-alu-benzin-weiss-a3a84990-d500-4adc-aacc-eda6817d75ef\" class=\"cldt-summary-compact-item\" data-item-name=\"listing-summary-compact-container\">\n    <div class=\"cldt-summary-image\" data-item-name=\"image\" data-cs-mask>\n        <as24-listing-summary-image data-item-name=\"image\"\n                            data-images-count=\"1\"\n                            data-image=\"Some(https://prod.pictures.autoscout24.net/listing-images/a3a84990-d500-4adc-aacc-eda6817d75ef_66f750f9-5bb8-4f36-8722-2eba840ae75c.jpg/{size}.{format})\"\n                            data-image-sizes=\"60x45,120x90,250x188 ,289x217,360x270,420x315,540x405,640x480,800x600,1280x960,2560x1920\"\n                            data-listing-id=\"a3a84990-d500-4adc-aacc-eda6817d75ef\"\n                            class=\"native-lazy shine listing-image\">\n    \n        <picture>\n            <source media=\"(max-width: 420px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/a3a84990-d500-4adc-aacc-eda6817d75ef_66f750f9-5bb8-4f36-8722-2eba840ae75c.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 640px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/a3a84990-d500-4adc-aacc-eda6817d75ef_66f750f9-5bb8-4f36-8722-2eba840ae75c.jpg/640x480.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 767px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/a3a84990-d500-4adc-aacc-eda6817d75ef_66f750f9-5bb8-4f36-8722-2eba840ae75c.jpg/800x600.jpg\" type=\"image/jpeg\">\n            <source media=\"(min-width: 768px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/a3a84990-d500-4adc-aacc-eda6817d75ef_66f750f9-5bb8-4f36-8722-2eba840ae75c.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <img src=\"https://prod.pictures.autoscout24.net/listing-images/a3a84990-d500-4adc-aacc-eda6817d75ef_66f750f9-5bb8-4f36-8722-2eba840ae75c.jpg/420x315.jpg\" loading=\"lazy\">\n        </picture>\n    \n\n    \n    \n\n</as24-listing-summary-image>\n    </div>\n\n    <h2 class=\"cldt-summary-headline sc-ellipsis sc-font-m\"  data-item-name=\"headline\">\n        <span class=\"sc-font-bold cldt-summary-make-model\">Hyundai i40</span>\n        \n            <span class=\"cldt-summary-version\">KOMBI  1.6  SUBERSAUBER ALLE INSPEKTIONEN ALU</span>\n        \n    </h2>\n\n    <div class=\"cldt-summary\">\n        <div class=\"cldt-summary-pricing \" data-item-name='pricing'>\n            \n                \n                    \n\n<span class=\"cldt-price sc-font-l sc-font-bold\" data-item-name=\"price\">\n        € 10.980,-\n        \n\n\n</span>\n\n                \n                \n            \n        </div>\n\n        <div class=\"cldt-summary-vehicle-data \" data-item-name=\"vehicle-data\" >\n            \n\n\n\n\n\n\n\n\n\n\n\n\n<ul data-item-name=\"vehicle-details\"  class=\"\">\n    \n    \n    \n    <li  data-type=\"mileage\" >\n        112.200 km\n        \n    </li>\n\n    \n    <li  data-type=\"first-registration\" >\n        04/2015\n        \n    </li>\n\n    \n    <li   >\n        99 kW (135 PS)\n        \n    </li>\n\n    \n    <li  data-type=\"offer-type\" >\n        Gebraucht\n        \n    </li>\n\n    \n    <li  data-type=\"previous-owners\" >\n        3 Fahrzeughalter\n        \n    </li>\n\n    \n    <li  data-type=\"transmission-type\" >\n        Schaltgetriebe\n        \n    </li>\n\n    \n    <li   class=\"summary_item_no_bottom_line\">\n        Benzin\n        \n    </li>\n\n    \n    <li  data-type=\"combined-consumption\" class=\"summary_item_no_bottom_line\">\n        6,4 l/100 km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    <li  data-type=\"co2-emission\" class=\"summary_item_no_bottom_line\">\n        149 g/km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    \n    \n\n</ul>\n\n        </div>\n    </div>\n    \n        <div class=\"cldt-summary-seller sc-font-s sc-ellipsis\" data-item-name=\"seller\" data-cs-mask>\n            \n\n    <span data-test=\"seller-type\">Händler,&nbsp;</span>\n\n<span>DE-50129 Bergheim</span>\n\n        </div>\n    \n\n</a>\n\n          </div>\n    </div>",
-            "metaDescription": "Finden Sie alle Informationen zu AUTO WOLTER  &  PRO-MOTORS  FABER  Automobile in Bergheim auf AutoScout24. ✓ Fahrzeuge ✓ Bewertungen ✓ Öffnungszeiten.",
+            "newOffersFragmentHtml": "<div class=\"dp-offers\">\n      <div class=\"dp-offers__item\">\n            \n\n\n<a href=\"/angebote/opel-insignia-st-edition4x4-automatik-leder-xenon-ahk-benzin-schwarz-2dfa7b12-632c-4e95-9351-11b1857e759f\" class=\"cldt-summary-compact-item\" data-item-name=\"listing-summary-compact-container\">\n    <div class=\"cldt-summary-image\" data-item-name=\"image\" data-cs-mask>\n        <as24-listing-summary-image data-item-name=\"image\"\n                            data-images-count=\"1\"\n                            data-image=\"Some(https://prod.pictures.autoscout24.net/listing-images/2dfa7b12-632c-4e95-9351-11b1857e759f_d0b0581e-b24f-450b-b802-bfab263ac2e2.jpg/{size}.{format})\"\n                            data-image-sizes=\"60x45,120x90,250x188 ,289x217,360x270,420x315,540x405,640x480,800x600,1280x960,2560x1920\"\n                            data-listing-id=\"2dfa7b12-632c-4e95-9351-11b1857e759f\"\n                            class=\"native-lazy shine listing-image\">\n    \n        <picture>\n            <source media=\"(max-width: 420px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/2dfa7b12-632c-4e95-9351-11b1857e759f_d0b0581e-b24f-450b-b802-bfab263ac2e2.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 640px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/2dfa7b12-632c-4e95-9351-11b1857e759f_d0b0581e-b24f-450b-b802-bfab263ac2e2.jpg/640x480.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 767px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/2dfa7b12-632c-4e95-9351-11b1857e759f_d0b0581e-b24f-450b-b802-bfab263ac2e2.jpg/800x600.jpg\" type=\"image/jpeg\">\n            <source media=\"(min-width: 768px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/2dfa7b12-632c-4e95-9351-11b1857e759f_d0b0581e-b24f-450b-b802-bfab263ac2e2.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <img src=\"https://prod.pictures.autoscout24.net/listing-images/2dfa7b12-632c-4e95-9351-11b1857e759f_d0b0581e-b24f-450b-b802-bfab263ac2e2.jpg/420x315.jpg\" loading=\"lazy\">\n        </picture>\n    \n\n    \n    \n\n</as24-listing-summary-image>\n    </div>\n\n    <h2 class=\"cldt-summary-headline sc-ellipsis sc-font-m\"  data-item-name=\"headline\">\n        <span class=\"sc-font-bold cldt-summary-make-model\">Opel Insignia</span>\n        \n            <span class=\"cldt-summary-version\">ST Edition4x4 Automatik Leder Xenon AHK</span>\n        \n    </h2>\n\n    <div class=\"cldt-summary\">\n        <div class=\"cldt-summary-pricing \" data-item-name='pricing'>\n            \n                \n                    \n\n<span class=\"cldt-price sc-font-l sc-font-bold\" data-item-name=\"price\">\n        € 4.990,-\n        \n\n\n</span>\n\n                \n                \n            \n        </div>\n\n        <div class=\"cldt-summary-vehicle-data \" data-item-name=\"vehicle-data\" >\n            \n\n\n\n\n\n\n\n\n\n\n\n\n<ul data-item-name=\"vehicle-details\"  class=\"\">\n    \n    \n    \n    <li  data-type=\"mileage\" >\n        208.361 km\n        \n    </li>\n\n    \n    <li  data-type=\"first-registration\" >\n        05/2009\n        \n    </li>\n\n    \n    <li   >\n        162 kW (220 PS)\n        \n    </li>\n\n    \n    <li  data-type=\"offer-type\" >\n        Gebraucht\n        \n    </li>\n\n    \n    <li  data-type=\"previous-owners\" >\n        2 Fahrzeughalter\n        \n    </li>\n\n    \n    <li  data-type=\"transmission-type\" >\n        Automatik\n        \n    </li>\n\n    \n    <li   class=\"summary_item_no_bottom_line\">\n        Benzin\n        \n    </li>\n\n    \n    <li  data-type=\"combined-consumption\" class=\"summary_item_no_bottom_line\">\n        8,9 l/100 km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    <li  data-type=\"co2-emission\" class=\"summary_item_no_bottom_line\">\n        233 g/km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    \n    \n\n</ul>\n\n        </div>\n    </div>\n    \n        <div class=\"cldt-summary-seller sc-font-s sc-ellipsis\" data-item-name=\"seller\" data-cs-mask>\n            \n\n    <span data-test=\"seller-type\">Händler,&nbsp;</span>\n\n<span>DE-30419 Hannover</span>\n\n        </div>\n    \n\n</a>\n\n          </div>,<div class=\"dp-offers__item\">\n            \n\n\n<a href=\"/angebote/dacia-duster-prestige-4x2-aus-1-hand-leder-klimaanlage-diesel-silber-7d37066a-0db6-460c-b263-34a351aaa108\" class=\"cldt-summary-compact-item\" data-item-name=\"listing-summary-compact-container\">\n    <div class=\"cldt-summary-image\" data-item-name=\"image\" data-cs-mask>\n        <as24-listing-summary-image data-item-name=\"image\"\n                            data-images-count=\"1\"\n                            data-image=\"Some(https://prod.pictures.autoscout24.net/listing-images/7d37066a-0db6-460c-b263-34a351aaa108_cbfd642f-b716-44a0-9510-e9171fd224f2.jpg/{size}.{format})\"\n                            data-image-sizes=\"60x45,120x90,250x188 ,289x217,360x270,420x315,540x405,640x480,800x600,1280x960,2560x1920\"\n                            data-listing-id=\"7d37066a-0db6-460c-b263-34a351aaa108\"\n                            class=\"native-lazy shine listing-image\">\n    \n        <picture>\n            <source media=\"(max-width: 420px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/7d37066a-0db6-460c-b263-34a351aaa108_cbfd642f-b716-44a0-9510-e9171fd224f2.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 640px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/7d37066a-0db6-460c-b263-34a351aaa108_cbfd642f-b716-44a0-9510-e9171fd224f2.jpg/640x480.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 767px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/7d37066a-0db6-460c-b263-34a351aaa108_cbfd642f-b716-44a0-9510-e9171fd224f2.jpg/800x600.jpg\" type=\"image/jpeg\">\n            <source media=\"(min-width: 768px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/7d37066a-0db6-460c-b263-34a351aaa108_cbfd642f-b716-44a0-9510-e9171fd224f2.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <img src=\"https://prod.pictures.autoscout24.net/listing-images/7d37066a-0db6-460c-b263-34a351aaa108_cbfd642f-b716-44a0-9510-e9171fd224f2.jpg/420x315.jpg\" loading=\"lazy\">\n        </picture>\n    \n\n    \n    \n\n</as24-listing-summary-image>\n    </div>\n\n    <h2 class=\"cldt-summary-headline sc-ellipsis sc-font-m\"  data-item-name=\"headline\">\n        <span class=\"sc-font-bold cldt-summary-make-model\">Dacia Duster</span>\n        \n            <span class=\"cldt-summary-version\">Prestige 4x2 aus 1.Hand Leder Klimaanlage</span>\n        \n    </h2>\n\n    <div class=\"cldt-summary\">\n        <div class=\"cldt-summary-pricing \" data-item-name='pricing'>\n            \n                \n                    \n\n<span class=\"cldt-price sc-font-l sc-font-bold\" data-item-name=\"price\">\n        € 5.598,-\n        \n\n\n</span>\n\n                \n                \n            \n        </div>\n\n        <div class=\"cldt-summary-vehicle-data \" data-item-name=\"vehicle-data\" >\n            \n\n\n\n\n\n\n\n\n\n\n\n\n<ul data-item-name=\"vehicle-details\"  class=\"\">\n    \n    \n    \n    <li  data-type=\"mileage\" >\n        196.069 km\n        \n    </li>\n\n    \n    <li  data-type=\"first-registration\" >\n        09/2010\n        \n    </li>\n\n    \n    <li   >\n        79 kW (107 PS)\n        \n    </li>\n\n    \n    <li  data-type=\"offer-type\" >\n        Gebraucht\n        \n    </li>\n\n    \n    <li  data-type=\"previous-owners\" >\n        1 Fahrzeughalter\n        \n    </li>\n\n    \n    <li  data-type=\"transmission-type\" >\n        Schaltgetriebe\n        \n    </li>\n\n    \n    <li   class=\"summary_item_no_bottom_line\">\n        Diesel\n        \n    </li>\n\n    \n    <li  data-type=\"combined-consumption\" class=\"summary_item_no_bottom_line\">\n        5,3 l/100 km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    <li  data-type=\"co2-emission\" class=\"summary_item_no_bottom_line\">\n        140 g/km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    \n    \n\n</ul>\n\n        </div>\n    </div>\n    \n        <div class=\"cldt-summary-seller sc-font-s sc-ellipsis\" data-item-name=\"seller\" data-cs-mask>\n            \n\n    <span data-test=\"seller-type\">Händler,&nbsp;</span>\n\n<span>DE-30419 Hannover</span>\n\n        </div>\n    \n\n</a>\n\n          </div>,<div class=\"dp-offers__item\">\n            \n\n\n<a href=\"/angebote/volkswagen-polo-beats-5-tuerig-klima-t-leder-nur-19-998-km-benzin-schwarz-2ff59a5b-a5bd-4c51-9829-7b99d32eed0d\" class=\"cldt-summary-compact-item\" data-item-name=\"listing-summary-compact-container\">\n    <div class=\"cldt-summary-image\" data-item-name=\"image\" data-cs-mask>\n        <as24-listing-summary-image data-item-name=\"image\"\n                            data-images-count=\"1\"\n                            data-image=\"Some(https://prod.pictures.autoscout24.net/listing-images/2ff59a5b-a5bd-4c51-9829-7b99d32eed0d_947152b9-ddcc-4835-99db-5e59aef02138.jpg/{size}.{format})\"\n                            data-image-sizes=\"60x45,120x90,250x188 ,289x217,360x270,420x315,540x405,640x480,800x600,1280x960,2560x1920\"\n                            data-listing-id=\"2ff59a5b-a5bd-4c51-9829-7b99d32eed0d\"\n                            class=\"native-lazy shine listing-image\">\n    \n        <picture>\n            <source media=\"(max-width: 420px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/2ff59a5b-a5bd-4c51-9829-7b99d32eed0d_947152b9-ddcc-4835-99db-5e59aef02138.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 640px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/2ff59a5b-a5bd-4c51-9829-7b99d32eed0d_947152b9-ddcc-4835-99db-5e59aef02138.jpg/640x480.jpg\" type=\"image/jpeg\">\n            <source media=\"(max-width: 767px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/2ff59a5b-a5bd-4c51-9829-7b99d32eed0d_947152b9-ddcc-4835-99db-5e59aef02138.jpg/800x600.jpg\" type=\"image/jpeg\">\n            <source media=\"(min-width: 768px)\" srcset=\"https://prod.pictures.autoscout24.net/listing-images/2ff59a5b-a5bd-4c51-9829-7b99d32eed0d_947152b9-ddcc-4835-99db-5e59aef02138.jpg/420x315.jpg\" type=\"image/jpeg\">\n            <img src=\"https://prod.pictures.autoscout24.net/listing-images/2ff59a5b-a5bd-4c51-9829-7b99d32eed0d_947152b9-ddcc-4835-99db-5e59aef02138.jpg/420x315.jpg\" loading=\"lazy\">\n        </picture>\n    \n\n    \n    \n\n</as24-listing-summary-image>\n    </div>\n\n    <h2 class=\"cldt-summary-headline sc-ellipsis sc-font-m\"  data-item-name=\"headline\">\n        <span class=\"sc-font-bold cldt-summary-make-model\">Volkswagen Polo</span>\n        \n            <span class=\"cldt-summary-version\">beats 5 türig Klima T-Leder nur 19.998 km</span>\n        \n    </h2>\n\n    <div class=\"cldt-summary\">\n        <div class=\"cldt-summary-pricing \" data-item-name='pricing'>\n            \n                \n                    \n\n<span class=\"cldt-price sc-font-l sc-font-bold\" data-item-name=\"price\">\n        € 14.990,-\n        \n\n\n</span>\n\n                \n                \n            \n        </div>\n\n        <div class=\"cldt-summary-vehicle-data \" data-item-name=\"vehicle-data\" >\n            \n\n\n\n\n\n\n\n\n\n\n\n\n<ul data-item-name=\"vehicle-details\"  class=\"\">\n    \n    \n    \n    <li  data-type=\"mileage\" >\n        19.998 km\n        \n    </li>\n\n    \n    <li  data-type=\"first-registration\" >\n        12/2017\n        \n    </li>\n\n    \n    <li   >\n        55 kW (75 PS)\n        \n    </li>\n\n    \n    <li  data-type=\"offer-type\" >\n        Gebraucht\n        \n    </li>\n\n    \n    <li  data-type=\"previous-owners\" >\n        1 Fahrzeughalter\n        \n    </li>\n\n    \n    <li  data-type=\"transmission-type\" >\n        Schaltgetriebe\n        \n    </li>\n\n    \n    <li   class=\"summary_item_no_bottom_line\">\n        Benzin\n        \n    </li>\n\n    \n    <li  data-type=\"combined-consumption\" class=\"summary_item_no_bottom_line\">\n        4,7 l/100 km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    <li  data-type=\"co2-emission\" class=\"summary_item_no_bottom_line\">\n        108 g/km (komb.)\n        \n            <as24-footnote-item>Weitere Informationen zum offiziellen Kraftstoffverbrauch und den offiziellen spezifischen CO2-Emissionen neuer Personenkraftwagen können dem \"Leitfaden über den Kraftstoffverbrauch, die CO2-Emissionen und den Stromverbrauch neuer Personenkraftwagen\" entnommen werden, der an allen Verkaufsstellen und bei der Deutschen Automobil Treuhand GmbH unter www.dat.de unentgeltlich erhältlich ist.</as24-footnote-item>\n        \n    </li>\n\n    \n    \n    \n\n</ul>\n\n        </div>\n    </div>\n    \n        <div class=\"cldt-summary-seller sc-font-s sc-ellipsis\" data-item-name=\"seller\" data-cs-mask>\n            \n\n    <span data-test=\"seller-type\">Händler,&nbsp;</span>\n\n<span>DE-30419 Hannover</span>\n\n        </div>\n    \n\n</a>\n\n          </div>\n    </div>",
+            "metaDescription": "Finden Sie alle Informationen zu Autohaus Uzun in Hannover auf AutoScout24. ✓ Fahrzeuge ✓ Bewertungen ✓ Öffnungszeiten.",
             "trackingPageId": "home"
         },
         "__N_SSP": true
