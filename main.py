@@ -1,5 +1,6 @@
 import requests
 import json
+import uuid
 from retrying import retry
 from bs4 import BeautifulSoup
 
@@ -30,7 +31,8 @@ def map_country_code(dealer_country_code):
     return dealer_country
 
 def flush_to_disk(data):
-    with open('dealer_data.json', 'a', encoding='utf-8') as file:
+    id = uuid.uuid4()
+    with open(f'{id}_dealer_data.json', 'a', encoding='utf-8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
         #file.write('\n')
 
@@ -108,8 +110,6 @@ def collect_dealers_data(amount_of_dealers, car_brands):
     i = 1
     j = 1
     flush_interval = 100
-    with open("dealer_data.json", "w") as f:
-        pass
     while i <= int (amount_of_dealers) / size_of_page or i % size_of_page != 0:
         try:
             response = get_dealers(car_brands, i, size_of_page)
