@@ -1,8 +1,9 @@
 import requests
 import json
-import uuid
+import psycopg2
 from retrying import retry
 from bs4 import BeautifulSoup
+from config import host, user, password, db_name
 
 headers = {
     'Accept': '*/*',
@@ -29,12 +30,6 @@ def map_country_code(dealer_country_code):
     else:
         dealer_country = 'Europe'
     return dealer_country
-
-def flush_to_disk(data):
-    id = uuid.uuid4()
-    with open(f'{id}_dealer_data.json', 'a', encoding='utf-8') as file:
-        json.dump(data, file, indent=4, ensure_ascii=False)
-        #file.write('\n')
 
 def get_homepage(src):
     soup = BeautifulSoup(src, 'lxml')
@@ -83,6 +78,9 @@ def get_car_brands():
         car_brands_dump.append(car_brand)
 
     car_brands = '%2C'.join(car_brands_dump)
+    global car_brands_json
+    car_brands_json = []
+    car_brands_json = json.dumps(car_brands_dump)
     return car_brands
 
 def get_amount_of_dealers():
@@ -105,11 +103,25 @@ def get_dealer_details(dealer_link):
     return src
 
 def collect_dealers_data(amount_of_dealers, car_brands):
-    leads = []
+#    leads = []
+    connection = psycopg2.connect(
+        host=host,
+        password=password,
+        database=db_name,
+        user=user)
+    cursor = connection.cursor()
+    print("connection to database is successful!")
+    connection.autocommit = True
+
+    with connection.cursor() as cursor:
+        cursor.execute(f"""INSERT INTO sessions(leads_amount, car_brands) VALUES ('{amount_of_dealers}','{car_brands_json}')""")
+        cursor.execute(f"""SELECT max(id) FROM sessions""")
+        session_id = cursor.fetchone()[0]
+
     size_of_page = 10
     i = 1
     j = 1
-    flush_interval = 100
+#    flush_interval = 100
     while i <= int (amount_of_dealers) / size_of_page or i % size_of_page != 0:
         try:
             response = get_dealers(car_brands, i, size_of_page)
@@ -130,39 +142,36 @@ def collect_dealers_data(amount_of_dealers, car_brands):
                 dealer_zipcode = (dealer_info_page['customerAddress']['zipCode'])
                 dealer_city = (dealer_info_page['customerAddress']['city'])
                 dealer_street = (dealer_info_page['customerAddress']['street'])
-                dealer_phone_number = (dealer_info_page['callPhoneNumbers'])
+                dealer_phone_number = json.dumps(dealer_info_page['callPhoneNumbers'])
                 dealer_homepage = (dealer_info_page['homepageUrl'])
-                contact_person = (dealer_info_page['contactPersons'])
+                contact_person = json.dumps(dealer_info_page['contactPersons'])
 
                 if dealer_homepage == None:
                     dealer_homepage = get_homepage(src)
 
-                dealer_data = {
-                    'name': dealer_name, 'country': dealer_country, 'zipCode': dealer_zipcode, 'city': dealer_city,
-                    'street': dealer_street, 'phoneNumber': dealer_phone_number, 'homepage': dealer_homepage,
-                    'contactPersons': contact_person
-                }
-
-                leads.append(dealer_data)
+                with connection.cursor() as cursor:
+                    cursor.execute(
+                        f"""INSERT INTO dealers(dealer_name, session_id, country, city, street, zip_code, phone_number,contact_person) VALUES('{dealer_name.replace("'","")}','{session_id}','{dealer_country}','{dealer_city}','{dealer_street}','{dealer_zipcode}','{dealer_phone_number}','{contact_person.replace("'","")}');"""
+                    )
 
                 print(f'{j}. {dealer_name} is processed!')
                 j = j + 1
-
-                if j % flush_interval == 0 or j >= int (amount_of_dealers) + 1:
-                    flush_to_disk(leads)
-                    leads.clear()
 
         except Exception as e:
             print(f"Error processing page {i}: {e}")
             continue
 
         i = i + 1
+    with connection.cursor() as cursor:
+        cursor.execute(f"""UPDATE sessions SET status = true WHERE id = {session_id}""")
+    connection.close()
+    cursor.close()
+    print("connection is closed successfully!")
 
 def main():
     amount_of_dealers = get_amount_of_dealers()
     car_brands = get_car_brands()
     collect_dealers_data(amount_of_dealers, car_brands)
-
 
 if __name__ == '__main__':
     main()
